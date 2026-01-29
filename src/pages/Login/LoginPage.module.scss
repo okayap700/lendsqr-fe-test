@@ -1,0 +1,80 @@
+/* login page styling
+*/
+
+.loginPage {
+    display: flex;
+    min-height: 100vh;
+    background: white;
+}
+
+/* Left illustration section */
+.leftSection {
+    flex: 1;
+    padding: 60px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: #213f7d;
+}
+
+.illustration {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* rigth form section*/
+.rightSection {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formCard {
+    width: 400px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #213f7d;
+}
+
+p {
+    margin: 10px 0 30px;
+    font-size: 14px;
+    color: #545f7d;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.forgotPassword {
+    font-size: 12px;
+    font-weight: 600;
+    color: #39cdcc;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+/* Mobile repspnsivenness*/
+@media (max-width: 900px) {
+    .loginPage {
+        flex-direction: column;
+    }
+
+    .leftSection {
+        display: none;
+    }
+
+    .formCard {
+        width: 90%;
+    }
+}

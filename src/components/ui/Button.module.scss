@@ -1,0 +1,19 @@
+/** Main button style
+*/
+
+.button {
+    width: 100%;
+    padding: 14px;
+    background: #39cdcc;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    letter-spacing: 1px;
+
+    &:hover {
+        opacity: 0.9;
+    }
+}

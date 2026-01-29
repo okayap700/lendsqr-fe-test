@@ -1,0 +1,21 @@
+
+$primary-teal: #39CDCC;
+$primary-blue: #213F7D;
+$text-grey: #545F7D;
+$bg-light: #FBFBFB;
+$white: #FFFFFF;
+$border-color: rgba(33, 63, 125, 0.1);
+
+$font-main: 'Work Sans', sans-serif;
+
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin card-shadow {
+    box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
+    border: 1px solid $border-color;
+    background: $white;
+}

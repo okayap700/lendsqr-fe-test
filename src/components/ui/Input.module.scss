@@ -1,0 +1,14 @@
+/*  Styles the reusable input fields.*/
+
+.input {
+    width: 100%;
+    padding: 14px 16px;
+    border: 1px solid rgba(84, 95, 125, 0.15);
+    border-radius: 6px;
+    font-size: 14px;
+    outline: none;
+
+    &:focus {
+        border-color: #39cdcc;
+    }
+}
