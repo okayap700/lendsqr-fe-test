@@ -2109,7 +2109,7 @@
          "guarantor2": {
             "guarantorFirstname": "Dee",
             "guarantorLastname": "Barker",
-            "guarantorPhone": 08124412970,
+            "guarantorPhone": "08124412970",
             "guarantorEmail": "deebarker@zogak.com",
             "relationship": "Uncle"
          }
@@ -3811,7 +3811,7 @@
          "guarantor2": {
             "guarantorFirstname": "Josephine",
             "guarantorLastname": "Benjamin",
-            "guarantorPhone": 08186524535,
+            "guarantorPhone": "08186524535",
             "guarantorEmail": "josephinebenjamin@zogak.com",
             "relationship": "Colleague"
          }
@@ -9975,7 +9975,7 @@
          "guarantor2": {
             "guarantorFirstname": "Lorie",
             "guarantorLastname": "Lamb",
-            "guarantorPhone": 07045583451,
+            "guarantorPhone": "07045583451",
             "guarantorEmail": "lorielamb@zogak.com",
             "relationship": "Spouse"
          }
@@ -19674,7 +19674,7 @@
          "guarantor1": {
             "guarantorFirstname": "Cecile",
             "guarantorLastname": "Knox",
-            "guarantorPhone": 08117606846,
+            "guarantorPhone": "08117606846",
             "guarantorEmail": "cecileknox@zogak.com",
             "relationship": "Brother"
          },
@@ -19694,7 +19694,7 @@
       "personalInfo": {
          "firstName": "Cote",
          "lastName": "Velazquez",
-         "phoneNumber": 08114446515,
+         "phoneNumber": "08114446515",
          "email": "cotevelazquez@zogak.com",
          "bvn": 27834510009,
          "gender": "female",
@@ -19720,14 +19720,14 @@
          "guarantor1": {
             "guarantorFirstname": "Harvey",
             "guarantorLastname": "Bray",
-            "guarantorPhone": 08111408811,
+            "guarantorPhone": "08111408811",
             "guarantorEmail": "harveybray@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Hayden",
             "guarantorLastname": "Walter",
-            "guarantorPhone": 08053090444,
+            "guarantorPhone": "08053090444",
             "guarantorEmail": "haydenwalter@zogak.com",
             "relationship": "Uncle"
          }
@@ -19740,7 +19740,7 @@
       "personalInfo": {
          "firstName": "Dale",
          "lastName": "Salinas",
-         "phoneNumber": 08129793534,
+         "phoneNumber": "08129793534",
          "email": "dalesalinas@zogak.com",
          "bvn": 44299701868,
          "gender": "male",
@@ -19766,14 +19766,14 @@
          "guarantor1": {
             "guarantorFirstname": "Hutchinson",
             "guarantorLastname": "Howard",
-            "guarantorPhone": 08172121492,
+            "guarantorPhone": "08172121492",
             "guarantorEmail": "hutchinsonhoward@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Francine",
             "guarantorLastname": "Moses",
-            "guarantorPhone": 08147322483,
+            "guarantorPhone": "08147322483",
             "guarantorEmail": "francinemoses@zogak.com",
             "relationship": "Colleague"
          }
@@ -19786,7 +19786,7 @@
       "personalInfo": {
          "firstName": "Thompson",
          "lastName": "Daugherty",
-         "phoneNumber": 08020069233,
+         "phoneNumber": "08020069233",
          "email": "thompsondaugherty@zogak.com",
          "bvn": 52111758823,
          "gender": "female",
@@ -19812,14 +19812,14 @@
          "guarantor1": {
             "guarantorFirstname": "Florence",
             "guarantorLastname": "Stanton",
-            "guarantorPhone": 08189370612,
+            "guarantorPhone": "08189370612",
             "guarantorEmail": "florencestanton@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Gabrielle",
             "guarantorLastname": "Mcclure",
-            "guarantorPhone": 08195892213,
+            "guarantorPhone": "08195892213",
             "guarantorEmail": "gabriellemcclure@zogak.com",
             "relationship": "Colleague"
          }
@@ -19832,7 +19832,7 @@
       "personalInfo": {
          "firstName": "Myra",
          "lastName": "Kane",
-         "phoneNumber": 07031759179,
+         "phoneNumber": "07031759179",
          "email": "myrakane@zogak.com",
          "bvn": 28316965368,
          "gender": "male",
@@ -19858,14 +19858,14 @@
          "guarantor1": {
             "guarantorFirstname": "Kate",
             "guarantorLastname": "Ware",
-            "guarantorPhone": 08022451361,
+            "guarantorPhone": "08022451361",
             "guarantorEmail": "kateware@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Katherine",
             "guarantorLastname": "Kramer",
-            "guarantorPhone": 08171580073,
+            "guarantorPhone": "08171580073",
             "guarantorEmail": "katherinekramer@zogak.com",
             "relationship": "Colleague"
          }
@@ -19878,7 +19878,7 @@
       "personalInfo": {
          "firstName": "Rivera",
          "lastName": "Glass",
-         "phoneNumber": 07024758213,
+         "phoneNumber": "07024758213",
          "email": "riveraglass@zogak.com",
          "bvn": 23188447296,
          "gender": "male",
@@ -19904,14 +19904,14 @@
          "guarantor1": {
             "guarantorFirstname": "Vickie",
             "guarantorLastname": "Ellison",
-            "guarantorPhone": 07032277202,
+            "guarantorPhone": "07032277202",
             "guarantorEmail": "vickieellison@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Hendricks",
             "guarantorLastname": "Brooks",
-            "guarantorPhone": 07043452636,
+            "guarantorPhone": "07043452636",
             "guarantorEmail": "hendricksbrooks@zogak.com",
             "relationship": "Uncle"
          }
@@ -19924,7 +19924,7 @@
       "personalInfo": {
          "firstName": "Ashley",
          "lastName": "Bonner",
-         "phoneNumber": 07069001365,
+         "phoneNumber": "07069001365",
          "email": "ashleybonner@zogak.com",
          "bvn": 57136166075,
          "gender": "female",
@@ -19950,14 +19950,14 @@
          "guarantor1": {
             "guarantorFirstname": "Adriana",
             "guarantorLastname": "Chambers",
-            "guarantorPhone": 07056842000,
+            "guarantorPhone": "07056842000",
             "guarantorEmail": "adrianachambers@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Jodi",
             "guarantorLastname": "Byers",
-            "guarantorPhone": 07083397270,
+            "guarantorPhone": "07083397270",
             "guarantorEmail": "jodibyers@zogak.com",
             "relationship": "Uncle"
          }
@@ -19970,7 +19970,7 @@
       "personalInfo": {
          "firstName": "Koch",
          "lastName": "Chapman",
-         "phoneNumber": 08147858527,
+         "phoneNumber": "08147858527",
          "email": "kochchapman@zogak.com",
          "bvn": 38169926765,
          "gender": "male",
@@ -19996,14 +19996,14 @@
          "guarantor1": {
             "guarantorFirstname": "Burgess",
             "guarantorLastname": "Hunt",
-            "guarantorPhone": 08095000023,
+            "guarantorPhone": "08095000023",
             "guarantorEmail": "burgesshunt@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Clayton",
             "guarantorLastname": "Hensley",
-            "guarantorPhone": 08165484672,
+            "guarantorPhone": "08165484672",
             "guarantorEmail": "claytonhensley@zogak.com",
             "relationship": "Uncle"
          }
@@ -20016,7 +20016,7 @@
       "personalInfo": {
          "firstName": "Carpenter",
          "lastName": "Campos",
-         "phoneNumber": 07038324455,
+         "phoneNumber": "07038324455",
          "email": "carpentercampos@zogak.com",
          "bvn": 36578930255,
          "gender": "female",
@@ -20042,14 +20042,14 @@
          "guarantor1": {
             "guarantorFirstname": "Macdonald",
             "guarantorLastname": "Ryan",
-            "guarantorPhone": 08042042880,
+            "guarantorPhone": "08042042880",
             "guarantorEmail": "macdonaldryan@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Terrell",
             "guarantorLastname": "Chen",
-            "guarantorPhone": 08167788882,
+            "guarantorPhone": "08167788882",
             "guarantorEmail": "terrellchen@zogak.com",
             "relationship": "Uncle"
          }
@@ -20062,7 +20062,7 @@
       "personalInfo": {
          "firstName": "Burnett",
          "lastName": "Walker",
-         "phoneNumber": 07061332786,
+         "phoneNumber": "07061332786",
          "email": "burnettwalker@zogak.com",
          "bvn": 92124122437,
          "gender": "male",
@@ -20088,14 +20088,14 @@
          "guarantor1": {
             "guarantorFirstname": "Lacy",
             "guarantorLastname": "Cameron",
-            "guarantorPhone": 08150119460,
+            "guarantorPhone": "08150119460",
             "guarantorEmail": "lacycameron@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Farrell",
             "guarantorLastname": "Clark",
-            "guarantorPhone": 08091777446,
+            "guarantorPhone": "08091777446",
             "guarantorEmail": "farrellclark@zogak.com",
             "relationship": "Spouse"
          }
@@ -20108,7 +20108,7 @@
       "personalInfo": {
          "firstName": "Lilia",
          "lastName": "Swanson",
-         "phoneNumber": 07064193785,
+         "phoneNumber": "07064193785",
          "email": "liliaswanson@zogak.com",
          "bvn": 53184706274,
          "gender": "male",
@@ -20134,14 +20134,14 @@
          "guarantor1": {
             "guarantorFirstname": "Lucas",
             "guarantorLastname": "Hester",
-            "guarantorPhone": 08016544018,
+            "guarantorPhone": "08016544018",
             "guarantorEmail": "lucashester@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Ursula",
             "guarantorLastname": "Mccormick",
-            "guarantorPhone": 07043967598,
+            "guarantorPhone": "07043967598",
             "guarantorEmail": "ursulamccormick@zogak.com",
             "relationship": "Spouse"
          }
@@ -20154,7 +20154,7 @@
       "personalInfo": {
          "firstName": "Wilcox",
          "lastName": "Savage",
-         "phoneNumber": 08162781189,
+         "phoneNumber": "08162781189",
          "email": "wilcoxsavage@zogak.com",
          "bvn": 73089154710,
          "gender": "female",
@@ -20180,14 +20180,14 @@
          "guarantor1": {
             "guarantorFirstname": "Letitia",
             "guarantorLastname": "Christensen",
-            "guarantorPhone": 08136911700,
+            "guarantorPhone": "08136911700",
             "guarantorEmail": "letitiachristensen@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Marquez",
             "guarantorLastname": "Irwin",
-            "guarantorPhone": 08178850707,
+            "guarantorPhone": "08178850707",
             "guarantorEmail": "marquezirwin@zogak.com",
             "relationship": "Colleague"
          }
@@ -20200,7 +20200,7 @@
       "personalInfo": {
          "firstName": "Benton",
          "lastName": "West",
-         "phoneNumber": 07089527505,
+         "phoneNumber": "07089527505",
          "email": "bentonwest@zogak.com",
          "bvn": 34473609549,
          "gender": "female",
@@ -20226,14 +20226,14 @@
          "guarantor1": {
             "guarantorFirstname": "Paulette",
             "guarantorLastname": "Nolan",
-            "guarantorPhone": 08082166635,
+            "guarantorPhone": "08082166635",
             "guarantorEmail": "paulettenolan@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Hubbard",
             "guarantorLastname": "Bowers",
-            "guarantorPhone": 08091525329,
+            "guarantorPhone": "08091525329",
             "guarantorEmail": "hubbardbowers@zogak.com",
             "relationship": "Colleague"
          }
@@ -20246,7 +20246,7 @@
       "personalInfo": {
          "firstName": "Judy",
          "lastName": "Mullins",
-         "phoneNumber": 08094875989,
+         "phoneNumber": "08094875989",
          "email": "judymullins@zogak.com",
          "bvn": 57623259696,
          "gender": "female",
@@ -20272,14 +20272,14 @@
          "guarantor1": {
             "guarantorFirstname": "Bond",
             "guarantorLastname": "Martin",
-            "guarantorPhone": 08089138299,
+            "guarantorPhone": "08089138299",
             "guarantorEmail": "bondmartin@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Blanche",
             "guarantorLastname": "Kemp",
-            "guarantorPhone": 08051139759,
+            "guarantorPhone": "08051139759",
             "guarantorEmail": "blanchekemp@zogak.com",
             "relationship": "Spouse"
          }
@@ -20292,7 +20292,7 @@
       "personalInfo": {
          "firstName": "Stokes",
          "lastName": "Slater",
-         "phoneNumber": 08136751758,
+         "phoneNumber": "08136751758",
          "email": "stokesslater@zogak.com",
          "bvn": 22413408374,
          "gender": "male",
@@ -20318,14 +20318,14 @@
          "guarantor1": {
             "guarantorFirstname": "Reynolds",
             "guarantorLastname": "Stone",
-            "guarantorPhone": 08065540275,
+            "guarantorPhone": "08065540275",
             "guarantorEmail": "reynoldsstone@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Wendi",
             "guarantorLastname": "Bass",
-            "guarantorPhone": 08179622629,
+            "guarantorPhone": "08179622629",
             "guarantorEmail": "wendibass@zogak.com",
             "relationship": "Uncle"
          }
@@ -20338,7 +20338,7 @@
       "personalInfo": {
          "firstName": "Crystal",
          "lastName": "Brewer",
-         "phoneNumber": 07099189268,
+         "phoneNumber": "07099189268",
          "email": "crystalbrewer@zogak.com",
          "bvn": 82329653759,
          "gender": "male",
@@ -20364,14 +20364,14 @@
          "guarantor1": {
             "guarantorFirstname": "Kathryn",
             "guarantorLastname": "Mccoy",
-            "guarantorPhone": 08134076387,
+            "guarantorPhone": "08134076387",
             "guarantorEmail": "kathrynmccoy@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Jacklyn",
             "guarantorLastname": "Fitzgerald",
-            "guarantorPhone": 07051759863,
+            "guarantorPhone": "07051759863",
             "guarantorEmail": "jacklynfitzgerald@zogak.com",
             "relationship": "Colleague"
          }
@@ -20384,7 +20384,7 @@
       "personalInfo": {
          "firstName": "Workman",
          "lastName": "Patel",
-         "phoneNumber": 08116805224,
+         "phoneNumber": "08116805224",
          "email": "workmanpatel@zogak.com",
          "bvn": 14364506181,
          "gender": "male",
@@ -20410,14 +20410,14 @@
          "guarantor1": {
             "guarantorFirstname": "Melton",
             "guarantorLastname": "Mckenzie",
-            "guarantorPhone": 08130282322,
+            "guarantorPhone": "08130282322",
             "guarantorEmail": "meltonmckenzie@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Della",
             "guarantorLastname": "Tran",
-            "guarantorPhone": 08046835444,
+            "guarantorPhone": "08046835444",
             "guarantorEmail": "dellatran@zogak.com",
             "relationship": "Spouse"
          }
@@ -20430,7 +20430,7 @@
       "personalInfo": {
          "firstName": "Ryan",
          "lastName": "Sosa",
-         "phoneNumber": 07037767390,
+         "phoneNumber": "07037767390",
          "email": "ryansosa@zogak.com",
          "bvn": 59227039905,
          "gender": "male",
@@ -20456,14 +20456,14 @@
          "guarantor1": {
             "guarantorFirstname": "Paige",
             "guarantorLastname": "Merrill",
-            "guarantorPhone": 07026649988,
+            "guarantorPhone": "07026649988",
             "guarantorEmail": "paigemerrill@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Freida",
             "guarantorLastname": "Mcgee",
-            "guarantorPhone": 07041275945,
+            "guarantorPhone": "07041275945",
             "guarantorEmail": "freidamcgee@zogak.com",
             "relationship": "Spouse"
          }
@@ -20476,7 +20476,7 @@
       "personalInfo": {
          "firstName": "Kristine",
          "lastName": "Horton",
-         "phoneNumber": 07082726498,
+         "phoneNumber": "07082726498",
          "email": "kristinehorton@zogak.com",
          "bvn": 54643915860,
          "gender": "female",
@@ -20502,14 +20502,14 @@
          "guarantor1": {
             "guarantorFirstname": "Sanchez",
             "guarantorLastname": "Ayala",
-            "guarantorPhone": 08056894935,
+            "guarantorPhone": "08056894935",
             "guarantorEmail": "sanchezayala@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Mari",
             "guarantorLastname": "Mercado",
-            "guarantorPhone": 07050671323,
+            "guarantorPhone": "07050671323",
             "guarantorEmail": "marimercado@zogak.com",
             "relationship": "Spouse"
          }
@@ -20522,7 +20522,7 @@
       "personalInfo": {
          "firstName": "Mollie",
          "lastName": "Mann",
-         "phoneNumber": 07069390523,
+         "phoneNumber": "07069390523",
          "email": "molliemann@zogak.com",
          "bvn": 16623010066,
          "gender": "female",
@@ -20548,14 +20548,14 @@
          "guarantor1": {
             "guarantorFirstname": "Lidia",
             "guarantorLastname": "Norton",
-            "guarantorPhone": 07043333997,
+            "guarantorPhone": "07043333997",
             "guarantorEmail": "lidianorton@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Watts",
             "guarantorLastname": "Byrd",
-            "guarantorPhone": 07033193774,
+            "guarantorPhone": "07033193774",
             "guarantorEmail": "wattsbyrd@zogak.com",
             "relationship": "Colleague"
          }
@@ -20568,7 +20568,7 @@
       "personalInfo": {
          "firstName": "Colon",
          "lastName": "Sanchez",
-         "phoneNumber": 08086390251,
+         "phoneNumber": "08086390251",
          "email": "colonsanchez@zogak.com",
          "bvn": 32333602401,
          "gender": "female",
@@ -20594,14 +20594,14 @@
          "guarantor1": {
             "guarantorFirstname": "Rowe",
             "guarantorLastname": "Reynolds",
-            "guarantorPhone": 07091925559,
+            "guarantorPhone": "07091925559",
             "guarantorEmail": "rowereynolds@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Stacy",
             "guarantorLastname": "Higgins",
-            "guarantorPhone": 08024317199,
+            "guarantorPhone": "08024317199",
             "guarantorEmail": "stacyhiggins@zogak.com",
             "relationship": "Colleague"
          }
@@ -20614,7 +20614,7 @@
       "personalInfo": {
          "firstName": "Romero",
          "lastName": "Ingram",
-         "phoneNumber": 07085033550,
+         "phoneNumber": "07085033550",
          "email": "romeroingram@zogak.com",
          "bvn": 57953443550,
          "gender": "male",
@@ -20640,14 +20640,14 @@
          "guarantor1": {
             "guarantorFirstname": "Becker",
             "guarantorLastname": "Woodward",
-            "guarantorPhone": 08124541267,
+            "guarantorPhone": "08124541267",
             "guarantorEmail": "beckerwoodward@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Graves",
             "guarantorLastname": "Hess",
-            "guarantorPhone": 08153111640,
+            "guarantorPhone": "08153111640",
             "guarantorEmail": "graveshess@zogak.com",
             "relationship": "Spouse"
          }
@@ -20660,7 +20660,7 @@
       "personalInfo": {
          "firstName": "Morrow",
          "lastName": "Henson",
-         "phoneNumber": 08064942607,
+         "phoneNumber": "08064942607",
          "email": "morrowhenson@zogak.com",
          "bvn": 49584791979,
          "gender": "male",
@@ -20686,14 +20686,14 @@
          "guarantor1": {
             "guarantorFirstname": "Schmidt",
             "guarantorLastname": "Page",
-            "guarantorPhone": 07059114876,
+            "guarantorPhone": "07059114876",
             "guarantorEmail": "schmidtpage@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Yang",
             "guarantorLastname": "Sargent",
-            "guarantorPhone": 08079833013,
+            "guarantorPhone": "08079833013",
             "guarantorEmail": "yangsargent@zogak.com",
             "relationship": "Uncle"
          }
@@ -20706,7 +20706,7 @@
       "personalInfo": {
          "firstName": "Olga",
          "lastName": "Mosley",
-         "phoneNumber": 08159454911,
+         "phoneNumber": "08159454911",
          "email": "olgamosley@zogak.com",
          "bvn": 69549391263,
          "gender": "male",
@@ -20732,14 +20732,14 @@
          "guarantor1": {
             "guarantorFirstname": "Casey",
             "guarantorLastname": "Phillips",
-            "guarantorPhone": 08146316459,
+            "guarantorPhone": "08146316459",
             "guarantorEmail": "caseyphillips@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Vance",
             "guarantorLastname": "Wyatt",
-            "guarantorPhone": 08026692968,
+            "guarantorPhone": "08026692968",
             "guarantorEmail": "vancewyatt@zogak.com",
             "relationship": "Spouse"
          }
@@ -20752,7 +20752,7 @@
       "personalInfo": {
          "firstName": "Ina",
          "lastName": "Stuart",
-         "phoneNumber": 07050544653,
+         "phoneNumber": "07050544653",
          "email": "inastuart@zogak.com",
          "bvn": 59850238225,
          "gender": "female",
@@ -20778,14 +20778,14 @@
          "guarantor1": {
             "guarantorFirstname": "Maryanne",
             "guarantorLastname": "Langley",
-            "guarantorPhone": 08115146764,
+            "guarantorPhone": "08115146764",
             "guarantorEmail": "maryannelangley@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Liliana",
             "guarantorLastname": "Williams",
-            "guarantorPhone": 07021246744,
+            "guarantorPhone": "07021246744",
             "guarantorEmail": "lilianawilliams@zogak.com",
             "relationship": "Colleague"
          }
@@ -20798,7 +20798,7 @@
       "personalInfo": {
          "firstName": "Jordan",
          "lastName": "Hudson",
-         "phoneNumber": 08046484807,
+         "phoneNumber": "08046484807",
          "email": "jordanhudson@zogak.com",
          "bvn": 41009733016,
          "gender": "female",
@@ -20824,14 +20824,14 @@
          "guarantor1": {
             "guarantorFirstname": "Nadine",
             "guarantorLastname": "Alexander",
-            "guarantorPhone": 08182815756,
+            "guarantorPhone": "08182815756",
             "guarantorEmail": "nadinealexander@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Osborne",
             "guarantorLastname": "Crawford",
-            "guarantorPhone": 08156205726,
+            "guarantorPhone": "08156205726",
             "guarantorEmail": "osbornecrawford@zogak.com",
             "relationship": "Colleague"
          }
@@ -20844,7 +20844,7 @@
       "personalInfo": {
          "firstName": "Therese",
          "lastName": "Wright",
-         "phoneNumber": 08083563536,
+         "phoneNumber": "08083563536",
          "email": "theresewright@zogak.com",
          "bvn": 69857004979,
          "gender": "female",
@@ -20870,14 +20870,14 @@
          "guarantor1": {
             "guarantorFirstname": "Janice",
             "guarantorLastname": "Huffman",
-            "guarantorPhone": 08063130347,
+            "guarantorPhone": "08063130347",
             "guarantorEmail": "janicehuffman@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Moon",
             "guarantorLastname": "Berger",
-            "guarantorPhone": 07054316960,
+            "guarantorPhone": "07054316960",
             "guarantorEmail": "moonberger@zogak.com",
             "relationship": "Colleague"
          }
@@ -20890,7 +20890,7 @@
       "personalInfo": {
          "firstName": "Jan",
          "lastName": "Garza",
-         "phoneNumber": 07012037787,
+         "phoneNumber": "07012037787",
          "email": "jangarza@zogak.com",
          "bvn": 54895195536,
          "gender": "male",
@@ -20916,14 +20916,14 @@
          "guarantor1": {
             "guarantorFirstname": "Rita",
             "guarantorLastname": "Mullen",
-            "guarantorPhone": 08127657225,
+            "guarantorPhone": "08127657225",
             "guarantorEmail": "ritamullen@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Bobbie",
             "guarantorLastname": "Manning",
-            "guarantorPhone": 08049983148,
+            "guarantorPhone": "08049983148",
             "guarantorEmail": "bobbiemanning@zogak.com",
             "relationship": "Colleague"
          }
@@ -20936,7 +20936,7 @@
       "personalInfo": {
          "firstName": "Tina",
          "lastName": "Holmes",
-         "phoneNumber": 08193818393,
+         "phoneNumber": "08193818393",
          "email": "tinaholmes@zogak.com",
          "bvn": 90963697923,
          "gender": "male",
@@ -20962,14 +20962,14 @@
          "guarantor1": {
             "guarantorFirstname": "Inez",
             "guarantorLastname": "Mayo",
-            "guarantorPhone": 08036612485,
+            "guarantorPhone": "08036612485",
             "guarantorEmail": "inezmayo@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Rollins",
             "guarantorLastname": "Booth",
-            "guarantorPhone": 08148472144,
+            "guarantorPhone": "08148472144",
             "guarantorEmail": "rollinsbooth@zogak.com",
             "relationship": "Spouse"
          }
@@ -20982,7 +20982,7 @@
       "personalInfo": {
          "firstName": "Sharron",
          "lastName": "Castro",
-         "phoneNumber": 08186122914,
+         "phoneNumber": "08186122914",
          "email": "sharroncastro@zogak.com",
          "bvn": 71017439229,
          "gender": "female",
@@ -21008,14 +21008,14 @@
          "guarantor1": {
             "guarantorFirstname": "Evans",
             "guarantorLastname": "Boyer",
-            "guarantorPhone": 08027750986,
+            "guarantorPhone": "08027750986",
             "guarantorEmail": "evansboyer@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Shelton",
             "guarantorLastname": "Pennington",
-            "guarantorPhone": 08028659104,
+            "guarantorPhone": "08028659104",
             "guarantorEmail": "sheltonpennington@zogak.com",
             "relationship": "Colleague"
          }
@@ -21028,7 +21028,7 @@
       "personalInfo": {
          "firstName": "Mcneil",
          "lastName": "Leblanc",
-         "phoneNumber": 07028161657,
+         "phoneNumber": "07028161657",
          "email": "mcneilleblanc@zogak.com",
          "bvn": 43611312270,
          "gender": "female",
@@ -21054,14 +21054,14 @@
          "guarantor1": {
             "guarantorFirstname": "Kelly",
             "guarantorLastname": "Mcfarland",
-            "guarantorPhone": 07014494726,
+            "guarantorPhone": "07014494726",
             "guarantorEmail": "kellymcfarland@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Dillon",
             "guarantorLastname": "French",
-            "guarantorPhone": 07040211494,
+            "guarantorPhone": "07040211494",
             "guarantorEmail": "dillonfrench@zogak.com",
             "relationship": "Colleague"
          }
@@ -21074,7 +21074,7 @@
       "personalInfo": {
          "firstName": "Coffey",
          "lastName": "Blevins",
-         "phoneNumber": 08050779993,
+         "phoneNumber": "08050779993",
          "email": "coffeyblevins@zogak.com",
          "bvn": 17496162065,
          "gender": "male",
@@ -21100,14 +21100,14 @@
          "guarantor1": {
             "guarantorFirstname": "Rosalie",
             "guarantorLastname": "Wiley",
-            "guarantorPhone": 08080502381,
+            "guarantorPhone": "08080502381",
             "guarantorEmail": "rosaliewiley@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Hampton",
             "guarantorLastname": "Peters",
-            "guarantorPhone": 08158773563,
+            "guarantorPhone": "08158773563",
             "guarantorEmail": "hamptonpeters@zogak.com",
             "relationship": "Spouse"
          }
@@ -21120,7 +21120,7 @@
       "personalInfo": {
          "firstName": "Navarro",
          "lastName": "Walton",
-         "phoneNumber": 08097608861,
+         "phoneNumber": "08097608861",
          "email": "navarrowalton@zogak.com",
          "bvn": 29027200445,
          "gender": "male",
@@ -21146,14 +21146,14 @@
          "guarantor1": {
             "guarantorFirstname": "Farmer",
             "guarantorLastname": "Simmons",
-            "guarantorPhone": 07052240913,
+            "guarantorPhone": "07052240913",
             "guarantorEmail": "farmersimmons@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Hilary",
             "guarantorLastname": "Walsh",
-            "guarantorPhone": 08073605692,
+            "guarantorPhone": "08073605692",
             "guarantorEmail": "hilarywalsh@zogak.com",
             "relationship": "Colleague"
          }
@@ -21166,7 +21166,7 @@
       "personalInfo": {
          "firstName": "Concepcion",
          "lastName": "Noble",
-         "phoneNumber": 07074274149,
+         "phoneNumber": "07074274149",
          "email": "concepcionnoble@zogak.com",
          "bvn": 15679982608,
          "gender": "female",
@@ -21192,14 +21192,14 @@
          "guarantor1": {
             "guarantorFirstname": "Bonnie",
             "guarantorLastname": "Weber",
-            "guarantorPhone": 07078802602,
+            "guarantorPhone": "07078802602",
             "guarantorEmail": "bonnieweber@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Lauren",
             "guarantorLastname": "Dean",
-            "guarantorPhone": 08198889550,
+            "guarantorPhone": "08198889550",
             "guarantorEmail": "laurendean@zogak.com",
             "relationship": "Uncle"
          }
@@ -21212,7 +21212,7 @@
       "personalInfo": {
          "firstName": "Santana",
          "lastName": "Curry",
-         "phoneNumber": 08064553740,
+         "phoneNumber": "08064553740",
          "email": "santanacurry@zogak.com",
          "bvn": 93595087435,
          "gender": "male",
@@ -21238,14 +21238,14 @@
          "guarantor1": {
             "guarantorFirstname": "Porter",
             "guarantorLastname": "Booker",
-            "guarantorPhone": 07040818335,
+            "guarantorPhone": "07040818335",
             "guarantorEmail": "porterbooker@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Roxie",
             "guarantorLastname": "Barber",
-            "guarantorPhone": 08175825074,
+            "guarantorPhone": "08175825074",
             "guarantorEmail": "roxiebarber@zogak.com",
             "relationship": "Colleague"
          }
@@ -21258,7 +21258,7 @@
       "personalInfo": {
          "firstName": "Joanna",
          "lastName": "Hernandez",
-         "phoneNumber": 07038023590,
+         "phoneNumber": "07038023590",
          "email": "joannahernandez@zogak.com",
          "bvn": 17531754011,
          "gender": "female",
@@ -21284,14 +21284,14 @@
          "guarantor1": {
             "guarantorFirstname": "Bowen",
             "guarantorLastname": "Bradford",
-            "guarantorPhone": 07031153078,
+            "guarantorPhone": "07031153078",
             "guarantorEmail": "bowenbradford@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Tonya",
             "guarantorLastname": "Andrews",
-            "guarantorPhone": 08158653558,
+            "guarantorPhone": "08158653558",
             "guarantorEmail": "tonyaandrews@zogak.com",
             "relationship": "Spouse"
          }
@@ -21304,7 +21304,7 @@
       "personalInfo": {
          "firstName": "Ray",
          "lastName": "Mercer",
-         "phoneNumber": 08132829135,
+         "phoneNumber": "08132829135",
          "email": "raymercer@zogak.com",
          "bvn": 99588708494,
          "gender": "male",
@@ -21330,14 +21330,14 @@
          "guarantor1": {
             "guarantorFirstname": "Ava",
             "guarantorLastname": "Soto",
-            "guarantorPhone": 08116092235,
+            "guarantorPhone": "08116092235",
             "guarantorEmail": "avasoto@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Matilda",
             "guarantorLastname": "Montgomery",
-            "guarantorPhone": 08016304655,
+            "guarantorPhone": "08016304655",
             "guarantorEmail": "matildamontgomery@zogak.com",
             "relationship": "Colleague"
          }
@@ -21350,7 +21350,7 @@
       "personalInfo": {
          "firstName": "Webster",
          "lastName": "Munoz",
-         "phoneNumber": 07069100503,
+         "phoneNumber": "07069100503",
          "email": "webstermunoz@zogak.com",
          "bvn": 36932088357,
          "gender": "male",
@@ -21376,14 +21376,14 @@
          "guarantor1": {
             "guarantorFirstname": "Emily",
             "guarantorLastname": "Wilson",
-            "guarantorPhone": 08140325183,
+            "guarantorPhone": "08140325183",
             "guarantorEmail": "emilywilson@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Mcknight",
             "guarantorLastname": "Casey",
-            "guarantorPhone": 08010874747,
+            "guarantorPhone": "08010874747",
             "guarantorEmail": "mcknightcasey@zogak.com",
             "relationship": "Spouse"
          }
@@ -21396,7 +21396,7 @@
       "personalInfo": {
          "firstName": "Craig",
          "lastName": "Dunlap",
-         "phoneNumber": 08095105060,
+         "phoneNumber": "08095105060",
          "email": "craigdunlap@zogak.com",
          "bvn": 42028907340,
          "gender": "male",
@@ -21422,14 +21422,14 @@
          "guarantor1": {
             "guarantorFirstname": "Greta",
             "guarantorLastname": "Rivers",
-            "guarantorPhone": 08090549001,
+            "guarantorPhone": "08090549001",
             "guarantorEmail": "gretarivers@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Emilia",
             "guarantorLastname": "Rich",
-            "guarantorPhone": 08193631033,
+            "guarantorPhone": "08193631033",
             "guarantorEmail": "emiliarich@zogak.com",
             "relationship": "Colleague"
          }
@@ -21442,7 +21442,7 @@
       "personalInfo": {
          "firstName": "Wright",
          "lastName": "Cooke",
-         "phoneNumber": 07063196188,
+         "phoneNumber": "07063196188",
          "email": "wrightcooke@zogak.com",
          "bvn": 79509028539,
          "gender": "female",
@@ -21468,14 +21468,14 @@
          "guarantor1": {
             "guarantorFirstname": "Isabel",
             "guarantorLastname": "Lamb",
-            "guarantorPhone": 07021757035,
+            "guarantorPhone": "07021757035",
             "guarantorEmail": "isabellamb@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Byers",
             "guarantorLastname": "Jenkins",
-            "guarantorPhone": 07038006334,
+            "guarantorPhone": "07038006334",
             "guarantorEmail": "byersjenkins@zogak.com",
             "relationship": "Colleague"
          }
@@ -21488,7 +21488,7 @@
       "personalInfo": {
          "firstName": "Pearl",
          "lastName": "Mills",
-         "phoneNumber": 07029058883,
+         "phoneNumber": "07029058883",
          "email": "pearlmills@zogak.com",
          "bvn": 80397419304,
          "gender": "female",
@@ -21514,14 +21514,14 @@
          "guarantor1": {
             "guarantorFirstname": "Gracie",
             "guarantorLastname": "Hawkins",
-            "guarantorPhone": 07023758548,
+            "guarantorPhone": "07023758548",
             "guarantorEmail": "graciehawkins@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Ramos",
             "guarantorLastname": "Randolph",
-            "guarantorPhone": 07068859196,
+            "guarantorPhone": "07068859196",
             "guarantorEmail": "ramosrandolph@zogak.com",
             "relationship": "Spouse"
          }
@@ -21534,7 +21534,7 @@
       "personalInfo": {
          "firstName": "Taylor",
          "lastName": "Woods",
-         "phoneNumber": 07045091020,
+         "phoneNumber": "07045091020",
          "email": "taylorwoods@zogak.com",
          "bvn": 50304898071,
          "gender": "female",
@@ -21560,14 +21560,14 @@
          "guarantor1": {
             "guarantorFirstname": "Samantha",
             "guarantorLastname": "Flores",
-            "guarantorPhone": 08081554224,
+            "guarantorPhone": "08081554224",
             "guarantorEmail": "samanthaflores@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Magdalena",
             "guarantorLastname": "Hubbard",
-            "guarantorPhone": 08192531356,
+            "guarantorPhone": "08192531356",
             "guarantorEmail": "magdalenahubbard@zogak.com",
             "relationship": "Spouse"
          }
@@ -21580,7 +21580,7 @@
       "personalInfo": {
          "firstName": "Erma",
          "lastName": "Lester",
-         "phoneNumber": 08035726397,
+         "phoneNumber": "08035726397",
          "email": "ermalester@zogak.com",
          "bvn": 35893860296,
          "gender": "female",
@@ -21606,14 +21606,14 @@
          "guarantor1": {
             "guarantorFirstname": "Fernandez",
             "guarantorLastname": "Mack",
-            "guarantorPhone": 08152231930,
+            "guarantorPhone": "08152231930",
             "guarantorEmail": "fernandezmack@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Nell",
             "guarantorLastname": "Hartman",
-            "guarantorPhone": 08145458020,
+            "guarantorPhone": "08145458020",
             "guarantorEmail": "nellhartman@zogak.com",
             "relationship": "Uncle"
          }
@@ -21626,7 +21626,7 @@
       "personalInfo": {
          "firstName": "Benson",
          "lastName": "Marquez",
-         "phoneNumber": 08054479726,
+         "phoneNumber": "08054479726",
          "email": "bensonmarquez@zogak.com",
          "bvn": 74414564359,
          "gender": "female",
@@ -21652,14 +21652,14 @@
          "guarantor1": {
             "guarantorFirstname": "Shelley",
             "guarantorLastname": "Prince",
-            "guarantorPhone": 08012314947,
+            "guarantorPhone": "08012314947",
             "guarantorEmail": "shelleyprince@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Ida",
             "guarantorLastname": "Murray",
-            "guarantorPhone": 08123355905,
+            "guarantorPhone": "08123355905",
             "guarantorEmail": "idamurray@zogak.com",
             "relationship": "Colleague"
          }
@@ -21672,7 +21672,7 @@
       "personalInfo": {
          "firstName": "Aurora",
          "lastName": "Bauer",
-         "phoneNumber": 08036493481,
+         "phoneNumber": "08036493481",
          "email": "aurorabauer@zogak.com",
          "bvn": 96331627649,
          "gender": "male",
@@ -21698,14 +21698,14 @@
          "guarantor1": {
             "guarantorFirstname": "Hanson",
             "guarantorLastname": "Palmer",
-            "guarantorPhone": 08156004479,
+            "guarantorPhone": "08156004479",
             "guarantorEmail": "hansonpalmer@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Dejesus",
             "guarantorLastname": "Morrow",
-            "guarantorPhone": 07062139250,
+            "guarantorPhone": "07062139250",
             "guarantorEmail": "dejesusmorrow@zogak.com",
             "relationship": "Uncle"
          }
@@ -21718,7 +21718,7 @@
       "personalInfo": {
          "firstName": "Reese",
          "lastName": "Vega",
-         "phoneNumber": 08163724755,
+         "phoneNumber": "08163724755",
          "email": "reesevega@zogak.com",
          "bvn": 85554263669,
          "gender": "male",
@@ -21744,14 +21744,14 @@
          "guarantor1": {
             "guarantorFirstname": "Stephenson",
             "guarantorLastname": "Hutchinson",
-            "guarantorPhone": 07086405585,
+            "guarantorPhone": "07086405585",
             "guarantorEmail": "stephensonhutchinson@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Natalia",
             "guarantorLastname": "Davidson",
-            "guarantorPhone": 08085788905,
+            "guarantorPhone": "08085788905",
             "guarantorEmail": "nataliadavidson@zogak.com",
             "relationship": "Colleague"
          }
@@ -21764,7 +21764,7 @@
       "personalInfo": {
          "firstName": "Herring",
          "lastName": "Duffy",
-         "phoneNumber": 08094119053,
+         "phoneNumber": "08094119053",
          "email": "herringduffy@zogak.com",
          "bvn": 89892805066,
          "gender": "female",
@@ -21790,14 +21790,14 @@
          "guarantor1": {
             "guarantorFirstname": "Kelley",
             "guarantorLastname": "Johnston",
-            "guarantorPhone": 07095355832,
+            "guarantorPhone": "07095355832",
             "guarantorEmail": "kelleyjohnston@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Collier",
             "guarantorLastname": "Stark",
-            "guarantorPhone": 08032944324,
+            "guarantorPhone": "08032944324",
             "guarantorEmail": "collierstark@zogak.com",
             "relationship": "Uncle"
          }
@@ -21810,7 +21810,7 @@
       "personalInfo": {
          "firstName": "Lacey",
          "lastName": "Cardenas",
-         "phoneNumber": 08155104686,
+         "phoneNumber": "08155104686",
          "email": "laceycardenas@zogak.com",
          "bvn": 77522040510,
          "gender": "female",
@@ -21836,14 +21836,14 @@
          "guarantor1": {
             "guarantorFirstname": "Briana",
             "guarantorLastname": "Figueroa",
-            "guarantorPhone": 08092682194,
+            "guarantorPhone": "08092682194",
             "guarantorEmail": "brianafigueroa@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Briggs",
             "guarantorLastname": "Dickerson",
-            "guarantorPhone": 08197669663,
+            "guarantorPhone": "08197669663",
             "guarantorEmail": "briggsdickerson@zogak.com",
             "relationship": "Uncle"
          }
@@ -21856,7 +21856,7 @@
       "personalInfo": {
          "firstName": "Cunningham",
          "lastName": "Benson",
-         "phoneNumber": 08180134122,
+         "phoneNumber": "08180134122",
          "email": "cunninghambenson@zogak.com",
          "bvn": 51262697002,
          "gender": "female",
@@ -21882,14 +21882,14 @@
          "guarantor1": {
             "guarantorFirstname": "Rodriquez",
             "guarantorLastname": "Gallegos",
-            "guarantorPhone": 08071431433,
+            "guarantorPhone": "08071431433",
             "guarantorEmail": "rodriquezgallegos@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Elliott",
             "guarantorLastname": "Mccarty",
-            "guarantorPhone": 07090714592,
+            "guarantorPhone": "07090714592",
             "guarantorEmail": "elliottmccarty@zogak.com",
             "relationship": "Colleague"
          }
@@ -21902,7 +21902,7 @@
       "personalInfo": {
          "firstName": "Whitley",
          "lastName": "Abbott",
-         "phoneNumber": 08156699293,
+         "phoneNumber": "08156699293",
          "email": "whitleyabbott@zogak.com",
          "bvn": 19426086710,
          "gender": "female",
@@ -21928,14 +21928,14 @@
          "guarantor1": {
             "guarantorFirstname": "Trujillo",
             "guarantorLastname": "Buchanan",
-            "guarantorPhone": 07036959274,
+            "guarantorPhone": "07036959274",
             "guarantorEmail": "trujillobuchanan@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Nona",
             "guarantorLastname": "Nguyen",
-            "guarantorPhone": 08034376446,
+            "guarantorPhone": "08034376446",
             "guarantorEmail": "nonanguyen@zogak.com",
             "relationship": "Spouse"
          }
@@ -21948,7 +21948,7 @@
       "personalInfo": {
          "firstName": "Stevens",
          "lastName": "Lloyd",
-         "phoneNumber": 08166051013,
+         "phoneNumber": "08166051013",
          "email": "stevenslloyd@zogak.com",
          "bvn": 34812881775,
          "gender": "female",
@@ -21974,14 +21974,14 @@
          "guarantor1": {
             "guarantorFirstname": "Diaz",
             "guarantorLastname": "Harmon",
-            "guarantorPhone": 08058750942,
+            "guarantorPhone": "08058750942",
             "guarantorEmail": "diazharmon@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Rush",
             "guarantorLastname": "Mejia",
-            "guarantorPhone": 08184952725,
+            "guarantorPhone": "08184952725",
             "guarantorEmail": "rushmejia@zogak.com",
             "relationship": "Colleague"
          }
@@ -21994,7 +21994,7 @@
       "personalInfo": {
          "firstName": "Janet",
          "lastName": "Delgado",
-         "phoneNumber": 08150671980,
+         "phoneNumber": "08150671980",
          "email": "janetdelgado@zogak.com",
          "bvn": 31379375340,
          "gender": "male",
@@ -22020,14 +22020,14 @@
          "guarantor1": {
             "guarantorFirstname": "Zelma",
             "guarantorLastname": "Miller",
-            "guarantorPhone": 08017942030,
+            "guarantorPhone": "08017942030",
             "guarantorEmail": "zelmamiller@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Cherry",
             "guarantorLastname": "Finch",
-            "guarantorPhone": 08197214003,
+            "guarantorPhone": "08197214003",
             "guarantorEmail": "cherryfinch@zogak.com",
             "relationship": "Spouse"
          }
@@ -22040,7 +22040,7 @@
       "personalInfo": {
          "firstName": "Humphrey",
          "lastName": "Anderson",
-         "phoneNumber": 07080026003,
+         "phoneNumber": "07080026003",
          "email": "humphreyanderson@zogak.com",
          "bvn": 41728895378,
          "gender": "female",
@@ -22066,14 +22066,14 @@
          "guarantor1": {
             "guarantorFirstname": "Virgie",
             "guarantorLastname": "Puckett",
-            "guarantorPhone": 08017013544,
+            "guarantorPhone": "08017013544",
             "guarantorEmail": "virgiepuckett@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Woodard",
             "guarantorLastname": "Bailey",
-            "guarantorPhone": 08173258619,
+            "guarantorPhone": "08173258619",
             "guarantorEmail": "woodardbailey@zogak.com",
             "relationship": "Spouse"
          }
@@ -22086,7 +22086,7 @@
       "personalInfo": {
          "firstName": "Padilla",
          "lastName": "Callahan",
-         "phoneNumber": 08073968918,
+         "phoneNumber": "08073968918",
          "email": "padillacallahan@zogak.com",
          "bvn": 70652802377,
          "gender": "female",
@@ -22112,14 +22112,14 @@
          "guarantor1": {
             "guarantorFirstname": "Martinez",
             "guarantorLastname": "Farley",
-            "guarantorPhone": 08035344394,
+            "guarantorPhone": "08035344394",
             "guarantorEmail": "martinezfarley@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Rosanne",
             "guarantorLastname": "Wynn",
-            "guarantorPhone": 07046986088,
+            "guarantorPhone": "07046986088",
             "guarantorEmail": "rosannewynn@zogak.com",
             "relationship": "Spouse"
          }
@@ -22132,7 +22132,7 @@
       "personalInfo": {
          "firstName": "Winters",
          "lastName": "Cross",
-         "phoneNumber": 07096859372,
+         "phoneNumber": "07096859372",
          "email": "winterscross@zogak.com",
          "bvn": 76968250564,
          "gender": "male",
@@ -22158,14 +22158,14 @@
          "guarantor1": {
             "guarantorFirstname": "Bridgett",
             "guarantorLastname": "Fuller",
-            "guarantorPhone": 08092749915,
+            "guarantorPhone": "08092749915",
             "guarantorEmail": "bridgettfuller@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Rosie",
             "guarantorLastname": "Acosta",
-            "guarantorPhone": 08036682737,
+            "guarantorPhone": "08036682737",
             "guarantorEmail": "rosieacosta@zogak.com",
             "relationship": "Colleague"
          }
@@ -22178,7 +22178,7 @@
       "personalInfo": {
          "firstName": "Jamie",
          "lastName": "Velasquez",
-         "phoneNumber": 07054871885,
+         "phoneNumber": "07054871885",
          "email": "jamievelasquez@zogak.com",
          "bvn": 66908835776,
          "gender": "female",
@@ -22204,14 +22204,14 @@
          "guarantor1": {
             "guarantorFirstname": "Johnnie",
             "guarantorLastname": "Sanders",
-            "guarantorPhone": 08164417092,
+            "guarantorPhone": "08164417092",
             "guarantorEmail": "johnniesanders@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Case",
             "guarantorLastname": "Ray",
-            "guarantorPhone": 08020396842,
+            "guarantorPhone": "08020396842",
             "guarantorEmail": "caseray@zogak.com",
             "relationship": "Colleague"
          }
@@ -22224,7 +22224,7 @@
       "personalInfo": {
          "firstName": "Morgan",
          "lastName": "Coleman",
-         "phoneNumber": 08028589957,
+         "phoneNumber": "08028589957",
          "email": "morgancoleman@zogak.com",
          "bvn": 91982704096,
          "gender": "male",
@@ -22250,14 +22250,14 @@
          "guarantor1": {
             "guarantorFirstname": "Sarah",
             "guarantorLastname": "Strickland",
-            "guarantorPhone": 08125205262,
+            "guarantorPhone": "08125205262",
             "guarantorEmail": "sarahstrickland@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Cooke",
             "guarantorLastname": "Lynn",
-            "guarantorPhone": 08021119193,
+            "guarantorPhone": "08021119193",
             "guarantorEmail": "cookelynn@zogak.com",
             "relationship": "Colleague"
          }
@@ -22270,7 +22270,7 @@
       "personalInfo": {
          "firstName": "Stout",
          "lastName": "Alvarez",
-         "phoneNumber": 07028956211,
+         "phoneNumber": "07028956211",
          "email": "stoutalvarez@zogak.com",
          "bvn": 65811117842,
          "gender": "female",
@@ -22296,14 +22296,14 @@
          "guarantor1": {
             "guarantorFirstname": "Beverly",
             "guarantorLastname": "Lancaster",
-            "guarantorPhone": 08037171811,
+            "guarantorPhone": "08037171811",
             "guarantorEmail": "beverlylancaster@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Sandoval",
             "guarantorLastname": "Olson",
-            "guarantorPhone": 08098750762,
+            "guarantorPhone": "08098750762",
             "guarantorEmail": "sandovalolson@zogak.com",
             "relationship": "Colleague"
          }
@@ -22316,7 +22316,7 @@
       "personalInfo": {
          "firstName": "Theresa",
          "lastName": "Berry",
-         "phoneNumber": 07064992391,
+         "phoneNumber": "07064992391",
          "email": "theresaberry@zogak.com",
          "bvn": 12272261096,
          "gender": "female",
@@ -22342,14 +22342,14 @@
          "guarantor1": {
             "guarantorFirstname": "Benita",
             "guarantorLastname": "Underwood",
-            "guarantorPhone": 08132364590,
+            "guarantorPhone": "08132364590",
             "guarantorEmail": "benitaunderwood@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Park",
             "guarantorLastname": "Talley",
-            "guarantorPhone": 08189951540,
+            "guarantorPhone": "08189951540",
             "guarantorEmail": "parktalley@zogak.com",
             "relationship": "Uncle"
          }
@@ -22362,7 +22362,7 @@
       "personalInfo": {
          "firstName": "Zamora",
          "lastName": "Campbell",
-         "phoneNumber": 08093173904,
+         "phoneNumber": "08093173904",
          "email": "zamoracampbell@zogak.com",
          "bvn": 11363590452,
          "gender": "female",
@@ -22388,14 +22388,14 @@
          "guarantor1": {
             "guarantorFirstname": "Mathews",
             "guarantorLastname": "Deleon",
-            "guarantorPhone": 08155133331,
+            "guarantorPhone": "08155133331",
             "guarantorEmail": "mathewsdeleon@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Terri",
             "guarantorLastname": "Price",
-            "guarantorPhone": 08181378018,
+            "guarantorPhone": "08181378018",
             "guarantorEmail": "terriprice@zogak.com",
             "relationship": "Uncle"
          }
@@ -22408,7 +22408,7 @@
       "personalInfo": {
          "firstName": "Sheena",
          "lastName": "Copeland",
-         "phoneNumber": 08054316451,
+         "phoneNumber": "08054316451",
          "email": "sheenacopeland@zogak.com",
          "bvn": 29543573106,
          "gender": "male",
@@ -22434,14 +22434,14 @@
          "guarantor1": {
             "guarantorFirstname": "Daugherty",
             "guarantorLastname": "Griffith",
-            "guarantorPhone": 08089544109,
+            "guarantorPhone": "08089544109",
             "guarantorEmail": "daughertygriffith@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Brenda",
             "guarantorLastname": "Gross",
-            "guarantorPhone": 08175046672,
+            "guarantorPhone": "08175046672",
             "guarantorEmail": "brendagross@zogak.com",
             "relationship": "Colleague"
          }
@@ -22454,7 +22454,7 @@
       "personalInfo": {
          "firstName": "Aguilar",
          "lastName": "Knowles",
-         "phoneNumber": 08151612122,
+         "phoneNumber": "08151612122",
          "email": "aguilarknowles@zogak.com",
          "bvn": 45345425181,
          "gender": "male",
@@ -22480,14 +22480,14 @@
          "guarantor1": {
             "guarantorFirstname": "Elaine",
             "guarantorLastname": "Douglas",
-            "guarantorPhone": 07032390100,
+            "guarantorPhone": "07032390100",
             "guarantorEmail": "elainedouglas@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Odonnell",
             "guarantorLastname": "Decker",
-            "guarantorPhone": 07060406795,
+            "guarantorPhone": "07060406795",
             "guarantorEmail": "odonnelldecker@zogak.com",
             "relationship": "Uncle"
          }
@@ -22500,7 +22500,7 @@
       "personalInfo": {
          "firstName": "Alison",
          "lastName": "Macdonald",
-         "phoneNumber": 08081269787,
+         "phoneNumber": "08081269787",
          "email": "alisonmacdonald@zogak.com",
          "bvn": 46290924432,
          "gender": "male",
@@ -22526,14 +22526,14 @@
          "guarantor1": {
             "guarantorFirstname": "Morse",
             "guarantorLastname": "Weeks",
-            "guarantorPhone": 08167364995,
+            "guarantorPhone": "08167364995",
             "guarantorEmail": "morseweeks@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Barton",
             "guarantorLastname": "Conner",
-            "guarantorPhone": 08088273985,
+            "guarantorPhone": "08088273985",
             "guarantorEmail": "bartonconner@zogak.com",
             "relationship": "Uncle"
          }
@@ -22546,7 +22546,7 @@
       "personalInfo": {
          "firstName": "Milagros",
          "lastName": "Powers",
-         "phoneNumber": 07080103625,
+         "phoneNumber": "07080103625",
          "email": "milagrospowers@zogak.com",
          "bvn": 89315931489,
          "gender": "female",
@@ -22572,14 +22572,14 @@
          "guarantor1": {
             "guarantorFirstname": "Dixie",
             "guarantorLastname": "Guerra",
-            "guarantorPhone": 07010373583,
+            "guarantorPhone": "07010373583",
             "guarantorEmail": "dixieguerra@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Bradford",
             "guarantorLastname": "Drake",
-            "guarantorPhone": 07069279527,
+            "guarantorPhone": "07069279527",
             "guarantorEmail": "bradforddrake@zogak.com",
             "relationship": "Uncle"
          }
@@ -22592,7 +22592,7 @@
       "personalInfo": {
          "firstName": "Keller",
          "lastName": "Lindsey",
-         "phoneNumber": 07089699472,
+         "phoneNumber": "07089699472",
          "email": "kellerlindsey@zogak.com",
          "bvn": 11717720260,
          "gender": "male",
@@ -22618,14 +22618,14 @@
          "guarantor1": {
             "guarantorFirstname": "Reba",
             "guarantorLastname": "Cook",
-            "guarantorPhone": 08013384072,
+            "guarantorPhone": "08013384072",
             "guarantorEmail": "rebacook@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Callahan",
             "guarantorLastname": "Fowler",
-            "guarantorPhone": 08166283085,
+            "guarantorPhone": "08166283085",
             "guarantorEmail": "callahanfowler@zogak.com",
             "relationship": "Spouse"
          }
@@ -22638,7 +22638,7 @@
       "personalInfo": {
          "firstName": "Mona",
          "lastName": "Humphrey",
-         "phoneNumber": 08199539777,
+         "phoneNumber": "08199539777",
          "email": "monahumphrey@zogak.com",
          "bvn": 89143422469,
          "gender": "male",
@@ -22664,14 +22664,14 @@
          "guarantor1": {
             "guarantorFirstname": "Obrien",
             "guarantorLastname": "Vazquez",
-            "guarantorPhone": 08060099075,
+            "guarantorPhone": "08060099075",
             "guarantorEmail": "obrienvazquez@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Jimmie",
             "guarantorLastname": "Cline",
-            "guarantorPhone": 08028999946,
+            "guarantorPhone": "08028999946",
             "guarantorEmail": "jimmiecline@zogak.com",
             "relationship": "Colleague"
          }
@@ -22684,7 +22684,7 @@
       "personalInfo": {
          "firstName": "Valentine",
          "lastName": "Hamilton",
-         "phoneNumber": 08083329500,
+         "phoneNumber": "08083329500",
          "email": "valentinehamilton@zogak.com",
          "bvn": 61641835094,
          "gender": "female",
@@ -22710,14 +22710,14 @@
          "guarantor1": {
             "guarantorFirstname": "Summers",
             "guarantorLastname": "Barry",
-            "guarantorPhone": 07016679357,
+            "guarantorPhone": "07016679357",
             "guarantorEmail": "summersbarry@zogak.com",
             "relationship": "Parent"
          },
          "guarantor2": {
             "guarantorFirstname": "Pope",
             "guarantorLastname": "Barton",
-            "guarantorPhone": 07013290181,
+            "guarantorPhone": "07013290181",
             "guarantorEmail": "popebarton@zogak.com",
             "relationship": "Uncle"
          }
@@ -22730,7 +22730,7 @@
       "personalInfo": {
          "firstName": "Hester",
          "lastName": "Huber",
-         "phoneNumber": 07073013098,
+         "phoneNumber": "07073013098",
          "email": "hesterhuber@zogak.com",
          "bvn": 64863734867,
          "gender": "female",
@@ -22756,14 +22756,14 @@
          "guarantor1": {
             "guarantorFirstname": "Randall",
             "guarantorLastname": "Acevedo",
-            "guarantorPhone": 08083468689,
+            "guarantorPhone": "08083468689",
             "guarantorEmail": "randallacevedo@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Nadia",
             "guarantorLastname": "Clayton",
-            "guarantorPhone": 08136300258,
+            "guarantorPhone": "08136300258",
             "guarantorEmail": "nadiaclayton@zogak.com",
             "relationship": "Uncle"
          }
@@ -22776,7 +22776,7 @@
       "personalInfo": {
          "firstName": "Singleton",
          "lastName": "Sears",
-         "phoneNumber": 07078824341,
+         "phoneNumber": "07078824341",
          "email": "singletonsears@zogak.com",
          "bvn": 46591514652,
          "gender": "female",
@@ -22802,14 +22802,14 @@
          "guarantor1": {
             "guarantorFirstname": "Wanda",
             "guarantorLastname": "Parker",
-            "guarantorPhone": 08196208405,
+            "guarantorPhone": "08196208405",
             "guarantorEmail": "wandaparker@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Myers",
             "guarantorLastname": "Tucker",
-            "guarantorPhone": 08116541633,
+            "guarantorPhone": "08116541633",
             "guarantorEmail": "myerstucker@zogak.com",
             "relationship": "Uncle"
          }
@@ -22822,7 +22822,7 @@
       "personalInfo": {
          "firstName": "Jeannine",
          "lastName": "Townsend",
-         "phoneNumber": 08131189879,
+         "phoneNumber": "08131189879",
          "email": "jeanninetownsend@zogak.com",
          "bvn": 55183729404,
          "gender": "female",
@@ -22848,14 +22848,14 @@
          "guarantor1": {
             "guarantorFirstname": "Rogers",
             "guarantorLastname": "Bryant",
-            "guarantorPhone": 08174336154,
+            "guarantorPhone": "08174336154",
             "guarantorEmail": "rogersbryant@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Mcmahon",
             "guarantorLastname": "Gibbs",
-            "guarantorPhone": 08175994347,
+            "guarantorPhone": "08175994347",
             "guarantorEmail": "mcmahongibbs@zogak.com",
             "relationship": "Colleague"
          }
@@ -22868,7 +22868,7 @@
       "personalInfo": {
          "firstName": "Autumn",
          "lastName": "Everett",
-         "phoneNumber": 08088555755,
+         "phoneNumber": "08088555755",
          "email": "autumneverett@zogak.com",
          "bvn": 78942182333,
          "gender": "female",
@@ -22894,14 +22894,14 @@
          "guarantor1": {
             "guarantorFirstname": "Malinda",
             "guarantorLastname": "Dennis",
-            "guarantorPhone": 08125180442,
+            "guarantorPhone": "08125180442",
             "guarantorEmail": "malindadennis@zogak.com",
             "relationship": "Sister"
          },
          "guarantor2": {
             "guarantorFirstname": "Duran",
             "guarantorLastname": "Hood",
-            "guarantorPhone": 08053835375,
+            "guarantorPhone": "08053835375",
             "guarantorEmail": "duranhood@zogak.com",
             "relationship": "Uncle"
          }
@@ -22914,7 +22914,7 @@
       "personalInfo": {
          "firstName": "Franklin",
          "lastName": "Hicks",
-         "phoneNumber": 07093896174,
+         "phoneNumber": "07093896174",
          "email": "franklinhicks@zogak.com",
          "bvn": 59663573801,
          "gender": "female",
@@ -22940,14 +22940,14 @@
          "guarantor1": {
             "guarantorFirstname": "Fowler",
             "guarantorLastname": "Randall",
-            "guarantorPhone": 07028727879,
+            "guarantorPhone": "07028727879",
             "guarantorEmail": "fowlerrandall@zogak.com",
             "relationship": "Friend"
          },
          "guarantor2": {
             "guarantorFirstname": "Wilma",
             "guarantorLastname": "Pace",
-            "guarantorPhone": 07075968344,
+            "guarantorPhone": "07075968344",
             "guarantorEmail": "wilmapace@zogak.com",
             "relationship": "Spouse"
          }
@@ -22960,7 +22960,7 @@
       "personalInfo": {
          "firstName": "Jody",
          "lastName": "Herman",
-         "phoneNumber": 07019973489,
+         "phoneNumber": "07019973489",
          "email": "jodyherman@zogak.com",
          "bvn": 29421510590,
          "gender": "female",
@@ -22986,14 +22986,14 @@
          "guarantor1": {
             "guarantorFirstname": "Monique",
             "guarantorLastname": "Morris",
-            "guarantorPhone": 08054740786,
+            "guarantorPhone": "08054740786",
             "guarantorEmail": "moniquemorris@zogak.com",
             "relationship": "Brother"
          },
          "guarantor2": {
             "guarantorFirstname": "Ramsey",
             "guarantorLastname": "Huff",
-            "guarantorPhone": 08015235365,
+            "guarantorPhone": "08015235365",
             "guarantorEmail": "ramseyhuff@zogak.com",
             "relationship": "Spouse"
          }

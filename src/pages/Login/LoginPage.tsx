@@ -2,7 +2,7 @@
 
 import styles from './LoginPage.module.scss';
 import Input from '../../components/ui/Inpute';
-import Button from '../../components/ui/button';
+import Button from '../../components/ui/Button';
 
 export default function LoginPage() {
     return (
@@ -13,19 +13,19 @@ export default function LoginPage() {
             </div>
             <div className={styles.illustration}><p>Illustration goes here</p></div>
         </div>
-        {/* Right side: login form */}
-        <div className={styles.rightSection}>
-            <div className={styles.formCard}>
-              <h1>Welcome!</h1>
-              <p>Enter details to login</p>
-              <form className={styles.form}>
-                <Input label="Email" type="email" />
-                <Input label="Password" type="password"/>
-                <span className={styles.forgotPassword}>FORGOT PASSWORD?</span>
+    //     {/* Right side: login form */}
+    //     <div className={styles.rightSection}>
+    //         <div className={styles.formCard}>
+    //           <h1>Welcome!</h1>
+    //           <p>Enter details to login</p>
+    //           <form className={styles.form}>
+    //             <Input label="Email" type="email" />
+    //             <Input label="Password" type="password"/>
+    //             <span className={styles.forgotPassword}>FORGOT PASSWORD?</span>
 
-                <Button text="LOG IN"/>
-              </form>
-            </div>
-        </div>
+    //             <Button text="LOG IN"/>
+    //           </form>
+    //         </div>
+    //     </div>
     );
 }

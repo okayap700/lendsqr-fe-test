@@ -1,16 +1,29 @@
-/* Fetch the full list of users from the API.
-    Returns strongly typed user records
+/* Provides API functions for fetching user data
+    single source of truth for user-related network requests
 */
 
-import { User } from  "../types/user";
+import { type User } from  "../types/user";
 
+const USERS_API_URL = "/data/generated.json";               // mock api endpoint
+
+//fetches all users from the mock api
 export async function fetchUsers(): Promise<User[]> {
-    const res = await fetch(USERS_API);
+    try{
+        const response = await fetch(USERS_API_URL);
 
-    if (!res.ok) {
-        throw new Error('Failed to fetch users');
+        if (!response.ok) {
+            throw new Error("Failed to fetch users");
+        }
+
+        //parse response into typed objects and return list[]
+        const users: User[] = await response.json();
+        return users
+    } catch (error) {
+        return [];
     }
-
-    return res.json();
 }
 
+//fetch single user by ID from existing list
+export function getUserById(users: User[], id: string): User | undefined {
+    return users.find((user) => user.id === id);            //finds user with id matching
+}

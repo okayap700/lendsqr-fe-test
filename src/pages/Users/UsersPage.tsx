@@ -1,19 +1,43 @@
-/** Handles saving and getting user details from localStorage */
+/**Users page component
+ * Displays the users table, filters, and navigation to user details
+ */
 
-import { User } from "../../types/user";
+import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 
-const USER_KEY = "selectedUser";
+import { fetchUsers } from "../../services/userService";
+import { saveUserToStorage } from "../../utils/storage";
 
-// Save info of seleced user
-export function saveUserToStorage(user: User) {
-    localStorage.setItem(USER_KEY, JSON.stringify(user));
-}
+import { type User } from "../../types/user";
 
-// fetch user infoform browser storage
-export function getUserFromStorage(): User | null {
-    const storedUser = localStorage.getItem(USER_KEY);
+import styles from "./UserPage.module.scss";
 
-    if (!storedUser) return null;
+export default function UsersPage() {
+    const [users, setUsers] = useState<User[]>([]);         // stores fetched users
+    const [loading, setLoading] = useState(true);           // tracks loading
 
-    return JSON.parse(storedUser) as User;
+    const navigate = useNavigate();
+
+    //load user records from mock API on page mount
+    useEffect(() => {
+        async function loadUsers() {
+            const data = await fetchUsers();
+            setUsers(data);
+            setLoading(false);
+        }
+
+        loadUsers();
+    }, []);
+
+    //handle click of user row
+    function handleUserClick(user: User) {
+        saveUserToStorage(user);
+        navigate(`/users/${user.id}`);
+    }
+
+    if (loading) { return <p className={styles.loading}>Loading users...</p>; }
+
+    return (
+        <div>Users page</div>
+    );
 }
