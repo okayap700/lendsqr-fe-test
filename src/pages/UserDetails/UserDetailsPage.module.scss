@@ -1,0 +1,156 @@
+/*  Styling for User Details Page
+*/
+
+.userDetails {
+    padding: 40px;
+}
+
+.backLink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #213f7d;
+}
+
+.actions {
+    display: flex;
+    gap: 12px;
+}
+
+.blacklist {
+    padding: 10px 16px;
+    border: 1px solid #e4033b;
+    background: transparent;
+    color: #e4033b;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/*summary card*/
+.summaryCard {
+    margin-top: 30px;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid rgba(33, 63, 125, 0.1);
+
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid, rgba(33, 63, 125, 0.1);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    background: rgba(57, 205, 204, 0.15);
+    color: #213f7d;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tier {
+    text-align: center;
+}
+
+.stars {
+    color: #e9b200;
+    font-size: 16px;
+}
+
+.account h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #213f7d;
+}
+
+/* tabs*/
+.tabs {
+    display: flex;
+    gap: 25;
+    margin-top: 25px;
+    border-bottom: 1px solid rgba(33, 63, 125, 0.1);
+    padding-bottom: 10px;
+}
+
+.tabs span {
+    font-size: 14px;
+    cursor: pointer;
+    color: #545f7d;
+}
+
+.activeTab {
+    color: #39cdcc !important;
+    font-weight: 600;
+    border-bottom: 2px solid #39cdcc;
+    padding-bottom: 8px;
+}
+
+/* details card*/
+.detailsCard {
+    margin-top: 30px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgba(33, 63, 125, 0.1);
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #213f7d;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 25px;
+    margin-bottom: 25px;
+}
+
+.label {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #545f7d;
+}
+
+/*mobile responsiveness*/
+@medie (max-width: 900px)  {
+    .grid {
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    summaryCard {
+        flex-direction: column;
+        gap 20px;
+        text-align: center;
+    }
+}

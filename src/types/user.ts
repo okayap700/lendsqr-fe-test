@@ -3,6 +3,7 @@ export interface User {
     tier: 1 | 2 | 3;
     organization: string;
     dateJoined: string;
+    status: "active" | "pending" | "inactive" | "blacklisted";
     personalInfo: {
         lastName: string;
         firstName: string;

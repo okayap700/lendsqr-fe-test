@@ -38,6 +38,40 @@ export default function UsersPage() {
     if (loading) { return <p className={styles.loading}>Loading users...</p>; }
 
     return (
-        <div>Users page</div>
+        <div className={styles.usersPage}>
+          <h1 className={styles.title}>Users</h1>
+          {/*Users Table*/}
+          <div className={styles.tableWrapper}>
+            <table className={styles.table}>
+              <thead>
+                <tr>
+                  <th>ORGANIZATION</th>
+                  <th>USERNAME</th>
+                  <th>EMAIL</th>
+                  <th>PHONE NUMBER</th>
+                  <th>DATE JOINED</th>
+                  <th>STATUS</th>
+                </tr>
+              </thead>
+
+              <tbody>
+                {users.slice(0,20).map((user) => (
+                   <tr
+                   key={user.id}
+                   onClick={() => handleUserClick(user)}
+                   className={styles.row}>
+                     <td>{user.organization}</td>
+                     <td>{user.personalInfo.firstName} {user.personalInfo.lastName}</td>
+                     <td>{user.personalInfo.phoneNumber}</td>
+                     <td>
+                        <span className={`${styles.status} ${styles[user.status ?? "Inactive"]}`} >{user.status}</span>
+                     </td>
+                     <td>{user.dateJoined}</td>
+                   </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
     );
 }

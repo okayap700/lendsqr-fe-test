@@ -1,0 +1,66 @@
+/*  Styles the Users page table layout.
+*/
+
+.usersPage {
+    padding: 40px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #21f73d;
+    margin-bottom: 30px;
+}
+
+.tableWrapper {
+    background: white;
+    border: 1px solid rgba(33, 63, 125, 0.1);
+    border-radius: 10px;
+    overflow-x: auto;
+}
+
+th {
+    text-align: left;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 18px;
+    color: #545f7d;
+}
+
+.row {
+    cursor: pointer;
+
+    &:hover {
+        background: rgba(57, 205,204, 0.05);
+    }
+}
+
+/*status pill styling*/
+.status {
+    padding: 6px 14;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+/*status colors*/
+.Active {
+    background: rgba(57, 205,204, 0.05);
+    color: #39cdcc;
+}
+
+.Inactive {
+    background: rgba(84, 95, 125, 0.15);
+    color: #545f7d;
+}
+
+.Pending {
+    background: rgba(233, 178, 0, 0.15);
+    color: #545f7d;
+}
+
+.loading {
+    padding: 40px;
+    font-size: 16px;
+}
