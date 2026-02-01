@@ -10,7 +10,7 @@ import { saveUserToStorage } from "../../utils/storage";
 
 import { type User } from "../../types/user";
 
-import styles from "./UserPage.module.scss";
+import styles from "./UsersPage.module.scss";
 
 export default function UsersPage() {
     const [users, setUsers] = useState<User[]>([]);         // stores fetched users

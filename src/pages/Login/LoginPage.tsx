@@ -1,7 +1,7 @@
 /** displays branding illustration at the left and login form on the rigth */
 
 import styles from './LoginPage.module.scss';
-import Input from '../../components/ui/Inpute';
+import Input from '../../components/ui/Input';
 import Button from '../../components/ui/Button';
 
 export default function LoginPage() {

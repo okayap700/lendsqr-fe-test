@@ -4,8 +4,10 @@
 
 import { useNavigate } from "react-router-dom";
 
+import { getUserFromStorage } from "../../utils/storage"
+
 import styles from "./UserDetailsPage.module.scss";
-import { use } from "react";
+
 
 export default function UserDetailsPage() {
     const navigate = useNavigate();
@@ -180,7 +182,7 @@ export default function UserDetailsPage() {
                 <section>
                     <h4>Guarantor</h4>
 
-                    {user.gurarantor.map((g, index) => (
+                    {user.guarantor.map((g, index) => (
                         <div key={index} className={styles.grid}>
                             <div>
                                 <p className={styles.label}>Full Name</p>

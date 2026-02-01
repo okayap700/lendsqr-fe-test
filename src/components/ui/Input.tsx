@@ -2,7 +2,7 @@
  * Ensures consistent styling and behavior across the application.
  */
 
-import styles from './Inpute.module.scss';
+import styles from './Input.module.scss';
 
 interface InputProps {
     label: string;                  // inpute placeholder text

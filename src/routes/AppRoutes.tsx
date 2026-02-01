@@ -1,19 +1,27 @@
 /** Defines all application routes */
 
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 
 import LoginPage from "../pages/Login/LoginPage";
 import DashboardPage from "../pages/Dashboard/DashboardPage";
 import UsersPage from "../pages/Users/UsersPage";
 import UserDetailsPage from "../pages/UserDetails/UserDetailsPage";
+import Layout from "../components/Layout/Layout";
 
 export default function AppRoutes () {
     return (
         <Routes>
-            <Route path="/" element={<LoginPage />}/>
-            <Route path="/dashboard" element={<DashboardPage />}/>
-            <Route path="/users" element={<UsersPage />}/>
-            <Route path="/users/:id" element={<UserDetailsPage/>} />
+            {/* Redirect "/" to dashboard */}
+            <Route path="/" element={<Layout><DashboardPage /></Layout>}/>
+
+            {/* Dashboard */}
+            <Route path="/dashboard" element={<Layout><DashboardPage /></Layout>}/>
+
+            {/* Users */}
+            <Route path="/users" element={<Layout><UsersPage /></Layout>} />
+
+            {/* User Details */}
+            <Route path="/users/:id" element={<Layout><UserDetailsPage /></Layout>} />
         </Routes>
     );
 }

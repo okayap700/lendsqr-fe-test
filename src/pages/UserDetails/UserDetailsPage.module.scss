@@ -143,14 +143,14 @@ h4 {
 }
 
 /*mobile responsiveness*/
-@medie (max-width: 900px)  {
+@media (max-width: 900px)  {
     .grid {
         grid-template-columns: repeat(2,1fr);
     }
 
-    summaryCard {
+   .summaryCard {
         flex-direction: column;
-        gap 20px;
+        gap: 20px;
         text-align: center;
     }
 }

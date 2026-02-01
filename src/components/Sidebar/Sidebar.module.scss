@@ -1,0 +1,33 @@
+/*  styles sidebar navigation */
+
+.sidebar {
+    width: 260;
+    background: white;
+    border-right: 1px solid rgba(33, 63, 125, 0.1);
+
+    padding: 30px 20px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 700;
+    color: #213f7d;
+    margin-bottom: 40px;
+}
+
+.navLinks {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navLinks a {
+    font-size: 14px;
+    color: #545f7d;
+    text-decoration: none;
+}
+
+.navLinks a.active {
+    color: #39cdcc;
+    font-weight: 600;
+}

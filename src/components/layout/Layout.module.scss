@@ -1,0 +1,17 @@
+/*  styles global layout*/
+
+.layout {
+    display: flex;
+    min-height: 100vh;
+    background: #f7f8fa;
+}
+
+.mainContent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.pageContent {
+    padding: 40px;
+}
