@@ -1,8 +1,9 @@
 /* styles topbar */
 
 .navbar {
+    font-family: "Work Sans", sans-serif;
     height: 80px;
-    background: white;
+    background: #FFFFFF;
 
     display: flex;
     justify-content: space-between;
@@ -10,43 +11,104 @@
 
     padding: 0 40px;
     border-bottom: 1px solid rgba(33, 63, 125, 0.1);
-}
-
-.search {
-    display: flex;
+    top: 0;
+    position: sticky;
     align-items: center;
-}
+    z-index: 10;
+    
+    .navItems {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
 
-.search input {
-    width: 320px;
-    height: 40px;
+        .logo {            
+            p {
+                display: flex;
+                align-items: center;
+                font-size: 30px;
+                font-weight: 700;
+                color: #213F7D;
+                margin: 0;
+            
+                img {
+                    height: 20px;
+                    padding-right: 6px;
+                }
+            }
 
-    border: 1px solid rgba(84, 95, 125, 0.2);
-    border-radius: 8px 0 0 8px;
+        }
 
-    padding: 0 12px;
-}
+        .search {
+            display: flex;
+            align-items: center;
+            margin: 20px;
 
-.search button {
-    height: 40px;
-    width: 50px;
+            input {
+                width: 400px;
+                height: 40px;
 
-    border: none;
-    background: #39cdcc;
-    color: white;
+                border: 1px solid rgba(84, 95, 125, 0.2);
+                border-radius: 8px 0 0 8px;
+                padding: 0 18px;
+                outline: none;
 
-    border-radius: 0 8px 8px 0;
-    cursor: pointer;
-}
+                &::placeholder {
+                    color: rgba(84, 95, 125, 0.7);
+                }
+            }
 
-.profile {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
+            button {
+                display: flex;
+                height: 43px;
+                width: 50px;
+                align-items: center;
+                justify-content: center;
 
-.username {
-    font-size: 14px;
-    font-weight: 600;
-    color: #213f7d;
+                border: none;
+                background: #39cdcc;
+                color: #FFFFFF;
+
+                border-radius: 0 8px 8px 0;
+                cursor: pointer;
+            }            
+        }
+
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+
+            .docs{
+                text-decoration: underline;
+                color: #213F7D;
+            }
+
+            .bell {
+                font-size: 20px;
+                cursor: pointer;
+            }
+
+            .userSection {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                cursor: pointer;
+                color: #213F7D;
+
+                .avatar {
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                    object-fit: cover;
+                }
+
+                .employee {
+                    font-size: 14px;
+                    font-weight: 600;
+                    color: #213F7D;
+                }                 
+            }          
+        }       
+    }
 }

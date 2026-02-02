@@ -43,7 +43,9 @@
             "guarantorEmail": "taniamolina@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-03-11T15:05:45.728Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26de747453c1c4dbf3f",
@@ -89,7 +91,9 @@
             "guarantorEmail": "caldwellblankenship@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-05-05T09:00:05.161Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d8a517f028bcb9397",
@@ -135,7 +139,9 @@
             "guarantorEmail": "paynedavid@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-10-04T09:26:33.968Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d0f0e63ecd2a6636a",
@@ -181,7 +187,9 @@
             "guarantorEmail": "avishickman@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-12-07T12:01:03.401Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dc8cdfab30fd7ccb0",
@@ -227,7 +235,9 @@
             "guarantorEmail": "madelinewhitehead@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-05-08T14:52:27.853Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ddc1538e728f17884",
@@ -273,7 +283,9 @@
             "guarantorEmail": "fischerwilkins@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-03-21T20:22:32.158Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d000bdf1de65de6cd",
@@ -319,7 +331,9 @@
             "guarantorEmail": "wilmahays@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-07-27T05:46:59.305Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d236da1a16d4e3762",
@@ -365,7 +379,9 @@
             "guarantorEmail": "jocelynortega@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-03T17:23:47.503Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de7b2458114f7d374",
@@ -411,7 +427,9 @@
             "guarantorEmail": "blancacamacho@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-07-21T00:35:47.163Z",
+      "status": "active"
    },
    {
       "id": "697ac26d827591dbe7ad4174",
@@ -457,7 +475,9 @@
             "guarantorEmail": "pennyjoseph@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-09-14T12:29:31.876Z",
+      "status": "active"
    },
    {
       "id": "697ac26d92890df995531928",
@@ -503,7 +523,9 @@
             "guarantorEmail": "sawyergilmore@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-01-01T04:24:56.046Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d39c32c9dab130092",
@@ -549,7 +571,9 @@
             "guarantorEmail": "krisrowe@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-07-17T11:16:18.345Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d3c009aaf2c6fe337",
@@ -595,7 +619,9 @@
             "guarantorEmail": "simonbryan@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-06-18T03:25:13.260Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d483e47750e0ca435",
@@ -641,7 +667,9 @@
             "guarantorEmail": "rocharosa@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-05-28T09:13:47.909Z",
+      "status": "active"
    },
    {
       "id": "697ac26db78c4b5472bf346e",
@@ -687,7 +715,9 @@
             "guarantorEmail": "huffmanfarmer@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-01-01T22:25:53.223Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dce865f241108a736",
@@ -733,7 +763,9 @@
             "guarantorEmail": "susieestes@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-12-04T04:24:08.120Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d94a58e5c3c431c3e",
@@ -779,7 +811,9 @@
             "guarantorEmail": "christibaldwin@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-12-08T09:01:27.381Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d19c75588a28b47f5",
@@ -825,7 +859,9 @@
             "guarantorEmail": "luannmcpherson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-08-10T10:52:01.321Z",
+      "status": "active"
    },
    {
       "id": "697ac26d35e527fe541ff154",
@@ -871,7 +907,9 @@
             "guarantorEmail": "queenmiles@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-03-31T10:10:36.404Z",
+      "status": "pending"
    },
    {
       "id": "697ac26deecd49138a30638c",
@@ -917,7 +955,9 @@
             "guarantorEmail": "pattonkent@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-06-15T00:17:40.706Z",
+      "status": "active"
    },
    {
       "id": "697ac26db4c1ffe0fabe0e1d",
@@ -963,7 +1003,9 @@
             "guarantorEmail": "downsmyers@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-05-07T20:25:50.793Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d83eb3bc5869aac3b",
@@ -1009,7 +1051,9 @@
             "guarantorEmail": "tabithabarrett@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2026-01-19T13:41:35.843Z",
+      "status": "active"
    },
    {
       "id": "697ac26d7e80727dc8745325",
@@ -1055,7 +1099,9 @@
             "guarantorEmail": "whitneychang@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-09-10T13:41:12.586Z",
+      "status": "active"
    },
    {
       "id": "697ac26d021405bce5f87eca",
@@ -1101,7 +1147,9 @@
             "guarantorEmail": "welchferguson@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-12-13T06:56:16.116Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d6ddea7aac223e242",
@@ -1147,7 +1195,9 @@
             "guarantorEmail": "leannmaddox@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-03-06T16:44:28.701Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26df91bb0fab42fc9d4",
@@ -1193,7 +1243,9 @@
             "guarantorEmail": "cherryfrye@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-04-05T07:40:14.822Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d5a8dad1a9b99e4b2",
@@ -1239,7 +1291,9 @@
             "guarantorEmail": "craftrobbins@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-11-22T20:46:22.805Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d3f6f64af89854158",
@@ -1285,7 +1339,9 @@
             "guarantorEmail": "jannaross@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-05-28T01:18:16.364Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d00ff47add90d069a",
@@ -1331,7 +1387,9 @@
             "guarantorEmail": "corrineball@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-03-26T17:18:58.833Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ddf28f8d6bec56547",
@@ -1377,7 +1435,9 @@
             "guarantorEmail": "penelopecantrell@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-12-02T01:14:27.809Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d9b342a8dc8c506a1",
@@ -1423,7 +1483,9 @@
             "guarantorEmail": "waltonmarks@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-12-30T18:45:37.795Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de823555462b29209",
@@ -1469,7 +1531,9 @@
             "guarantorEmail": "nicolemcconnell@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-09-07T03:35:38.840Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da9faec27cc4330f0",
@@ -1515,7 +1579,9 @@
             "guarantorEmail": "savannahhines@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-12-16T12:37:54.755Z",
+      "status": "active"
    },
    {
       "id": "697ac26d1c2ac5b9626196a3",
@@ -1561,7 +1627,9 @@
             "guarantorEmail": "margeryjohns@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-10-31T00:18:40.946Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de636a15ade3ca29d",
@@ -1607,7 +1675,9 @@
             "guarantorEmail": "corineweiss@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-09-07T07:42:05.398Z",
+      "status": "active"
    },
    {
       "id": "697ac26d98f0b07e2a2b0ffd",
@@ -1653,7 +1723,9 @@
             "guarantorEmail": "livingstonrasmussen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2026-01-11T16:31:19.033Z",
+      "status": "active"
    },
    {
       "id": "697ac26df2b98fc780705b9c",
@@ -1699,7 +1771,9 @@
             "guarantorEmail": "ferrellsweet@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-11-02T11:32:55.808Z",
+      "status": "active"
    },
    {
       "id": "697ac26d683fd0b967a76e65",
@@ -1745,7 +1819,9 @@
             "guarantorEmail": "patrickstanley@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-04-29T06:46:33.562Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d1fe8d5a5fe202a92",
@@ -1791,7 +1867,9 @@
             "guarantorEmail": "marionbarnett@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-01T12:59:28.448Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d3a3a73887aabf8ee",
@@ -1837,7 +1915,9 @@
             "guarantorEmail": "serranoburt@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-10-14T00:49:53.169Z",
+      "status": "active"
    },
    {
       "id": "697ac26d653afd5783095c09",
@@ -1883,7 +1963,9 @@
             "guarantorEmail": "simmonsrojas@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-24T08:52:57.335Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d670fa199c02cfa86",
@@ -1929,7 +2011,9 @@
             "guarantorEmail": "albareeves@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-08-04T10:30:05.135Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d4b5afc6c0d846113",
@@ -1975,7 +2059,9 @@
             "guarantorEmail": "deirdremclaughlin@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-06-05T12:09:26.038Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d8a035a6870be1285",
@@ -2021,7 +2107,9 @@
             "guarantorEmail": "hartmanmason@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-06-02T09:28:11.326Z",
+      "status": "active"
    },
    {
       "id": "697ac26d88380f96e69bb993",
@@ -2067,7 +2155,9 @@
             "guarantorEmail": "maciashendrix@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-04-07T06:09:09.897Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d792b5da0d761a04d",
@@ -2113,7 +2203,9 @@
             "guarantorEmail": "deebarker@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-07-28T14:45:30.117Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26deeb12cb8926d7b6a",
@@ -2159,7 +2251,9 @@
             "guarantorEmail": "clinepowell@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-05-03T06:55:38.294Z",
+      "status": "active"
    },
    {
       "id": "697ac26dbe36aeb9b8149897",
@@ -2205,7 +2299,9 @@
             "guarantorEmail": "bairdatkins@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-06-13T17:16:29.872Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d0f0e01198c35d6f0",
@@ -2251,7 +2347,9 @@
             "guarantorEmail": "consuelothornton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-09-14T15:10:08.000Z",
+      "status": "active"
    },
    {
       "id": "697ac26ddef5806c2d9da3c0",
@@ -2297,7 +2395,9 @@
             "guarantorEmail": "larsonespinoza@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-01-02T03:13:22.142Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dad5929e0ee8c5fba",
@@ -2343,7 +2443,9 @@
             "guarantorEmail": "andreawall@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-07-01T14:59:06.293Z",
+      "status": "active"
    },
    {
       "id": "697ac26d250bb0d2bf6efedb",
@@ -2389,7 +2491,9 @@
             "guarantorEmail": "buckleygoodman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-07-30T01:54:26.632Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d25403dd2f3881450",
@@ -2435,7 +2539,9 @@
             "guarantorEmail": "clarkeburns@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-02-11T07:59:31.617Z",
+      "status": "active"
    },
    {
       "id": "697ac26de6a13f357e5e6857",
@@ -2481,7 +2587,9 @@
             "guarantorEmail": "ilagardner@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-04T05:35:04.125Z",
+      "status": "active"
    },
    {
       "id": "697ac26dd723dfd6e4e7a3b2",
@@ -2527,7 +2635,9 @@
             "guarantorEmail": "lorenaboone@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-06-07T19:26:48.158Z",
+      "status": "active"
    },
    {
       "id": "697ac26d6712efab4c35663b",
@@ -2573,7 +2683,9 @@
             "guarantorEmail": "petersosborn@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-10-30T12:03:05.157Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d8b94c22baea55996",
@@ -2619,7 +2731,9 @@
             "guarantorEmail": "griffithgibson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-01T20:03:43.272Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d7545629f511d2e51",
@@ -2665,7 +2779,9 @@
             "guarantorEmail": "ramirezgrant@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-12-31T19:39:14.367Z",
+      "status": "pending"
    },
    {
       "id": "697ac26da3cb64e72bc56fb9",
@@ -2711,7 +2827,9 @@
             "guarantorEmail": "dorthyshaw@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-01T05:34:26.082Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da645d66627ad6c20",
@@ -2757,7 +2875,9 @@
             "guarantorEmail": "salliecannon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-02-07T02:27:28.527Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dc0b780d33e327af9",
@@ -2803,7 +2923,9 @@
             "guarantorEmail": "deenahogan@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-08-28T23:33:48.266Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d7a12f72396c07c3c",
@@ -2849,7 +2971,9 @@
             "guarantorEmail": "hermanbates@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-02-08T11:03:23.916Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dfdfb2e5a3e5c96bb",
@@ -2895,7 +3019,9 @@
             "guarantorEmail": "kristensexton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-01-16T10:33:11.992Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d4014fa427fac58bc",
@@ -2941,7 +3067,9 @@
             "guarantorEmail": "burnskeller@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-09-18T06:21:01.446Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d2624ba51306d40fc",
@@ -2987,7 +3115,9 @@
             "guarantorEmail": "mcfarlandlandry@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-05-09T02:04:58.992Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dbfaaa349adc1e068",
@@ -3033,7 +3163,9 @@
             "guarantorEmail": "charlenegregory@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-06-01T07:21:39.144Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dfdbb3d216b8c4fb4",
@@ -3079,7 +3211,9 @@
             "guarantorEmail": "nixonjoyner@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-06-25T08:25:10.128Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d6d77aaa53a3ecc48",
@@ -3125,7 +3259,9 @@
             "guarantorEmail": "daisymeyer@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-09T21:43:15.622Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d12558c44653cd59a",
@@ -3171,7 +3307,9 @@
             "guarantorEmail": "bookercrane@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-07-24T15:52:22.081Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d634aeaf971bd6eea",
@@ -3217,7 +3355,9 @@
             "guarantorEmail": "pottersalas@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-26T02:10:23.779Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d7facbb39994ece3c",
@@ -3263,7 +3403,9 @@
             "guarantorEmail": "colevance@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-10-20T20:36:27.684Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d45c0ba039213a046",
@@ -3309,7 +3451,9 @@
             "guarantorEmail": "mccallwilliamson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-25T09:17:08.774Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d1c00a1d6d17bc8a3",
@@ -3355,7 +3499,9 @@
             "guarantorEmail": "maewatkins@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-07-23T13:19:44.527Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dc3d41905a0e4ab29",
@@ -3401,7 +3547,9 @@
             "guarantorEmail": "deniseterrell@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-11-30T13:21:29.155Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d922f164a3daeead7",
@@ -3447,7 +3595,9 @@
             "guarantorEmail": "russellhopper@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-10-19T18:50:38.558Z",
+      "status": "pending"
    },
    {
       "id": "697ac26df3e16e46002f29ee",
@@ -3493,7 +3643,9 @@
             "guarantorEmail": "justicediaz@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-10-22T23:24:38.642Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dd646e5cb75cb7221",
@@ -3539,7 +3691,9 @@
             "guarantorEmail": "cooperburgess@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-11-06T07:07:49.324Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26de806dfbea8c2b0e1",
@@ -3585,7 +3739,9 @@
             "guarantorEmail": "orrpayne@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-04-28T04:21:19.363Z",
+      "status": "active"
    },
    {
       "id": "697ac26d65cd84df9e93c145",
@@ -3631,7 +3787,9 @@
             "guarantorEmail": "janellnash@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-06-26T11:00:39.879Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d9005fea1d43f1786",
@@ -3677,7 +3835,9 @@
             "guarantorEmail": "kentpotts@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2026-01-03T02:46:23.501Z",
+      "status": "active"
    },
    {
       "id": "697ac26d1eef40907b752762",
@@ -3723,7 +3883,9 @@
             "guarantorEmail": "haynespierce@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-04-03T21:34:10.874Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d0d51eb905ef18e18",
@@ -3769,7 +3931,9 @@
             "guarantorEmail": "evariley@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-04-30T19:13:48.655Z",
+      "status": "active"
    },
    {
       "id": "697ac26d26235283fdf0b503",
@@ -3815,7 +3979,9 @@
             "guarantorEmail": "josephinebenjamin@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-12-02T01:54:46.385Z",
+      "status": "active"
    },
    {
       "id": "697ac26d7d0ae2f8c5a96a15",
@@ -3861,7 +4027,9 @@
             "guarantorEmail": "alissahardy@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-06-30T01:52:14.023Z",
+      "status": "active"
    },
    {
       "id": "697ac26da3b930f8734cd07c",
@@ -3907,7 +4075,9 @@
             "guarantorEmail": "vilmaramirez@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-06-06T08:52:37.302Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dc10d3fc326677184",
@@ -3953,7 +4123,9 @@
             "guarantorEmail": "janacontreras@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-07T13:01:08.195Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d675319ee52414589",
@@ -3999,7 +4171,9 @@
             "guarantorEmail": "aracelifrancis@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-05-09T04:09:52.683Z",
+      "status": "active"
    },
    {
       "id": "697ac26da297096f6df869fd",
@@ -4045,7 +4219,9 @@
             "guarantorEmail": "ortizhayes@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-11-28T01:09:58.300Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d3dcdaaf1d2972a77",
@@ -4091,7 +4267,9 @@
             "guarantorEmail": "katinagarrison@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-05-07T03:41:54.946Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d177c3a9fe44188d5",
@@ -4137,7 +4315,9 @@
             "guarantorEmail": "estelabutler@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-08-18T13:33:08.730Z",
+      "status": "pending"
    },
    {
       "id": "697ac26db8e6710fdbe6ec92",
@@ -4183,7 +4363,9 @@
             "guarantorEmail": "josefaodonnell@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-09-18T07:18:12.596Z",
+      "status": "active"
    },
    {
       "id": "697ac26d2c6158f380264192",
@@ -4229,7 +4411,9 @@
             "guarantorEmail": "hollandrollins@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-04-25T04:30:58.132Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d9cda29d8a59441dc",
@@ -4275,7 +4459,9 @@
             "guarantorEmail": "chambershouston@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-06-04T19:57:14.797Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dfcf18c2e069575e5",
@@ -4321,7 +4507,9 @@
             "guarantorEmail": "eugeniadillon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-07-26T15:38:44.551Z",
+      "status": "active"
    },
    {
       "id": "697ac26d4ca3adc2e4db355e",
@@ -4367,7 +4555,9 @@
             "guarantorEmail": "mcintyrebender@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-10-27T02:37:35.784Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d90934bfb39a6a7b3",
@@ -4413,7 +4603,9 @@
             "guarantorEmail": "ellisonkoch@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-06-27T12:47:58.252Z",
+      "status": "active"
    },
    {
       "id": "697ac26d3ffa9188ee119d21",
@@ -4459,7 +4651,9 @@
             "guarantorEmail": "katyklein@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-05-10T17:25:05.518Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d1ea7244a1d11e3cc",
@@ -4505,7 +4699,9 @@
             "guarantorEmail": "rubyfreeman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-06-24T06:37:50.715Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26da15a27729b39ce8a",
@@ -4551,7 +4747,9 @@
             "guarantorEmail": "farleycalhoun@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-11-21T21:29:05.456Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d32bcde94c257ef13",
@@ -4597,7 +4795,9 @@
             "guarantorEmail": "cristinamiranda@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-05-24T04:35:48.098Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d3957d9e9345fc9c8",
@@ -4643,7 +4843,9 @@
             "guarantorEmail": "fanniepope@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-07-11T22:56:07.979Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ded9917dcd4734078",
@@ -4689,7 +4891,9 @@
             "guarantorEmail": "leanneholder@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-07-09T12:20:09.006Z",
+      "status": "active"
    },
    {
       "id": "697ac26db63b13b8e5bf666d",
@@ -4735,7 +4939,9 @@
             "guarantorEmail": "madeleineduran@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-02-16T15:44:57.638Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d899619642934e736",
@@ -4781,7 +4987,9 @@
             "guarantorEmail": "candicerocha@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-11-01T01:14:00.065Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d541c9baa32d64b06",
@@ -4827,7 +5035,9 @@
             "guarantorEmail": "jenifercarpenter@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-03-12T01:49:21.052Z",
+      "status": "active"
    },
    {
       "id": "697ac26d81953282334a6d4e",
@@ -4873,7 +5083,9 @@
             "guarantorEmail": "crawfordpittman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-05-11T21:23:56.065Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dc932db1de0cc90d7",
@@ -4919,7 +5131,9 @@
             "guarantorEmail": "louellagrimes@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-15T15:31:13.745Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d16f886f1c51cf04f",
@@ -4965,7 +5179,9 @@
             "guarantorEmail": "stacidominguez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-15T06:21:48.256Z",
+      "status": "active"
    },
    {
       "id": "697ac26dff8cbf0fc93238f1",
@@ -5011,7 +5227,9 @@
             "guarantorEmail": "scotthowell@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-06-21T06:53:48.907Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26da6b6cf83b1d9961b",
@@ -5057,7 +5275,9 @@
             "guarantorEmail": "elmaroy@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-03-03T09:30:57.576Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d3a7aae9e7d2935ce",
@@ -5103,7 +5323,9 @@
             "guarantorEmail": "jensenhampton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-04-27T18:05:41.326Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d957116bbbbdcf48c",
@@ -5149,7 +5371,9 @@
             "guarantorEmail": "turnercrosby@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-06-20T04:42:51.577Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d4925936d8cca21da",
@@ -5195,7 +5419,9 @@
             "guarantorEmail": "jenniferbrowning@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-05T00:33:33.072Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d02c47e4b9d390efb",
@@ -5241,7 +5467,9 @@
             "guarantorEmail": "reynaburris@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-26T23:04:29.551Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d3e56c617556413b5",
@@ -5287,7 +5515,9 @@
             "guarantorEmail": "roselladaniels@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-03-01T05:37:41.716Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d37c1550e6140b96f",
@@ -5333,7 +5563,9 @@
             "guarantorEmail": "woodwardbuckner@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-05-30T12:01:58.413Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26da33d39d5e1411dd0",
@@ -5379,7 +5611,9 @@
             "guarantorEmail": "hardinmccarthy@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-03-02T13:28:15.587Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d0fb39dd6b3794a09",
@@ -5425,7 +5659,9 @@
             "guarantorEmail": "princerogers@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-03-23T19:20:55.269Z",
+      "status": "active"
    },
    {
       "id": "697ac26d551415a33a69f126",
@@ -5471,7 +5707,9 @@
             "guarantorEmail": "trevinohoffman@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-12-08T12:21:19.797Z",
+      "status": "active"
    },
    {
       "id": "697ac26d3a595689fbb8b492",
@@ -5517,7 +5755,9 @@
             "guarantorEmail": "tatelogan@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-09T20:45:22.788Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d2e633727585d4a5d",
@@ -5563,7 +5803,9 @@
             "guarantorEmail": "tishahahn@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-18T07:20:48.598Z",
+      "status": "active"
    },
    {
       "id": "697ac26de84b5fb3f761b1a6",
@@ -5609,7 +5851,9 @@
             "guarantorEmail": "careyfranco@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-11-30T20:05:13.263Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26da040feb1d8c6cf1a",
@@ -5655,7 +5899,9 @@
             "guarantorEmail": "brittanyjefferson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-01-11T15:34:17.559Z",
+      "status": "active"
    },
    {
       "id": "697ac26d967eda7a6a3c7c34",
@@ -5701,7 +5947,9 @@
             "guarantorEmail": "carolehodges@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-05-27T02:11:31.659Z",
+      "status": "active"
    },
    {
       "id": "697ac26d74b9ddfbc59852fb",
@@ -5747,7 +5995,9 @@
             "guarantorEmail": "tracybernard@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-08-23T00:36:48.716Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d1882d7b70d8fe9bd",
@@ -5793,7 +6043,9 @@
             "guarantorEmail": "huntmcguire@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-12-21T12:06:19.488Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d11f28f717bcd9e15",
@@ -5839,7 +6091,9 @@
             "guarantorEmail": "lyonsmedina@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-11-27T02:24:17.110Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d06e636995f1b8f35",
@@ -5885,7 +6139,9 @@
             "guarantorEmail": "kendramathis@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-03-15T22:40:41.636Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d924962f9cb02cb4f",
@@ -5931,7 +6187,9 @@
             "guarantorEmail": "jeaninemorse@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-11-08T16:25:45.532Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d43f310d19b50a3b0",
@@ -5977,7 +6235,9 @@
             "guarantorEmail": "vaughndavis@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-04-05T08:24:17.409Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26df376f1e90855f4da",
@@ -6023,7 +6283,9 @@
             "guarantorEmail": "lambertburton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-09-21T04:13:41.148Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dd447a712a85baf24",
@@ -6069,7 +6331,9 @@
             "guarantorEmail": "jenniequinn@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-06-22T06:18:19.062Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26da45248879d4cff64",
@@ -6115,7 +6379,9 @@
             "guarantorEmail": "sophiasherman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-01-22T10:44:55.052Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d6fa958a9537152c9",
@@ -6161,7 +6427,9 @@
             "guarantorEmail": "maggieglenn@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-09-12T09:27:55.788Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d2ba554365f63bc6f",
@@ -6207,7 +6475,9 @@
             "guarantorEmail": "pierceshepard@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-11-30T10:46:26.629Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d94b670e97c226f59",
@@ -6253,7 +6523,9 @@
             "guarantorEmail": "luisakennedy@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-10-08T10:52:38.995Z",
+      "status": "active"
    },
    {
       "id": "697ac26ddf26b8adfb41b867",
@@ -6299,7 +6571,9 @@
             "guarantorEmail": "fannyfernandez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-06-04T23:29:18.439Z",
+      "status": "active"
    },
    {
       "id": "697ac26d62570513359e0ad0",
@@ -6345,7 +6619,9 @@
             "guarantorEmail": "holtraymond@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-10-27T17:09:57.168Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dbf1dad885c8cb074",
@@ -6391,7 +6667,9 @@
             "guarantorEmail": "sherrierutledge@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-07-06T03:06:14.189Z",
+      "status": "active"
    },
    {
       "id": "697ac26d653dced8dffcbdd0",
@@ -6437,7 +6715,9 @@
             "guarantorEmail": "friedalowery@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-03-20T17:02:05.714Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d6663dcd183476634",
@@ -6483,7 +6763,9 @@
             "guarantorEmail": "reevesreyes@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-12-18T03:55:24.916Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dfc2bec9b87cb4295",
@@ -6529,7 +6811,9 @@
             "guarantorEmail": "eddielarson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-11-18T10:02:30.330Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dcc094d4048ade85a",
@@ -6575,7 +6859,9 @@
             "guarantorEmail": "blackholman@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-06-27T08:55:14.469Z",
+      "status": "active"
    },
    {
       "id": "697ac26d0d9a457518d588f9",
@@ -6621,7 +6907,9 @@
             "guarantorEmail": "colleenwaters@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-12-11T11:07:49.540Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d4a1bc97c4cfceb68",
@@ -6667,7 +6955,9 @@
             "guarantorEmail": "elisabethsloan@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-10-14T14:09:48.196Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d4e1a95f3918018db",
@@ -6713,7 +7003,9 @@
             "guarantorEmail": "lilliangonzales@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-01-23T17:48:20.978Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26df105966b3b1544cf",
@@ -6759,7 +7051,9 @@
             "guarantorEmail": "foxnorman@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-02-04T08:18:50.809Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d47ef39a06b7dc3af",
@@ -6805,7 +7099,9 @@
             "guarantorEmail": "josiechurch@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-28T06:44:27.185Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d979cc3ff9f67c722",
@@ -6851,7 +7147,9 @@
             "guarantorEmail": "silviachavez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-08-04T09:06:23.256Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d28e88ff89308e618",
@@ -6897,7 +7195,9 @@
             "guarantorEmail": "paulpetersen@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-05-31T11:23:01.990Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de5f93d7571165bb4",
@@ -6943,7 +7243,9 @@
             "guarantorEmail": "simpsoncastaneda@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-08-07T20:43:36.998Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dc872eacb3c260627",
@@ -6989,7 +7291,9 @@
             "guarantorEmail": "daphnewilkerson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-12-30T23:58:18.070Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d70bbb9177c7f5e10",
@@ -7035,7 +7339,9 @@
             "guarantorEmail": "tuckerhaney@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-12-14T09:59:37.287Z",
+      "status": "active"
    },
    {
       "id": "697ac26d9e246444c0bce159",
@@ -7081,7 +7387,9 @@
             "guarantorEmail": "hortonhoover@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-05-25T02:52:58.941Z",
+      "status": "active"
    },
    {
       "id": "697ac26d75ef03dc6a00cfd0",
@@ -7127,7 +7435,9 @@
             "guarantorEmail": "dixonkirk@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-03-05T22:14:59.635Z",
+      "status": "active"
    },
    {
       "id": "697ac26d883982febe1fffef",
@@ -7173,7 +7483,9 @@
             "guarantorEmail": "beasleytillman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-03-22T08:14:07.651Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dd87eafe583c0e164",
@@ -7219,7 +7531,9 @@
             "guarantorEmail": "neldabird@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2026-01-31T11:10:59.815Z",
+      "status": "active"
    },
    {
       "id": "697ac26d98e3bc68d3cd140d",
@@ -7265,7 +7579,9 @@
             "guarantorEmail": "fultonsantiago@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-07-19T00:29:09.630Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ddb4c82d1594ab0b6",
@@ -7311,7 +7627,9 @@
             "guarantorEmail": "diannpickett@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-25T06:31:55.703Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d7fd35824aa4b556a",
@@ -7357,7 +7675,9 @@
             "guarantorEmail": "mayerdillard@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-02-13T09:26:56.534Z",
+      "status": "active"
    },
    {
       "id": "697ac26d857d2cf2d8a2bfae",
@@ -7403,7 +7723,9 @@
             "guarantorEmail": "jotate@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-16T06:42:06.696Z",
+      "status": "active"
    },
    {
       "id": "697ac26d8b42335edbb04e48",
@@ -7449,7 +7771,9 @@
             "guarantorEmail": "marissalawrence@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-05-01T07:27:31.881Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da3ae1bd17fe13db9",
@@ -7495,7 +7819,9 @@
             "guarantorEmail": "carolinalara@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-09-24T07:12:14.035Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26df8018c98b6b1240d",
@@ -7541,7 +7867,9 @@
             "guarantorEmail": "ashleyreid@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-02-16T03:31:39.777Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dc3a767cc7991d27d",
@@ -7587,7 +7915,9 @@
             "guarantorEmail": "sabrinalivingston@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-10-03T20:50:52.326Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de0a2b4c96c06495f",
@@ -7633,7 +7963,9 @@
             "guarantorEmail": "nevasimon@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-08-30T13:58:28.274Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d615045ab1c8d5353",
@@ -7679,7 +8011,9 @@
             "guarantorEmail": "aliciaflowers@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-08-13T07:06:54.356Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d4283555b0f46f5b1",
@@ -7725,7 +8059,9 @@
             "guarantorEmail": "robinsonewing@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-16T01:04:45.031Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d2a89cb2748c1cc82",
@@ -7771,7 +8107,9 @@
             "guarantorEmail": "lindsayratliff@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-07-26T05:19:02.851Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d6ff678310e5f560e",
@@ -7817,7 +8155,9 @@
             "guarantorEmail": "delacruzlong@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-07-05T20:05:29.536Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d93a246ffec890116",
@@ -7863,7 +8203,9 @@
             "guarantorEmail": "beancunningham@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-08T06:59:24.997Z",
+      "status": "active"
    },
    {
       "id": "697ac26de1aa963da52b2c70",
@@ -7909,7 +8251,9 @@
             "guarantorEmail": "frangreene@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-03T04:11:15.883Z",
+      "status": "active"
    },
    {
       "id": "697ac26d0e76697582494ec3",
@@ -7955,7 +8299,9 @@
             "guarantorEmail": "latonyafulton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-27T04:59:44.313Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d834f2fdf6df7ee58",
@@ -8001,7 +8347,9 @@
             "guarantorEmail": "luellasnider@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-06-24T12:19:09.256Z",
+      "status": "active"
    },
    {
       "id": "697ac26df3217eb5467b804a",
@@ -8047,7 +8395,9 @@
             "guarantorEmail": "agnesvalencia@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-11-28T11:38:28.237Z",
+      "status": "pending"
    },
    {
       "id": "697ac26df2b1cec2bf919540",
@@ -8093,7 +8443,9 @@
             "guarantorEmail": "goldiedale@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-02-27T13:59:39.064Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da6ad5643070ded8c",
@@ -8139,7 +8491,9 @@
             "guarantorEmail": "susangamble@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-05-06T23:14:23.446Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d9abf9f6b0ab03415",
@@ -8185,7 +8539,9 @@
             "guarantorEmail": "cleoknox@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-07-16T06:12:58.330Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d1a328517e29d5ff9",
@@ -8231,7 +8587,9 @@
             "guarantorEmail": "deliabray@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-05-22T21:53:51.968Z",
+      "status": "active"
    },
    {
       "id": "697ac26df15abda8d59b48ba",
@@ -8277,7 +8635,9 @@
             "guarantorEmail": "camposhoward@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-12-24T12:12:51.270Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dc04f195adefa607e",
@@ -8323,7 +8683,9 @@
             "guarantorEmail": "virginiastanton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-09-30T11:03:26.541Z",
+      "status": "active"
    },
    {
       "id": "697ac26d275337202a30f40b",
@@ -8369,7 +8731,9 @@
             "guarantorEmail": "chaneyware@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-07-06T07:07:28.292Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d84e3705f2c09ba82",
@@ -8415,7 +8779,9 @@
             "guarantorEmail": "mcgeeellison@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-04-30T17:47:58.439Z",
+      "status": "active"
    },
    {
       "id": "697ac26dc3c8bf7d18c51573",
@@ -8461,7 +8827,9 @@
             "guarantorEmail": "wallschambers@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-06-18T01:04:15.692Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dd09150a46f4217eb",
@@ -8507,7 +8875,9 @@
             "guarantorEmail": "carrollhunt@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-07-30T01:21:11.354Z",
+      "status": "active"
    },
    {
       "id": "697ac26d1b4b287558bdc543",
@@ -8553,7 +8923,9 @@
             "guarantorEmail": "karlaryan@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-04-15T13:18:33.117Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d8ae63e83618ba4f8",
@@ -8599,7 +8971,9 @@
             "guarantorEmail": "claudinecameron@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-04-30T01:36:57.249Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26db226ae31d57431b1",
@@ -8645,7 +9019,9 @@
             "guarantorEmail": "stantonhester@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-04-17T21:25:29.680Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d8ece28814a02942d",
@@ -8691,7 +9067,9 @@
             "guarantorEmail": "betsychristensen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-04-18T23:38:20.789Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d9eefa6935c36034c",
@@ -8737,7 +9115,9 @@
             "guarantorEmail": "langnolan@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-02-06T14:49:25.744Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d1c64aeacb619fe48",
@@ -8783,7 +9163,9 @@
             "guarantorEmail": "abbottmartin@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-09-14T06:18:00.103Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d6c242839ac06c3ac",
@@ -8829,7 +9211,9 @@
             "guarantorEmail": "mavisstone@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-05-20T07:49:39.698Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dd06b96e80f8c5ca0",
@@ -8875,7 +9259,9 @@
             "guarantorEmail": "whitneymccoy@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-11-13T01:59:56.915Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d88005555a05d613c",
@@ -8921,7 +9307,9 @@
             "guarantorEmail": "hullmckenzie@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-11-11T12:06:11.564Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d56631d9a7fa46691",
@@ -8967,7 +9355,9 @@
             "guarantorEmail": "esthermerrill@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-19T10:16:48.203Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dd449ce0c125c136b",
@@ -9013,7 +9403,9 @@
             "guarantorEmail": "lindseyayala@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-01-08T07:51:14.775Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d2007dc2ca2cc001e",
@@ -9059,7 +9451,9 @@
             "guarantorEmail": "christynorton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-01-26T22:57:39.584Z",
+      "status": "active"
    },
    {
       "id": "697ac26d340b3674b5a247a3",
@@ -9105,7 +9499,9 @@
             "guarantorEmail": "hardyreynolds@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-10-22T05:40:46.775Z",
+      "status": "active"
    },
    {
       "id": "697ac26df18927f75e484347",
@@ -9151,7 +9547,9 @@
             "guarantorEmail": "burkswoodward@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-12-25T19:06:20.564Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d96e2f31c147e54d0",
@@ -9197,7 +9595,9 @@
             "guarantorEmail": "snyderpage@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-06-14T07:04:10.418Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d95c82a5e9befb1b5",
@@ -9243,7 +9643,9 @@
             "guarantorEmail": "barronphillips@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-05-28T20:49:12.368Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26daea1e75c303985ba",
@@ -9289,7 +9691,9 @@
             "guarantorEmail": "delgadolangley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-08T01:42:32.047Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d29cea1467162caa6",
@@ -9335,7 +9739,9 @@
             "guarantorEmail": "anaalexander@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-09-20T17:42:30.453Z",
+      "status": "active"
    },
    {
       "id": "697ac26dbf1d0385323bb313",
@@ -9381,7 +9787,9 @@
             "guarantorEmail": "lanehuffman@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-08-26T08:30:57.185Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dad1e4f9ef9af9966",
@@ -9427,7 +9835,9 @@
             "guarantorEmail": "mirandamullen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-08-21T04:46:14.416Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dc21cc1d9706bd579",
@@ -9473,7 +9883,9 @@
             "guarantorEmail": "gillmayo@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-01-21T11:27:10.611Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d19907c60d9efb349",
@@ -9519,7 +9931,9 @@
             "guarantorEmail": "mayboyer@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-01-26T06:19:57.260Z",
+      "status": "active"
    },
    {
       "id": "697ac26df912de31c0a36bc3",
@@ -9565,7 +9979,9 @@
             "guarantorEmail": "catalinamcfarland@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-05-23T14:54:16.539Z",
+      "status": "pending"
    },
    {
       "id": "697ac26de5fadfe1429a6367",
@@ -9611,7 +10027,9 @@
             "guarantorEmail": "grimeswiley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-04-03T10:39:38.406Z",
+      "status": "active"
    },
    {
       "id": "697ac26d0473155248336e40",
@@ -9657,7 +10075,9 @@
             "guarantorEmail": "yatessimmons@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-05-03T20:33:18.671Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26daf440510d8946185",
@@ -9703,7 +10123,9 @@
             "guarantorEmail": "newmanweber@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-01-25T23:01:41.860Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d0909efc6f29c2697",
@@ -9749,7 +10171,9 @@
             "guarantorEmail": "katelynbooker@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-11-08T14:42:42.499Z",
+      "status": "active"
    },
    {
       "id": "697ac26de9afed35f15004a8",
@@ -9795,7 +10219,9 @@
             "guarantorEmail": "rosariobradford@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-05T05:05:06.267Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d3e405390d35eff8f",
@@ -9841,7 +10267,9 @@
             "guarantorEmail": "cruzsoto@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-10-02T09:14:47.922Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dbeaa54002a4948e0",
@@ -9887,7 +10315,9 @@
             "guarantorEmail": "juanawilson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-08-25T05:06:18.942Z",
+      "status": "pending"
    },
    {
       "id": "697ac26df3a927ece85a31b0",
@@ -9933,7 +10363,9 @@
             "guarantorEmail": "frazierrivers@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-09-25T18:30:45.397Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d08569d60da94892a",
@@ -9979,7 +10411,9 @@
             "guarantorEmail": "lorielamb@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-08-02T04:39:58.838Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d8328c2664a06c04c",
@@ -10025,7 +10459,9 @@
             "guarantorEmail": "helgahawkins@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-02-18T17:19:34.786Z",
+      "status": "active"
    },
    {
       "id": "697ac26da509bc82174733db",
@@ -10071,7 +10507,9 @@
             "guarantorEmail": "bishopflores@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-08-16T14:26:51.438Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d96f9b9aef446aeb8",
@@ -10117,7 +10555,9 @@
             "guarantorEmail": "deboramack@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-01-11T01:27:49.028Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dbec9020eec046da2",
@@ -10163,7 +10603,9 @@
             "guarantorEmail": "laraprince@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-20T13:27:32.096Z",
+      "status": "active"
    },
    {
       "id": "697ac26dd2747c06829e2c0f",
@@ -10209,7 +10651,9 @@
             "guarantorEmail": "bradshawpalmer@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-03-13T00:17:35.356Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dda76aafe2fef0113",
@@ -10255,7 +10699,9 @@
             "guarantorEmail": "albertahutchinson@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-12-11T11:27:35.839Z",
+      "status": "active"
    },
    {
       "id": "697ac26dbffee10c4e828b68",
@@ -10301,7 +10747,9 @@
             "guarantorEmail": "danielsjohnston@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-10-29T09:36:14.156Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dc284a427d3a39e8d",
@@ -10347,7 +10795,9 @@
             "guarantorEmail": "dodsonfigueroa@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-06T13:45:13.887Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dd8923f3d4c4184f7",
@@ -10393,7 +10843,9 @@
             "guarantorEmail": "megangallegos@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-06-28T06:33:56.005Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d02a4685c43c1657c",
@@ -10439,7 +10891,9 @@
             "guarantorEmail": "knightbuchanan@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-02-28T21:23:34.879Z",
+      "status": "pending"
    },
    {
       "id": "697ac26db2e67eee0ec91088",
@@ -10485,7 +10939,9 @@
             "guarantorEmail": "lottharmon@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-04-19T16:51:46.583Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d664d49a452c72805",
@@ -10531,7 +10987,9 @@
             "guarantorEmail": "montoyamiller@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-02-20T21:38:43.808Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dd1d70cb2acab144d",
@@ -10577,7 +11035,9 @@
             "guarantorEmail": "shawpuckett@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-01-12T00:30:28.175Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da26c7e9cb00ba333",
@@ -10623,7 +11083,9 @@
             "guarantorEmail": "daltonfarley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-10-26T19:06:51.124Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d697aeb500d46c56f",
@@ -10669,7 +11131,9 @@
             "guarantorEmail": "grossfuller@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-11-20T11:00:30.822Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dd7b2d4724ae2f6aa",
@@ -10715,7 +11179,9 @@
             "guarantorEmail": "hallsanders@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-11-25T22:18:07.836Z",
+      "status": "active"
    },
    {
       "id": "697ac26dead6772524d0f465",
@@ -10761,7 +11227,9 @@
             "guarantorEmail": "irenestrickland@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-02-26T17:43:05.512Z",
+      "status": "active"
    },
    {
       "id": "697ac26d4f36fd5039273d01",
@@ -10807,7 +11275,9 @@
             "guarantorEmail": "chasitylancaster@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-08-08T08:09:12.028Z",
+      "status": "active"
    },
    {
       "id": "697ac26d4cfde403219642b9",
@@ -10853,7 +11323,9 @@
             "guarantorEmail": "kimunderwood@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-10-02T01:11:20.221Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d5991a2035eff5713",
@@ -10899,7 +11371,9 @@
             "guarantorEmail": "chapmandeleon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-04-27T17:47:06.779Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d9344071d5668f60d",
@@ -10945,7 +11419,9 @@
             "guarantorEmail": "hayesgriffith@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-07-27T02:10:16.544Z",
+      "status": "active"
    },
    {
       "id": "697ac26df6d2ca5bd09f57f5",
@@ -10991,7 +11467,9 @@
             "guarantorEmail": "tammiedouglas@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-12-03T00:12:55.595Z",
+      "status": "active"
    },
    {
       "id": "697ac26dd614dbb50ef0903d",
@@ -11037,7 +11515,9 @@
             "guarantorEmail": "rosalesweeks@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-07-01T17:10:29.555Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dcb3b18a202480692",
@@ -11083,7 +11563,9 @@
             "guarantorEmail": "yvetteguerra@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-13T14:32:07.404Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d49f87c7392f6c118",
@@ -11129,7 +11611,9 @@
             "guarantorEmail": "lanacook@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-12-23T09:05:32.033Z",
+      "status": "active"
    },
    {
       "id": "697ac26d5828e5f771d93cf7",
@@ -11175,7 +11659,9 @@
             "guarantorEmail": "avilavazquez@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-19T01:49:26.352Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d913fb5b378d4f6f2",
@@ -11221,7 +11707,9 @@
             "guarantorEmail": "rasmussenbarry@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-09-10T22:17:52.560Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d5a1ba08feab8ac2e",
@@ -11267,7 +11755,9 @@
             "guarantorEmail": "bernardacevedo@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-05-19T07:13:04.446Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d5c7d6de0c9b20a57",
@@ -11313,7 +11803,9 @@
             "guarantorEmail": "sadieparker@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-05-10T18:05:48.262Z",
+      "status": "active"
    },
    {
       "id": "697ac26d36107deaafefdc5a",
@@ -11359,7 +11851,9 @@
             "guarantorEmail": "loisbryant@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-04-21T08:21:47.018Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26de25f8adbcaa7338c",
@@ -11405,7 +11899,9 @@
             "guarantorEmail": "melisadennis@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-19T21:54:14.854Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d007b711085b172cb",
@@ -11451,7 +11947,9 @@
             "guarantorEmail": "haleyrandall@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-08-31T12:07:28.665Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d9456b49ce88910fe",
@@ -11497,7 +11995,9 @@
             "guarantorEmail": "dorismorris@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-25T13:09:20.271Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d265af19a85815bfc",
@@ -11543,7 +12043,9 @@
             "guarantorEmail": "johannamcknight@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-11-07T07:30:01.279Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d5931359d9d8549ca",
@@ -11589,7 +12091,9 @@
             "guarantorEmail": "keriodom@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-11-02T08:20:48.921Z",
+      "status": "active"
    },
    {
       "id": "697ac26d6bb36b6e12fd7b2a",
@@ -11635,7 +12139,9 @@
             "guarantorEmail": "wisedunn@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-19T13:11:36.151Z",
+      "status": "pending"
    },
    {
       "id": "697ac26df7427f50bb7ac56d",
@@ -11681,7 +12187,9 @@
             "guarantorEmail": "everetttravis@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-02-21T07:24:30.166Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d0536bbc52e58f7eb",
@@ -11727,7 +12235,9 @@
             "guarantorEmail": "wendysuarez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-05-25T03:08:55.701Z",
+      "status": "active"
    },
    {
       "id": "697ac26d32e1f4ac3d69a49c",
@@ -11773,7 +12283,9 @@
             "guarantorEmail": "travisluna@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-03-07T18:52:28.124Z",
+      "status": "active"
    },
    {
       "id": "697ac26df8b157849f2e4a1a",
@@ -11819,7 +12331,9 @@
             "guarantorEmail": "marianaserrano@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-10-12T22:11:59.155Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dbe9f2b7f9d5870f8",
@@ -11865,7 +12379,9 @@
             "guarantorEmail": "gretchenmendez@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-01-28T15:47:29.055Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dd09b3b8eb14a2edc",
@@ -11911,7 +12427,9 @@
             "guarantorEmail": "penningtonferrell@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-08-16T23:05:39.476Z",
+      "status": "active"
    },
    {
       "id": "697ac26de15a69a0794ab0e1",
@@ -11957,7 +12475,9 @@
             "guarantorEmail": "mabelramos@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-12-09T20:40:07.679Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d8a5db6cdf619979d",
@@ -12003,7 +12523,9 @@
             "guarantorEmail": "esperanzahurst@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-02-28T12:12:52.518Z",
+      "status": "active"
    },
    {
       "id": "697ac26d2f4f82cad831868f",
@@ -12049,7 +12571,9 @@
             "guarantorEmail": "leannamalone@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-03-11T01:48:07.986Z",
+      "status": "active"
    },
    {
       "id": "697ac26d13b7b1df8a9c8a52",
@@ -12095,7 +12619,9 @@
             "guarantorEmail": "adacombs@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-04-19T15:29:14.418Z",
+      "status": "active"
    },
    {
       "id": "697ac26d89bf286d8f3d5ded",
@@ -12141,7 +12667,9 @@
             "guarantorEmail": "lorenefrank@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-03-04T03:25:24.710Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d6fc2e34090c4783b",
@@ -12187,7 +12715,9 @@
             "guarantorEmail": "puckettrichardson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-15T03:58:40.712Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d753e3827a2fac25a",
@@ -12233,7 +12763,9 @@
             "guarantorEmail": "kaseylowe@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-11-01T11:01:59.745Z",
+      "status": "active"
    },
    {
       "id": "697ac26d0543c53cce9bf081",
@@ -12279,7 +12811,9 @@
             "guarantorEmail": "elvagarrett@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-15T18:54:56.183Z",
+      "status": "pending"
    },
    {
       "id": "697ac26dfd4ec22c524bac33",
@@ -12325,7 +12859,9 @@
             "guarantorEmail": "torreshenry@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-03-05T19:27:15.795Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d363a08869936d119",
@@ -12371,7 +12907,9 @@
             "guarantorEmail": "stewartnixon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-12-22T19:49:24.158Z",
+      "status": "active"
    },
    {
       "id": "697ac26d3f6a92369af8335c",
@@ -12417,7 +12955,9 @@
             "guarantorEmail": "chandleroneal@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-02-26T04:56:02.250Z",
+      "status": "active"
    },
    {
       "id": "697ac26d3e20e82b1b920ae1",
@@ -12463,7 +13003,9 @@
             "guarantorEmail": "rosemariebolton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-04-30T20:05:04.561Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dc83b098ab3c175f2",
@@ -12509,7 +13051,9 @@
             "guarantorEmail": "rosariofitzpatrick@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-08-03T20:55:20.898Z",
+      "status": "active"
    },
    {
       "id": "697ac26d9be0d5b85a81c467",
@@ -12555,7 +13099,9 @@
             "guarantorEmail": "lisasummers@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-02-20T16:54:51.511Z",
+      "status": "active"
    },
    {
       "id": "697ac26dcea0d334c45507ef",
@@ -12601,7 +13147,9 @@
             "guarantorEmail": "clarksullivan@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-03-31T18:24:52.153Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d16700978bec9eff5",
@@ -12647,7 +13195,9 @@
             "guarantorEmail": "shaunaguthrie@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-06-16T04:57:18.884Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d53fef51d746f3b30",
@@ -12693,7 +13243,9 @@
             "guarantorEmail": "woodkidd@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-08-18T16:07:15.869Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dfb84731b465ae677",
@@ -12739,7 +13291,9 @@
             "guarantorEmail": "velazquezmassey@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-04-10T05:48:54.210Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d825989bcd52b2530",
@@ -12785,7 +13339,9 @@
             "guarantorEmail": "cannonmckinney@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-09-15T16:22:43.646Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d7358ab4797018862",
@@ -12831,7 +13387,9 @@
             "guarantorEmail": "deckerowen@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-09-28T15:06:06.879Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d376bf2892729a0a7",
@@ -12877,7 +13435,9 @@
             "guarantorEmail": "carlyrichmond@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-10-02T21:38:19.361Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d2351737a831b155a",
@@ -12923,7 +13483,9 @@
             "guarantorEmail": "phelpsrichard@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-15T20:28:50.111Z",
+      "status": "active"
    },
    {
       "id": "697ac26d04ab7fffb8866f53",
@@ -12969,7 +13531,9 @@
             "guarantorEmail": "catherineavila@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-19T11:34:21.215Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d7b5b0ba9593ab6ed",
@@ -13015,7 +13579,9 @@
             "guarantorEmail": "estellekline@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-08-15T17:20:19.563Z",
+      "status": "active"
    },
    {
       "id": "697ac26d1a9ffba45d1caeca",
@@ -13061,7 +13627,9 @@
             "guarantorEmail": "wootensharp@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-12-25T04:42:33.899Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d9f9ba1be17d50e25",
@@ -13107,7 +13675,9 @@
             "guarantorEmail": "lesliecarr@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-09-01T08:08:46.268Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26da3ac54f3cad4d406",
@@ -13153,7 +13723,9 @@
             "guarantorEmail": "watershill@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-01-26T20:29:25.950Z",
+      "status": "active"
    },
    {
       "id": "697ac26d877307da41f4effa",
@@ -13199,7 +13771,9 @@
             "guarantorEmail": "rivaspearson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-12-16T03:55:46.290Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dc87d68e7d3471162",
@@ -13245,7 +13819,9 @@
             "guarantorEmail": "chrisoneil@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-07-11T04:32:25.532Z",
+      "status": "active"
    },
    {
       "id": "697ac26d7ff924d7bb1fddc5",
@@ -13291,7 +13867,9 @@
             "guarantorEmail": "vernaoliver@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-06-09T03:22:37.755Z",
+      "status": "active"
    },
    {
       "id": "697ac26d81fc30b17f172222",
@@ -13337,7 +13915,9 @@
             "guarantorEmail": "jessiesandoval@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-08-14T13:53:00.947Z",
+      "status": "active"
    },
    {
       "id": "697ac26dc0fce95ae15e07ff",
@@ -13383,7 +13963,9 @@
             "guarantorEmail": "victoriabeach@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-20T09:17:33.471Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d63b1e5e7d8fb82ca",
@@ -13429,7 +14011,9 @@
             "guarantorEmail": "saundradonovan@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-07-28T11:55:58.994Z",
+      "status": "active"
    },
    {
       "id": "697ac26d28b81996d3151529",
@@ -13475,7 +14059,9 @@
             "guarantorEmail": "claydonaldson@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-08-17T18:07:44.130Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d76e50819767b2e20",
@@ -13521,7 +14107,9 @@
             "guarantorEmail": "randibarnes@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-01-31T00:46:37.484Z",
+      "status": "active"
    },
    {
       "id": "697ac26dcf3c106a7aaf1fac",
@@ -13567,7 +14155,9 @@
             "guarantorEmail": "cherioneill@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-09-24T22:48:07.536Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dbad14f9da2952bb3",
@@ -13613,7 +14203,9 @@
             "guarantorEmail": "wallermcdaniel@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-24T02:36:57.945Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d286a27cf34a3a551",
@@ -13659,7 +14251,9 @@
             "guarantorEmail": "susanneowens@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-07-30T15:16:42.967Z",
+      "status": "active"
    },
    {
       "id": "697ac26d25e103b96a954662",
@@ -13705,7 +14299,9 @@
             "guarantorEmail": "krystalpaul@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-07-05T03:35:01.288Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d582afcf702bc9046",
@@ -13751,7 +14347,9 @@
             "guarantorEmail": "gloriabrennan@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-03-09T15:48:37.178Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d4aac6f2c536f2587",
@@ -13797,7 +14395,9 @@
             "guarantorEmail": "corneliaochoa@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-11T22:19:10.076Z",
+      "status": "active"
    },
    {
       "id": "697ac26d592ac712de223294",
@@ -13843,7 +14443,9 @@
             "guarantorEmail": "yeseniaford@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-07-16T12:05:17.456Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d18fcd597b737130f",
@@ -13889,7 +14491,9 @@
             "guarantorEmail": "osbornmarshall@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-03-26T01:22:01.182Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d6e188c75993a6d99",
@@ -13935,7 +14539,9 @@
             "guarantorEmail": "jacobsonholcomb@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-02-13T22:18:21.965Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d4f8033dccbd3d773",
@@ -13981,7 +14587,9 @@
             "guarantorEmail": "feliciamoore@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-05-09T04:23:43.104Z",
+      "status": "active"
    },
    {
       "id": "697ac26d2a2a75e1a07484b7",
@@ -14027,7 +14635,9 @@
             "guarantorEmail": "conradlyons@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-03-18T22:38:02.560Z",
+      "status": "active"
    },
    {
       "id": "697ac26d62ed40e31b3d4a94",
@@ -14073,7 +14683,9 @@
             "guarantorEmail": "stonegreen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-05-10T20:46:47.535Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d955cbae0ac80e5f6",
@@ -14119,7 +14731,9 @@
             "guarantorEmail": "espinozabarr@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-05-16T02:47:36.635Z",
+      "status": "active"
    },
    {
       "id": "697ac26d52c0f09334490173",
@@ -14165,7 +14779,9 @@
             "guarantorEmail": "bellnewton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-12-31T11:41:04.166Z",
+      "status": "active"
    },
    {
       "id": "697ac26d81dfd444cd0c5873",
@@ -14211,7 +14827,9 @@
             "guarantorEmail": "morrisontyler@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-02-09T19:48:39.635Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d6a78650651e07e65",
@@ -14257,7 +14875,9 @@
             "guarantorEmail": "hebertpeck@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-01-20T23:56:46.752Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dd5a987a77ea196d6",
@@ -14303,7 +14923,9 @@
             "guarantorEmail": "stuartschroeder@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-02-22T19:11:39.388Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26dbb973b5171060de1",
@@ -14349,7 +14971,9 @@
             "guarantorEmail": "debbielindsay@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-01-05T02:45:37.157Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26d5b96801c64372128",
@@ -14395,7 +15019,9 @@
             "guarantorEmail": "maryanndickson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-08-15T02:04:26.813Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ddda2e53739b97602",
@@ -14441,7 +15067,9 @@
             "guarantorEmail": "mendozaayers@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-02-01T11:23:49.475Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d9d2708b2e22268a4",
@@ -14487,7 +15115,9 @@
             "guarantorEmail": "annabelledaniel@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-02-06T18:12:39.014Z",
+      "status": "active"
    },
    {
       "id": "697ac26d8866271aa065d027",
@@ -14533,7 +15163,9 @@
             "guarantorEmail": "butlerwalls@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-09-24T10:19:58.754Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dcbbd367216b45f7b",
@@ -14579,7 +15211,9 @@
             "guarantorEmail": "nanniecarney@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-04-02T09:52:31.646Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d2098b67c1a371429",
@@ -14625,7 +15259,9 @@
             "guarantorEmail": "mclaughlinsaunders@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2026-01-08T11:30:10.713Z",
+      "status": "active"
    },
    {
       "id": "697ac26d20b93222954fdb09",
@@ -14671,7 +15307,9 @@
             "guarantorEmail": "julietfrederick@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-04-15T07:32:05.073Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d36acf5ffcb87f288",
@@ -14717,7 +15355,9 @@
             "guarantorEmail": "castillodudley@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-02-09T10:30:21.902Z",
+      "status": "pending"
    },
    {
       "id": "697ac26d65b97d40e9e4445d",
@@ -14763,7 +15403,9 @@
             "guarantorEmail": "staciesparks@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-02-18T09:36:55.694Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26dac04e4338302a993",
@@ -14809,7 +15451,9 @@
             "guarantorEmail": "deloresbaxter@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-11-29T01:56:08.608Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26db1650cd624c8b87f",
@@ -14855,7 +15499,9 @@
             "guarantorEmail": "kaufmanroach@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-02-20T00:20:36.533Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26de782e2e80cb2c191",
@@ -14901,7 +15547,9 @@
             "guarantorEmail": "johnsnelson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-06-30T15:30:32.937Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26d6a04a8f4a154069e",
@@ -14947,7 +15595,9 @@
             "guarantorEmail": "kirklandrobles@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-07-07T07:25:40.044Z",
+      "status": "active"
    },
    {
       "id": "697ac26e84ca4e448ac8d8ce",
@@ -14993,7 +15643,9 @@
             "guarantorEmail": "hattiemcdonald@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-25T09:55:18.060Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e82480927f30b0385",
@@ -15039,7 +15691,9 @@
             "guarantorEmail": "noblespencer@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-08-13T23:55:36.594Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e0a19e720b211345d",
@@ -15085,7 +15739,9 @@
             "guarantorEmail": "housetaylor@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-08-12T14:19:50.054Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ef66b7b480dae7f73",
@@ -15131,7 +15787,9 @@
             "guarantorEmail": "reyesblackwell@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-29T10:33:31.836Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ebbaa072f736ef3ad",
@@ -15177,7 +15835,9 @@
             "guarantorEmail": "jamesjacobs@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-03-01T01:52:42.415Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e4c6eeba1f045234b",
@@ -15223,7 +15883,9 @@
             "guarantorEmail": "brandiehodge@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-02-03T17:48:33.229Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e9b13edefdc37cdd6",
@@ -15269,7 +15931,9 @@
             "guarantorEmail": "doylehart@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2026-01-08T09:54:01.572Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e1525bae6ed3e548d",
@@ -15315,7 +15979,9 @@
             "guarantorEmail": "ernacote@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-10-11T09:00:36.566Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8360b116d56290fe",
@@ -15361,7 +16027,9 @@
             "guarantorEmail": "klinemckee@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-11-09T18:23:29.271Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eaf70f274551df881",
@@ -15407,7 +16075,9 @@
             "guarantorEmail": "cottonblanchard@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-12-03T22:23:54.207Z",
+      "status": "active"
    },
    {
       "id": "697ac26eea4a64c37f792aab",
@@ -15453,7 +16123,9 @@
             "guarantorEmail": "kristiwillis@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-07-27T09:02:27.996Z",
+      "status": "active"
    },
    {
       "id": "697ac26e84c0d9ec259fb4cf",
@@ -15499,7 +16171,9 @@
             "guarantorEmail": "hopperwarren@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-04-08T23:58:07.616Z",
+      "status": "active"
    },
    {
       "id": "697ac26e9de9c0437251339d",
@@ -15545,7 +16219,9 @@
             "guarantorEmail": "acostacruz@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-12-12T23:30:26.106Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e71722bfc5d6bc24f",
@@ -15591,7 +16267,9 @@
             "guarantorEmail": "eloisegray@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-09-14T03:09:20.260Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e976e7b747c97ed27",
@@ -15637,7 +16315,9 @@
             "guarantorEmail": "ericapatrick@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-04-12T08:14:58.800Z",
+      "status": "active"
    },
    {
       "id": "697ac26ebb5c87ecc6b47283",
@@ -15683,7 +16363,9 @@
             "guarantorEmail": "vasquezjohnson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-08-17T06:39:58.042Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e4ab8a2644800e8b7",
@@ -15729,7 +16411,9 @@
             "guarantorEmail": "estesday@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-12-20T12:46:44.610Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e497debb73d17c348",
@@ -15775,7 +16459,9 @@
             "guarantorEmail": "laureleaton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-14T22:42:52.669Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ee9aec756177e7c43",
@@ -15821,7 +16507,9 @@
             "guarantorEmail": "alexanderbullock@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-02T11:48:30.397Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e8a0e40c0e1f6615b",
@@ -15867,7 +16555,9 @@
             "guarantorEmail": "marisaalford@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-11-27T07:05:33.523Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8333dfd603afca50",
@@ -15913,7 +16603,9 @@
             "guarantorEmail": "combsjensen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-13T09:05:11.538Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e88fb844353c197ab",
@@ -15959,7 +16651,9 @@
             "guarantorEmail": "annahopkins@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-01-12T16:09:28.026Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e6e4e25a64d88dd8e",
@@ -16005,7 +16699,9 @@
             "guarantorEmail": "arnoldsmall@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-11-07T10:54:03.575Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e117399c6d9eccb0d",
@@ -16051,7 +16747,9 @@
             "guarantorEmail": "santosgreer@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-06-30T14:32:29.241Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e68476bd80fa033b9",
@@ -16097,7 +16795,9 @@
             "guarantorEmail": "justinesolomon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-08-21T21:10:32.255Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eae7623169fb7600a",
@@ -16143,7 +16843,9 @@
             "guarantorEmail": "lesleygaines@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-12-23T03:31:06.969Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ef6021d8b3dd966f6",
@@ -16189,7 +16891,9 @@
             "guarantorEmail": "trudypruitt@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-11-24T01:41:55.043Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e4f03a1a2f7c2d99c",
@@ -16235,7 +16939,9 @@
             "guarantorEmail": "ricekinney@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-08-09T12:12:32.170Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eea1b7845da8526da",
@@ -16281,7 +16987,9 @@
             "guarantorEmail": "estellasellers@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-03-01T08:17:19.671Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee6a424098a325769",
@@ -16327,7 +17035,9 @@
             "guarantorEmail": "rodriguezsharpe@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-02-19T04:03:05.407Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e9b3b364fb8b0ddcb",
@@ -16373,7 +17083,9 @@
             "guarantorEmail": "robynaguilar@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-10-01T15:19:10.116Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e3853900444734d46",
@@ -16419,7 +17131,9 @@
             "guarantorEmail": "maritzasheppard@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-04-19T13:51:59.391Z",
+      "status": "active"
    },
    {
       "id": "697ac26e2790807484bcb7d1",
@@ -16465,7 +17179,9 @@
             "guarantorEmail": "wheelerpena@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-10-03T13:48:57.564Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ec87cf539740a2111",
@@ -16511,7 +17227,9 @@
             "guarantorEmail": "thomasvaughan@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-08T20:19:53.850Z",
+      "status": "active"
    },
    {
       "id": "697ac26e82c85f52592c04e1",
@@ -16557,7 +17275,9 @@
             "guarantorEmail": "valerieherring@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-30T10:08:57.059Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eb2f85243686de4c6",
@@ -16603,7 +17323,9 @@
             "guarantorEmail": "merlelee@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-11-04T13:59:04.848Z",
+      "status": "active"
    },
    {
       "id": "697ac26e5912036d282f2759",
@@ -16649,7 +17371,9 @@
             "guarantorEmail": "calhounbest@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-02-04T13:20:00.747Z",
+      "status": "active"
    },
    {
       "id": "697ac26ed9ea0062c093c902",
@@ -16695,7 +17419,9 @@
             "guarantorEmail": "yorkcherry@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-10-17T05:28:40.704Z",
+      "status": "active"
    },
    {
       "id": "697ac26eedc2215d8054be2d",
@@ -16741,7 +17467,9 @@
             "guarantorEmail": "christensenkim@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-06-26T21:33:08.087Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ef438c3c49b0bd13a",
@@ -16787,7 +17515,9 @@
             "guarantorEmail": "oconnorholloway@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-12-26T12:20:40.348Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26eea80eee24bc0b2c5",
@@ -16833,7 +17563,9 @@
             "guarantorEmail": "leehooper@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-07-19T04:37:29.328Z",
+      "status": "active"
    },
    {
       "id": "697ac26eb238689120f9ac36",
@@ -16879,7 +17611,9 @@
             "guarantorEmail": "careyengland@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-04-11T12:18:11.730Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e58b09760799ef824",
@@ -16925,7 +17659,9 @@
             "guarantorEmail": "walshtanner@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-19T21:19:16.082Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ef9d77b0ec90b3d69",
@@ -16971,7 +17707,9 @@
             "guarantorEmail": "bestphelps@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-01-16T16:32:33.426Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e769202f972ae24bf",
@@ -17017,7 +17755,9 @@
             "guarantorEmail": "ingramjarvis@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-09-04T13:39:42.287Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e7d3451d2c1eb0961",
@@ -17063,7 +17803,9 @@
             "guarantorEmail": "bonitacraig@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-12-10T11:28:56.621Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e6fabee7854218f82",
@@ -17109,7 +17851,9 @@
             "guarantorEmail": "mckeeroman@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-15T01:07:10.283Z",
+      "status": "active"
    },
    {
       "id": "697ac26e79629e0b93f57ad1",
@@ -17155,7 +17899,9 @@
             "guarantorEmail": "blakeshaffer@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-03-23T00:25:22.610Z",
+      "status": "active"
    },
    {
       "id": "697ac26ebf691736145fe265",
@@ -17201,7 +17947,9 @@
             "guarantorEmail": "stephanieschmidt@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-22T02:06:05.475Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e6cd5a979283a88cd",
@@ -17247,7 +17995,9 @@
             "guarantorEmail": "robertselliott@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-05-07T17:47:27.512Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e6a84703dfd4dcd34",
@@ -17293,7 +18043,9 @@
             "guarantorEmail": "wigginschan@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-03-05T00:23:54.485Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e389c936e7ce5effb",
@@ -17339,7 +18091,9 @@
             "guarantorEmail": "ellisrusso@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-06-16T14:40:30.034Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e8e2e1c34afded808",
@@ -17385,7 +18139,9 @@
             "guarantorEmail": "shafferestrada@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-01-06T08:40:46.539Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ec132682feda13e96",
@@ -17431,7 +18187,9 @@
             "guarantorEmail": "weeksalston@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-04-13T07:13:32.826Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eee82e3121e762edb",
@@ -17477,7 +18235,9 @@
             "guarantorEmail": "mercedeswhitney@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-02-26T10:48:10.460Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e5ce5c6ad694e36b6",
@@ -17523,7 +18283,9 @@
             "guarantorEmail": "isabellaconrad@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-10-30T00:57:47.451Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e2083611d91d4c988",
@@ -17569,7 +18331,9 @@
             "guarantorEmail": "ruthwong@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-12-14T09:56:17.476Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e966f425a1b63cbb2",
@@ -17615,7 +18379,9 @@
             "guarantorEmail": "karenpotter@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-09-19T08:40:07.307Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e3575c9a64e668bd4",
@@ -17661,7 +18427,9 @@
             "guarantorEmail": "luzmelton@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-05-30T14:39:58.494Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e539f2392a6e6240f",
@@ -17707,7 +18475,9 @@
             "guarantorEmail": "balltodd@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-10-19T09:51:07.408Z",
+      "status": "active"
    },
    {
       "id": "697ac26e88843e5ce9bc24d7",
@@ -17753,7 +18523,9 @@
             "guarantorEmail": "marciestrong@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-10-30T16:39:55.273Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e12a2fef4c138d2a1",
@@ -17799,7 +18571,9 @@
             "guarantorEmail": "mullinssantana@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-03-24T19:21:01.809Z",
+      "status": "active"
    },
    {
       "id": "697ac26e046f79ebbe50bd94",
@@ -17845,7 +18619,9 @@
             "guarantorEmail": "figueroasteele@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-02-03T07:08:40.014Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e8531731cef90cdfc",
@@ -17891,7 +18667,9 @@
             "guarantorEmail": "natalievillarreal@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-11-15T02:34:18.314Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e673ba6e85d9dad53",
@@ -17937,7 +18715,9 @@
             "guarantorEmail": "sextonwooten@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-09-29T21:37:56.907Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26eaa64514803b929a6",
@@ -17983,7 +18763,9 @@
             "guarantorEmail": "lynnrobertson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-03-19T12:51:25.837Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e5180cf44c7f89aa5",
@@ -18029,7 +18811,9 @@
             "guarantorEmail": "michaelbarron@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-02-27T08:03:50.427Z",
+      "status": "active"
    },
    {
       "id": "697ac26e24a46570b06fac87",
@@ -18075,7 +18859,9 @@
             "guarantorEmail": "greenewhitley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-10-11T09:49:21.705Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e17455872c11b26c1",
@@ -18121,7 +18907,9 @@
             "guarantorEmail": "gwenvasquez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-02-13T16:26:29.026Z",
+      "status": "active"
    },
    {
       "id": "697ac26e38ef75f5af31e55c",
@@ -18167,7 +18955,9 @@
             "guarantorEmail": "nettiegeorge@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-11-27T12:15:32.301Z",
+      "status": "active"
    },
    {
       "id": "697ac26e4cf29f27f34176af",
@@ -18213,7 +19003,9 @@
             "guarantorEmail": "nancybeasley@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-05-13T15:57:28.920Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eade93b3616ae5c48",
@@ -18259,7 +19051,9 @@
             "guarantorEmail": "bertiecarrillo@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-03-18T06:24:14.895Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e9da098d50c812520",
@@ -18305,7 +19099,9 @@
             "guarantorEmail": "emersondalton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-04-17T18:22:39.454Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8980721f4e4ce8df",
@@ -18351,7 +19147,9 @@
             "guarantorEmail": "jacobspate@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-11-25T20:20:23.641Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e9c81a7e5eb5d1390",
@@ -18397,7 +19195,9 @@
             "guarantorEmail": "santiagoleonard@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-01-12T00:05:59.876Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eb5768d189055a452",
@@ -18443,7 +19243,9 @@
             "guarantorEmail": "lynnejoyce@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-08-14T17:11:04.755Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ed43a1f1bde1521c2",
@@ -18489,7 +19291,9 @@
             "guarantorEmail": "loriclemons@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-07-06T12:06:48.760Z",
+      "status": "active"
    },
    {
       "id": "697ac26efd34df4721928ad6",
@@ -18535,7 +19339,9 @@
             "guarantorEmail": "gallowayallison@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-07-27T21:27:23.421Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e0fa1fb8a97a71b5b",
@@ -18581,7 +19387,9 @@
             "guarantorEmail": "bethhanson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-04-22T20:01:18.471Z",
+      "status": "active"
    },
    {
       "id": "697ac26e6e4c33747f1c5610",
@@ -18627,7 +19435,9 @@
             "guarantorEmail": "connerwitt@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-01-11T15:00:54.013Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee1e45e487429a247",
@@ -18673,7 +19483,9 @@
             "guarantorEmail": "younghewitt@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-11-15T19:12:50.543Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ea64adb3e57ae4785",
@@ -18719,7 +19531,9 @@
             "guarantorEmail": "lawandaorr@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-12-24T08:31:03.632Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e9052ca3ab91959e3",
@@ -18765,7 +19579,9 @@
             "guarantorEmail": "lulamay@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-07-22T02:55:19.134Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ec609bbbbde4905d2",
@@ -18811,7 +19627,9 @@
             "guarantorEmail": "westbenton@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-03-03T14:12:52.659Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ee4df7757a2860155",
@@ -18857,7 +19675,9 @@
             "guarantorEmail": "eatoncochran@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-01-02T23:18:35.369Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e29964a64686d720a",
@@ -18903,7 +19723,9 @@
             "guarantorEmail": "danamcdowell@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-05-17T03:13:42.905Z",
+      "status": "active"
    },
    {
       "id": "697ac26ea55294dc1bc0765e",
@@ -18949,7 +19771,9 @@
             "guarantorEmail": "sofiastephens@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-04-04T23:39:06.934Z",
+      "status": "active"
    },
    {
       "id": "697ac26e2f1079eebeb2e508",
@@ -18995,7 +19819,9 @@
             "guarantorEmail": "patricebrady@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-01-14T22:27:46.475Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e3eafbee3ed930565",
@@ -19041,7 +19867,9 @@
             "guarantorEmail": "richardsgarner@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-12-24T12:40:19.717Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8481ed44c1851e62",
@@ -19087,7 +19915,9 @@
             "guarantorEmail": "tonishannon@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-05-03T05:28:20.598Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee121aee2a3d2e12b",
@@ -19133,7 +19963,9 @@
             "guarantorEmail": "mildrednunez@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-04-03T07:56:17.143Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e55afed494e42aef7",
@@ -19179,7 +20011,9 @@
             "guarantorEmail": "wildergiles@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-10-03T18:51:36.602Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e652d601277b937e9",
@@ -19225,7 +20059,9 @@
             "guarantorEmail": "genevieveortiz@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-09-24T12:02:43.155Z",
+      "status": "active"
    },
    {
       "id": "697ac26e666c2ae6bfaaef74",
@@ -19271,7 +20107,9 @@
             "guarantorEmail": "hessmoon@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-06-30T09:53:46.931Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee7ab061e8724f408",
@@ -19317,7 +20155,9 @@
             "guarantorEmail": "amaliawilder@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-11-24T13:55:52.386Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eec1493bbc96b3838",
@@ -19363,7 +20203,9 @@
             "guarantorEmail": "renegilbert@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-01-08T11:10:57.515Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ead01e542913947bf",
@@ -19409,7 +20251,9 @@
             "guarantorEmail": "tiffanyhurley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-01-13T09:53:20.070Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e4e7d6d24af6be66b",
@@ -19455,7 +20299,9 @@
             "guarantorEmail": "dorseyworkman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-05-27T07:49:23.216Z",
+      "status": "active"
    },
    {
       "id": "697ac26e8c3e8f78ec33a0aa",
@@ -19501,7 +20347,9 @@
             "guarantorEmail": "orablackburn@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-02-11T06:12:33.910Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e987a89bdc330b668",
@@ -19547,7 +20395,9 @@
             "guarantorEmail": "jeannesilva@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-07-16T00:40:54.315Z",
+      "status": "active"
    },
    {
       "id": "697ac26ec187c178324bb4fb",
@@ -19593,7 +20443,9 @@
             "guarantorEmail": "vincenthebert@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-09-21T03:11:36.648Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e8babb6b125b02da8",
@@ -19639,7 +20491,9 @@
             "guarantorEmail": "harringtonrodgers@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-09-19T15:33:30.801Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ef7093a0c31950a4b",
@@ -19685,7 +20539,9 @@
             "guarantorEmail": "colettehaley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-03-03T13:12:22.877Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e0bd4def89187092c",
@@ -19731,7 +20587,9 @@
             "guarantorEmail": "haydenwalter@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-04-10T17:19:27.081Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26eaf9a755dc4fc6863",
@@ -19777,7 +20635,9 @@
             "guarantorEmail": "francinemoses@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-07-23T16:17:01.647Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e1b269bb4ac90578c",
@@ -19823,7 +20683,9 @@
             "guarantorEmail": "gabriellemcclure@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-11-18T04:45:59.822Z",
+      "status": "active"
    },
    {
       "id": "697ac26e153821b6a1aeed11",
@@ -19869,7 +20731,9 @@
             "guarantorEmail": "katherinekramer@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-05-13T19:34:55.242Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e3964743082561568",
@@ -19915,7 +20779,9 @@
             "guarantorEmail": "hendricksbrooks@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-04-05T15:50:33.936Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ee84c131497f36b38",
@@ -19961,7 +20827,9 @@
             "guarantorEmail": "jodibyers@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-30T22:38:23.201Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ecaacbcffdb462580",
@@ -20007,7 +20875,9 @@
             "guarantorEmail": "claytonhensley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-11-15T15:42:44.823Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26edadaf155d3df0d3a",
@@ -20053,7 +20923,9 @@
             "guarantorEmail": "terrellchen@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-06-25T17:55:13.332Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ebccc3ee56c652498",
@@ -20099,7 +20971,9 @@
             "guarantorEmail": "farrellclark@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-08-15T06:43:21.938Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ef290507e526120cd",
@@ -20145,7 +21019,9 @@
             "guarantorEmail": "ursulamccormick@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-12-17T11:53:52.969Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26eeeffdfc7af4a5685",
@@ -20191,7 +21067,9 @@
             "guarantorEmail": "marquezirwin@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-12-28T11:27:20.391Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ecc86aa6b5959ffb4",
@@ -20237,7 +21115,9 @@
             "guarantorEmail": "hubbardbowers@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-11-04T06:32:34.060Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ecad3e47784711b59",
@@ -20283,7 +21163,9 @@
             "guarantorEmail": "blanchekemp@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-04-23T15:24:31.539Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eb731451a424945bd",
@@ -20329,7 +21211,9 @@
             "guarantorEmail": "wendibass@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2025-01-01T19:21:40.226Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ef4729e5a49773a69",
@@ -20375,7 +21259,9 @@
             "guarantorEmail": "jacklynfitzgerald@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-09-18T09:43:58.211Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee64785c87e83918c",
@@ -20421,7 +21307,9 @@
             "guarantorEmail": "dellatran@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-02-11T21:17:47.150Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ecd23f794ae9e089c",
@@ -20467,7 +21355,9 @@
             "guarantorEmail": "freidamcgee@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-11-27T03:30:02.646Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e527d7fc5829c1453",
@@ -20513,7 +21403,9 @@
             "guarantorEmail": "marimercado@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-01-31T15:21:17.602Z",
+      "status": "active"
    },
    {
       "id": "697ac26ee99c0586d99552fd",
@@ -20559,7 +21451,9 @@
             "guarantorEmail": "wattsbyrd@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-05-11T20:18:49.255Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8d26ee65821785ac",
@@ -20605,7 +21499,9 @@
             "guarantorEmail": "stacyhiggins@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-22T19:07:08.513Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e7c69612b940712fb",
@@ -20651,7 +21547,9 @@
             "guarantorEmail": "graveshess@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-03-04T12:21:25.011Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e3096b7ead27f0c3b",
@@ -20697,7 +21595,9 @@
             "guarantorEmail": "yangsargent@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-05-08T11:28:45.178Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26ee768dd674f90746b",
@@ -20743,7 +21643,9 @@
             "guarantorEmail": "vancewyatt@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-08-02T19:06:54.847Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e371151ee730fe79a",
@@ -20789,7 +21691,9 @@
             "guarantorEmail": "lilianawilliams@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-10-25T14:23:11.439Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e8b8eccbe8431831a",
@@ -20835,7 +21739,9 @@
             "guarantorEmail": "osbornecrawford@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-07T10:34:35.984Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e561a82a52097b59d",
@@ -20881,7 +21787,9 @@
             "guarantorEmail": "moonberger@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-02-08T11:50:19.893Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e70c5d20478c92ff9",
@@ -20927,7 +21835,9 @@
             "guarantorEmail": "bobbiemanning@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-01-23T15:54:40.830Z",
+      "status": "active"
    },
    {
       "id": "697ac26e5d1045b72ebc4a5f",
@@ -20973,7 +21883,9 @@
             "guarantorEmail": "rollinsbooth@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-10-21T22:13:44.472Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e04395802e2c4923f",
@@ -21019,7 +21931,9 @@
             "guarantorEmail": "sheltonpennington@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2026-01-02T10:15:38.187Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e3860b5a8c837dcee",
@@ -21065,7 +21979,9 @@
             "guarantorEmail": "dillonfrench@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-07-26T19:53:11.072Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eacabaaa62477c7fb",
@@ -21111,7 +22027,9 @@
             "guarantorEmail": "hamptonpeters@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-08-12T16:52:20.192Z",
+      "status": "active"
    },
    {
       "id": "697ac26efb82839ca24a85fb",
@@ -21157,7 +22075,9 @@
             "guarantorEmail": "hilarywalsh@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-03-26T01:07:22.911Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e09479bf3b9eb5dc8",
@@ -21203,7 +22123,9 @@
             "guarantorEmail": "laurendean@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-01-08T16:51:13.112Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ee99e21065024fdf4",
@@ -21249,7 +22171,9 @@
             "guarantorEmail": "roxiebarber@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-03-02T16:12:23.130Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ec5f3822d6bad1434",
@@ -21295,7 +22219,9 @@
             "guarantorEmail": "tonyaandrews@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-10-06T13:46:51.393Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eadb54e380eefc2b7",
@@ -21341,7 +22267,9 @@
             "guarantorEmail": "matildamontgomery@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-03-24T09:55:40.901Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e276e8637f97fb427",
@@ -21387,7 +22315,9 @@
             "guarantorEmail": "mcknightcasey@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2025-02-06T09:53:36.332Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e3c2e75a8bcf9deef",
@@ -21433,7 +22363,9 @@
             "guarantorEmail": "emiliarich@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-10-28T06:15:26.092Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e3b7e27f473d7f4a2",
@@ -21479,7 +22411,9 @@
             "guarantorEmail": "byersjenkins@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-01-20T01:52:32.558Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e1c24b3bc4d99374c",
@@ -21525,7 +22459,9 @@
             "guarantorEmail": "ramosrandolph@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-02-10T11:40:23.045Z",
+      "status": "active"
    },
    {
       "id": "697ac26eb3decf216aa63398",
@@ -21571,7 +22507,9 @@
             "guarantorEmail": "magdalenahubbard@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-10-10T20:11:23.190Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ee1949ac37faeb3ac",
@@ -21617,7 +22555,9 @@
             "guarantorEmail": "nellhartman@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-01-16T23:01:33.516Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e3a5ac0d7c7ae63df",
@@ -21663,7 +22603,9 @@
             "guarantorEmail": "idamurray@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-06-22T17:55:12.950Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e70507182fcc88533",
@@ -21709,7 +22651,9 @@
             "guarantorEmail": "dejesusmorrow@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-27T19:52:37.335Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26eb154976fbc3cc109",
@@ -21755,7 +22699,9 @@
             "guarantorEmail": "nataliadavidson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-11-09T06:07:14.044Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ede944fc2df3b773c",
@@ -21801,7 +22747,9 @@
             "guarantorEmail": "collierstark@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-02-16T23:29:06.609Z",
+      "status": "pending"
    },
    {
       "id": "697ac26edaf81465ac7422b5",
@@ -21847,7 +22795,9 @@
             "guarantorEmail": "briggsdickerson@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-09-02T23:40:17.969Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e0f1f5c3a5e671d60",
@@ -21893,7 +22843,9 @@
             "guarantorEmail": "elliottmccarty@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-04-01T06:31:19.421Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e926270b997c3ac95",
@@ -21939,7 +22891,9 @@
             "guarantorEmail": "nonanguyen@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-11-27T19:04:05.849Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e43a6300a02eef266",
@@ -21985,7 +22939,9 @@
             "guarantorEmail": "rushmejia@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-10-29T14:43:17.518Z",
+      "status": "active"
    },
    {
       "id": "697ac26ec4f00b4c95992dcd",
@@ -22031,7 +22987,9 @@
             "guarantorEmail": "cherryfinch@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-09-06T18:07:03.860Z",
+      "status": "active"
    },
    {
       "id": "697ac26e91ca00292701b3bc",
@@ -22077,7 +23035,9 @@
             "guarantorEmail": "woodardbailey@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2022-09-29T04:20:59.141Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e4ee4968d706a811c",
@@ -22123,7 +23083,9 @@
             "guarantorEmail": "rosannewynn@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2023-11-19T10:06:40.501Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e24808f50fb24d374",
@@ -22169,7 +23131,9 @@
             "guarantorEmail": "rosieacosta@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2025-08-02T18:21:39.716Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e7e7fff28a0f8fc2f",
@@ -22215,7 +23179,9 @@
             "guarantorEmail": "caseray@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-11-19T22:36:46.389Z",
+      "status": "active"
    },
    {
       "id": "697ac26e78c8bdfdeeda90e3",
@@ -22261,7 +23227,9 @@
             "guarantorEmail": "cookelynn@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2024-01-08T03:03:32.521Z",
+      "status": "pending"
    },
    {
       "id": "697ac26eaddc2c10ef28046e",
@@ -22307,7 +23275,9 @@
             "guarantorEmail": "sandovalolson@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-11-24T21:00:53.119Z",
+      "status": "pending"
    },
    {
       "id": "697ac26e6f48ff5d443cd283",
@@ -22353,7 +23323,9 @@
             "guarantorEmail": "parktalley@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-06-07T02:39:11.120Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e97e9ae002a16c8ce",
@@ -22399,7 +23371,9 @@
             "guarantorEmail": "terriprice@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-08-05T13:27:33.254Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ee1e932d61e7874bc",
@@ -22445,7 +23419,9 @@
             "guarantorEmail": "brendagross@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2021-03-11T20:02:37.601Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26eae02766d59dee9b9",
@@ -22491,7 +23467,9 @@
             "guarantorEmail": "odonnelldecker@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-11-26T19:07:48.362Z",
+      "status": "pending"
    },
    {
       "id": "697ac26efa368590900e3086",
@@ -22537,7 +23515,9 @@
             "guarantorEmail": "bartonconner@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-09-07T16:18:25.566Z",
+      "status": "inactive"
    },
    {
       "id": "697ac26e14aaffd294308996",
@@ -22583,7 +23563,9 @@
             "guarantorEmail": "bradforddrake@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2024-01-29T16:02:14.445Z",
+      "status": "active"
    },
    {
       "id": "697ac26e07bf149b43f5c207",
@@ -22629,7 +23611,9 @@
             "guarantorEmail": "callahanfowler@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-03-18T00:15:31.150Z",
+      "status": "active"
    },
    {
       "id": "697ac26eb9de8420df4124b1",
@@ -22675,7 +23659,9 @@
             "guarantorEmail": "jimmiecline@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2023-10-12T23:23:13.472Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e29fe9fb645abb516",
@@ -22721,7 +23707,9 @@
             "guarantorEmail": "popebarton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2022-10-20T11:12:38.842Z",
+      "status": "active"
    },
    {
       "id": "697ac26e88ff093f2284c27c",
@@ -22767,7 +23755,9 @@
             "guarantorEmail": "nadiaclayton@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2021-01-05T01:48:12.444Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26e6bae873113d294c1",
@@ -22813,7 +23803,9 @@
             "guarantorEmail": "myerstucker@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2023-07-19T14:59:20.689Z",
+      "status": "blacklisted"
    },
    {
       "id": "697ac26ee19558410404822c",
@@ -22859,7 +23851,9 @@
             "guarantorEmail": "mcmahongibbs@zogak.com",
             "relationship": "Colleague"
          }
-      }
+      },
+      "dateJoined": "2022-12-06T23:00:05.640Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ee814e69fb67b9279",
@@ -22905,7 +23899,9 @@
             "guarantorEmail": "duranhood@zogak.com",
             "relationship": "Uncle"
          }
-      }
+      },
+      "dateJoined": "2026-01-11T17:57:22.012Z",
+      "status": "pending"
    },
    {
       "id": "697ac26ec8ef821c0d27eca9",
@@ -22951,7 +23947,9 @@
             "guarantorEmail": "wilmapace@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2024-07-17T12:09:33.330Z",
+      "status": "active"
    },
    {
       "id": "697ac26efc9e8890a2ed2b70",
@@ -22997,6 +23995,8 @@
             "guarantorEmail": "ramseyhuff@zogak.com",
             "relationship": "Spouse"
          }
-      }
+      },
+      "dateJoined": "2021-01-07T03:09:47.152Z",
+      "status": "inactive"
    }
 ]

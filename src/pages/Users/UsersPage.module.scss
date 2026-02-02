@@ -3,61 +3,197 @@
 
 .usersPage {
     padding: 40px;
+    font-family: "Work Sans", sans-serif;
+    background: #FBFBFB;
 }
 
 .title {
     font-size: 24px;
-    font-weight: 700;
-    color: #21f73d;
+    font-weight: 500;
+    color: #213F7D;
     margin-bottom: 30px;
 }
 
-.tableWrapper {
-    background: white;
-    border: 1px solid rgba(33, 63, 125, 0.1);
-    border-radius: 10px;
-    overflow-x: auto;
-}
+.summaryCards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding-bottom: 25px;
 
-th {
-    text-align: left;
-    font-size: 12px;
-    font-weight: 600;
-    padding: 18px;
-    color: #545f7d;
-}
+    > div {
+        background: #FFFFFF;
+        // border: 1px solid;
+        // $border-color;
+        box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
+        border-radius: 4px;
+        padding: 20px 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
 
-.row {
-    cursor: pointer;
+        width: 240;
+        height: 160;
+        top: 228px;
+        // left: 609px;
+        border-width: 1px;
+        opacity: 1;
+        border-radius: 4px;
 
-    &:hover {
-        background: rgba(57, 205,204, 0.05);
+        width: 240;
+        height: 160;
+        top: 228px;
+        left: 609px;
+        border-width: 1px;
+        opacity: 1;
+
+
+        .icon-wrapper {
+            width: 40;
+            height: 40;
+            top: 248px;
+            left: 905px;
+            opacity: 1;
+
+        }
+
+        span:first-of-type {
+            text-transform: uppercase;
+            font-size: 12px;
+            color: #545F7D;
+            padding-top: 7px;
+            // margin-bottom: 8px;
+
+            width: 139;
+            height: 16;
+            top: 302px;
+            left: 905px;
+            opacity: 1;
+
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            left: 905;
+            color: #213F7D;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-transform: uppercase;
+        }
     }
 }
 
-/*status pill styling*/
-.status {
-    padding: 6px 14;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: capitalize;
-}
+.tableWrapper {
+    // background: white;
+    // border: 1px solid rgba(33, 63, 125, 0.1);
+    // border-radius: 10px;
+    // overflow-x: auto;
 
-/*status colors*/
-.Active {
-    background: rgba(57, 205,204, 0.05);
-    color: #39cdcc;
-}
+    padding: 10px;
+    width: 1037;
+    height: 640;
+    top: 428px;
+    left: 343px;
+    border-radius: 4px;
+    opacity: 1;
 
-.Inactive {
-    background: rgba(84, 95, 125, 0.15);
-    color: #545f7d;
-}
+    border: 1px solid #213F7D0F;
+    box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
+    background: #FFFFFF;
 
-.Pending {
-    background: rgba(233, 178, 0, 0.15);
-    color: #545f7d;
+    thead {
+        color: #545f7d;
+        font-weight: 600;   
+        font-size: 12px;
+
+        th{
+            width: 124;
+            height: 16;
+            top: 458px;
+            left: 847px;
+            opacity: 1;
+
+
+            // text-align: left;
+            padding: 2px;
+           
+            line-height: 100%;
+            letter-spacing: 0%;
+            vertical-align: bottom;
+            text-transform: uppercase;
+            justify-self: left;
+
+            width: 90;
+            height: 15;
+            top: 458px;
+            left: 373px;
+            opacity: 1;
+            color: #545F7D;
+    }
+        }
+
+    tbody {
+        font-weight: 400;
+        color: #545f7d;
+        tr {
+            td {
+                cursor: pointer;
+                height: 50px;
+                padding: 5px;
+            }
+
+            &:hover {
+                background: rgba(57, 205,204, 0.05);
+            }
+        }
+    }
+
+    .dividerRow {
+        td {
+            padding: 0;
+            border: none;
+        }
+
+        .hr {
+            width: 977px;
+            height: 1px;
+            background: #213F7D;
+            opacity: 1;
+            transform: rotate(0deg);
+            margin-left: 373px;
+        }
+    }
+
+    /*status pill styling*/
+    .status {
+        padding: 6px 14;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 600;
+        text-transform: capitalize;
+    }
+
+    /*status colors*/
+    .Active {
+        background: rgba(57, 205,204, 0.05);
+        color: #39cdcc;
+    }
+
+    .Inactive {
+        background: rgba(84, 95, 125, 0.15);
+        color: #545f7d;
+    }
+
+    .Pending {
+        background: rgba(233, 178, 0, 0.15);
+        color: #545f7d;
+    }
+
 }
 
 .loading {

@@ -1,18 +1,16 @@
 /*  styles sidebar navigation */
 
 .sidebar {
-    width: 260;
+    font-family: "Work Sans", sans-serif;
+    width: 283;
+    height: 1574;
+    opacity: 1;
+
     background: white;
     border-right: 1px solid rgba(33, 63, 125, 0.1);
 
     padding: 30px 20px;
-}
-
-.logo {
-    font-size: 22px;
-    font-weight: 700;
-    color: #213f7d;
-    margin-bottom: 40px;
+    z-index: 0;
 }
 
 .navLinks {

@@ -15,6 +15,6 @@ export default function Input({label, type = "text"} : InputProps) {
             className={styles.input}
             type={type}
             placeholder={label}
-           />
+        />
     );
 }

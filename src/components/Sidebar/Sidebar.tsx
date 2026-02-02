@@ -6,10 +6,6 @@ import styles from "./Sidebar.module.scss";
 export default function Sidebar() {
     return (
         <aside className={styles.sidebar}>
-            {/* Logo section */}
-            <div className={styles.logo}>
-                <h2>Lendsqr</h2>
-            </div>
 
             {/* Navigation links */}
             <nav className={styles.navLinks}>
