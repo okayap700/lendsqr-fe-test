@@ -94,8 +94,12 @@ export default function UsersPage() {
                      <td>{user.personalInfo.email}</td>
                      <td>{user.personalInfo.phoneNumber}</td>
                      <td>{user.dateJoined ? format(new Date(user.dateJoined), "MMM dd, yyyy hh:mm a") : "" }</td>
-                     <td className={`${styles.status} ${styles[user.status ?? "Inactive"]}`}>
-                      {user.status}
+                     <td>
+                      <div className={styles.statusCell}>
+                        <span className={`${styles.pill} ${styles[user.status]}`}>{user.status}</span>
+                        {/* <span className={`${styles.pill} ${styles[user.status.charAt(0).toUpperCase() + user.status.slice(1)]}`}>{user.status}</span> */}
+                        <img src="src/assets/moreIcon.svg" alt="" />
+                      </div>
                      </td>
                    </tr>
                 ))}

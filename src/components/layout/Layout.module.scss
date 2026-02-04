@@ -1,17 +1,22 @@
 /*  styles global layout*/
 
-.layout {
+.layoutWrapper {
     display: flex;
-    min-height: 100vh;
+    flex-direction: column;
+    height: 100vh;
     background: #f7f8fa;
 }
 
-.mainContent {
-    flex: 1;
+.layoutBody {
     display: flex;
-    flex-direction: column;
-}
+    flex: 1;
+    overflow: hidden;
 
-.pageContent {
-    // padding: 40px;
+    .mainContent {
+        flex: 1;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        background: #FBFBFB;
+    }
 }

@@ -14,17 +14,18 @@ interface LayoutProps {
 
 export default function Layout({ children }: LayoutProps) {
     return (
-        <div className={styles.layout}>
-            {/* Sidebar navigation menu*/}
-            <Sidebar />
-            <div className={styles.mainContent}>
-                {/* Top navigation bar */}
-                <TopNavbar />
-                
-                {/* Page body content */}
-                <div className={styles.pageContent}>
+        <div className={styles.layoutWrapper}>
+            {/* TopNavbar at top level */}
+            <TopNavbar />
+
+            <div className={styles.layoutBody}>
+                {/* sidebar beside content */}
+                <Sidebar />
+            
+                <main className={styles.mainContent}>
+                    {/*  table showing users */}
                     {children}
-                </div>
+                </main>
             </div>
         </div>
     );
