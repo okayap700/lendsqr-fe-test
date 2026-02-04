@@ -7,12 +7,13 @@ import styles from './Input.module.scss';
 interface InputProps {
     label: string;                  // inpute placeholder text
     type?: string;                  // input type - text, password, email
+    className?: string;
 }
 
-export default function Input({label, type = "text"} : InputProps) {
+export default function Input({label, className , type = "text"} : InputProps) {
     return(
         <input
-            className={styles.input}
+            className={`${styles.input}  ${className}`}
             type={type}
             placeholder={label}
         />

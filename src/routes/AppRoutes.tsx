@@ -11,6 +11,9 @@ import Layout from "../components/Layout/Layout";
 export default function AppRoutes () {
     return (
         <Routes>
+            {/* login  */}
+            <Route path="/login" element={<LoginPage />} />
+
             {/* Redirect "/" to dashboard */}
             <Route path="/" element={<Navigate to = "<UsersPage />" />}/>
 

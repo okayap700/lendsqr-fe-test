@@ -2,66 +2,114 @@
 */
 
 .loginPage {
+    font-family: "Work Sans", sans-serif;
     display: flex;
     min-height: 100vh;
     background: white;
-}
 
-/* Left illustration section */
-.leftSection {
-    flex: 1;
-    padding: 60px;
-}
+    /* Left illustration section */
+    .leftSection {
+        flex: 1;
+        padding: 60px;
 
-.logo {
-    font-size: 22px;
-    font-weight: bold;
-    color: #213f7d;
-}
+        .logo {
+            width: 138.43972778320312;
+            font-size: 30px;
+            height: 36;
+            top: 106px;
+            left: 132.33px;
+            opacity: 1;
 
-.illustration {
-    margin-top: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+            color: #213f7d;
 
-/* rigth form section*/
-.rightSection {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+            img {
+                width: 24.75;
+                height: 25.003942489624023;
+                top: 107.67px;
+                left: 97px;
+                opacity: 1;
+                padding-right: 4px;
 
-.formCard {
-    width: 400px;
-}
+                
+            }
+        }
 
-h1 {
-    font-size: 32px;
-    font-weight: 700;
-    color: #213f7d;
-}
+        .illustration {
+            width: 600;
+            height: 337.56939697265625;
+            top: 281px;
+            left: 67px;
+            opacity: 1;
+        }        
+    }
 
-p {
-    margin: 10px 0 30px;
-    font-size: 14px;
-    color: #545f7d;
-}
+    /* rigth form section*/
+    .rightSection {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
-.form {
-    display: flex;
-    flex-direction: column;
-    gap: 18px;
-}
+        .formCard {
+            width: 400px;
 
-.forgotPassword {
-    font-size: 12px;
-    font-weight: 600;
-    color: #39cdcc;
-    cursor: pointer;
-    letter-spacing: 1px;
+            h1 {
+                font-size: 32px;
+                font-weight: 700;
+                color: #213f7d;
+            }
+
+            p {
+                margin: 10px 0 30px;
+                color: #545f7d;
+
+                width: 194;
+                height: 28;
+                top: 280px;
+                left: 836px;
+                opacity: 1;
+
+                font-family: "Avenir Next";
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 100%;
+                letter-spacing: 0%;
+
+            }
+
+            .form {
+                display: flex;
+                flex-direction: column;
+                gap: 18px;
+
+                span {
+                    font-size: 12px;
+                    font-weight: 600;
+                    color: #39cdcc;
+                    cursor: pointer;
+                    letter-spacing: 1px;
+                }
+
+                .loginInput {
+                    // width: 447px;
+                    // height: 50px;
+                    top: 368px;
+                    left: 836px;
+                    opacity: 1;
+                    border-radius: 5px;
+                }
+
+                .loginButton {
+                    width: 447px;
+                    height: 48px;
+                    top: 563px;
+                    left: 836px;
+                    opacity: 1;
+                    border-radius: 8px;
+                }
+            }            
+        }
+    }
 }
 
 /* Mobile repspnsivenness*/
