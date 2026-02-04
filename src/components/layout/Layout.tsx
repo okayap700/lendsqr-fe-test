@@ -2,6 +2,7 @@
     providing sidebar */
 
 import { type ReactNode } from "react";
+import { Outlet } from "react-router-dom";
 
 import Sidebar from "../Sidebar/Sidebar";
 import TopNavbar from "../TopNavbar/TopNavbar";
@@ -25,6 +26,7 @@ export default function Layout({ children }: LayoutProps) {
                 <main className={styles.mainContent}>
                     {/*  table showing users */}
                     {children}
+                    <Outlet />
                 </main>
             </div>
         </div>

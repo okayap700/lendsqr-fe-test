@@ -1,10 +1,21 @@
 /** displays branding illustration at the left and login form on the rigth */
 
+import { useNavigate } from 'react-router-dom';
+
 import styles from './LoginPage.module.scss';
 import Input from '../../components/ui/Input';
 import Button from '../../components/ui/Button';
 
 export default function LoginPage() {
+    const navigate = useNavigate()
+    
+    const handleLogin = (e: React.FormEvent) => {
+        e.preventDefault();
+
+        {/* validation  */}
+
+        navigate('/users')
+    }
     return (
         <div className={styles.loginPage}>
             <div className={styles.leftSection}>
@@ -20,7 +31,9 @@ export default function LoginPage() {
                 <div className={styles.formCard}>
                     <h1>Welcome!</h1>
                     <p>Enter details to login</p>
-                    <form className={styles.form}>
+                    <form 
+                      className={styles.form}
+                      onSubmit={handleLogin}>
                         <Input label="Email" type="email" className={styles.loginInput}/>
                         <Input label="Password" type="password" className={styles.loginInput}/>
                         <span className={styles.forgotPassword}>FORGOT PASSWORD?</span>

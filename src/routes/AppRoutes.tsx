@@ -15,7 +15,10 @@ export default function AppRoutes () {
             <Route path="/login" element={<LoginPage />} />
 
             {/* Redirect "/" to dashboard */}
-            <Route path="/" element={<Navigate to = "<UsersPage />" />}/>
+            <Route path="/" element={<LoginPage />}/>
+
+            {/* Redirect empty path to login */}
+            <Route path="*" element={<Navigate to="/login" />} />
 
             {/* Dashboard
             <Route path="/dashboard" element={<Layout><DashboardPage /></Layout>}/> */}
