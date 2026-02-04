@@ -2,6 +2,7 @@
  * Ensures consistent styling and behavior across the application.
  */
 
+import { useState } from 'react';
 import styles from './Input.module.scss';
 
 interface InputProps {
@@ -11,11 +12,22 @@ interface InputProps {
 }
 
 export default function Input({label, className , type = "text"} : InputProps) {
+    const [showPassword, setShowPassword] = useState(false);
+    const isPassword = type === "password";
+
     return(
-        <input
-            className={`${styles.input}  ${className}`}
-            type={type}
-            placeholder={label}
-        />
+        <div className={`${styles.inputContainer} ${className}`}>
+            <input
+                className={styles.inputField}
+                type={isPassword ? (showPassword ? "text" : "password") : type}
+                placeholder={label}
+            />
+            {isPassword && ( 
+                <button 
+                  type="button" className={styles.toggleButton}
+                  onClick={() => setShowPassword(!showPassword)}
+                >{showPassword ? "HIDE" : "SHOW"}</button>
+            )}
+        </div>
     );
 }

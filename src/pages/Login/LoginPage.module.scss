@@ -91,16 +91,22 @@
                 }
 
                 .loginInput {
-                    // width: 447px;
+                    width: 100%;
+                    max-width: 447px;
                     // height: 50px;
-                    top: 368px;
-                    left: 836px;
+                    // top: 368px;
+                    // left: 836px;
                     opacity: 1;
-                    border-radius: 5px;
+                    // border-radius: 5px;
+                }
+
+                .forgotPassword {
+                    margin-top: -5px;
+                    align-self: flex-start;
                 }
 
                 .loginButton {
-                    width: 447px;
+                    width: 400px;
                     height: 48px;
                     top: 563px;
                     left: 836px;
