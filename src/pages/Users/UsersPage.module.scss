@@ -216,6 +216,7 @@
                 position: relative;
                 background: rgba(33, 63, 125, 0.1);
                 border-radius: 4px;
+                display: flex;
                 align-items: center;
                 padding: 0 12px;
                 min-width: 80px;
@@ -238,7 +239,7 @@
                     // right: 10px;
                     // top: 50%;
                     // transform: translate(-50%);
-                    pointer-events: none;
+                    // pointer-events: none;
                 }
 
                 // custom arrow icon
@@ -251,6 +252,7 @@
                     background: url('src/assets/dropdownIcon_single.svg') no-repeat center;
                     background-size: contain;
                     pointer-events: none;
+                    z-index: 1;
                 }
             }
         }
