@@ -31,7 +31,7 @@ export default function TopNavbar () {
                     <div className={styles.userSection}>
                         <img src="src/assets/avatar.png" alt="" className={styles.avatar}/>
                         <span className="employee">Adedeji</span>
-                        <span className={styles.dropdownIcon}><img src="src/assets/dropdownIcon_single.svg" alt="" /></span>
+                        <span className={styles.dropdownIcon}><img src="src/assets/dropdownIcon_single_solid.svg" alt="" /></span>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 */
 
 .usersPage {
-    padding: 40px 60px;
+    padding: 40px 10px 40px 20px;
     font-family: "Work Sans", sans-serif;
     background: #FBFBFB;
 
@@ -115,7 +115,7 @@
                 th {
                     text-align: left;
                     font-size: 12px;
-                    padding: 15px 10px;
+                    padding: 15px 5px;
                     color:#545F7D;
                 
                     white-space: nowrap;
@@ -197,6 +197,109 @@
             }
         }
     }
+
+    .paginationContainer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px 0;
+        margin-top: 20px;
+        color: #545F7D;
+        font-size: 14px;
+
+        .paginationLeft {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+
+            .selectWrapper {
+                position: relative;
+                background: rgba(33, 63, 125, 0.1);
+                border-radius: 4px;
+                align-items: center;
+                padding: 0 12px;
+                min-width: 80px;
+                height: 35px;
+
+                select {
+                    width: 100%;
+                    border: none;
+                    background: transparent;
+                    color: #213F7D;
+                    font-size: 14px;
+                    font-weight: 500;
+                    padding-right: 20px;
+                    z-index: 2;
+                    cursor: pointer;
+                    outline: none;
+                    appearance: none;           //to remove default arrow of browser
+                    padding-right: 20px;
+                    // position: absolute;
+                    // right: 10px;
+                    // top: 50%;
+                    // transform: translate(-50%);
+                    pointer-events: none;
+                }
+
+                // custom arrow icon
+                &::after {
+                    content: "";
+                    position: absolute;
+                    right: 12px;
+                    width: 10px;
+                    height: 6px;
+                    background: url('src/assets/dropdownIcon_single.svg') no-repeat center;
+                    background-size: contain;
+                    pointer-events: none;
+                }
+            }
+        }
+
+        .paginationRight {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+
+            .arrowBtn {
+                background: rgba(33, 63, 125, 0.1);
+                border: none;
+                border-radius: 4px;
+                width: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+
+                img {
+                    width: 14px;
+                }
+
+                &:disabled {
+                    opacity: 0.4;
+                    cursor: not-allowed;
+                }
+            }
+
+            .pageBtn {
+                background: none;
+                border:none;
+                color: #545F7D;
+                font-size: 16px;
+                cursor: pointer;
+                padding: 5px 8px;
+                opacity: 0.6;
+
+                &.activePage {
+                    font-weight: 500;
+                    opacity: 1;
+                }
+
+                &.ellipsis {
+                    cursor: default;
+                }
+            }
+        }
+    }    
 }
 
 .loading {

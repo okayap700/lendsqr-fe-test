@@ -4,12 +4,13 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 import LoginPage from "../pages/Login/LoginPage";
 // import DashboardPage from "../pages/Dashboard/DashboardPage";
-import UsersPage from "../pages/Users/UsersPage";
+import UsersPage, { UserProvider } from "../pages/Users/UsersPage";
 import UserDetailsPage from "../pages/UserDetails/UserDetailsPage";
 import Layout from "../components/Layout/Layout";
 
 export default function AppRoutes () {
     return (
+        <UserProvider>
         <Routes>
             {/* login  */}
             <Route path="/login" element={<LoginPage />} />
@@ -20,14 +21,14 @@ export default function AppRoutes () {
             {/* Redirect empty path to login */}
             <Route path="*" element={<Navigate to="/login" />} />
 
-            {/* Dashboard
-            <Route path="/dashboard" element={<Layout><DashboardPage /></Layout>}/> */}
+            <Route element={<Layout />}>
+                {/* Users */}
+                <Route path="/users" element={<UsersPage />} />
 
-            {/* Users */}
-            <Route path="/users" element={<Layout><UsersPage /></Layout>} />
-
-            {/* User Details */}
-            <Route path="/users/:id" element={<Layout><UserDetailsPage /></Layout>} />
+                {/* User Details */}
+                <Route path="/users/:id" element={<UserDetailsPage />} />
+            </Route>
         </Routes>
+        </UserProvider>
     );
 }

@@ -1,31 +1,202 @@
-/*  styles sidebar navigation */
+// /*  styles sidebar navigation */
+
+// .sidebar {
+//     font-family: "Work Sans", sans-serif;
+    
+//     width: 200px;
+//     height: 1574px;
+//     opacity: 1;
+
+//     background: #FFFFFF;
+//     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.04);
+//     // border-right: 1px solid rgba(33, 63, 125, 0.1);
+//     height: calc(100vh - 100px);
+//     padding: 0px;
+//     padding-top: 30px;
+//     overflow: auto;
+//     gap: 10px;
+//     color: #213F7D;
+//     cursor: pointer;
+//     font-size: 16px;
+
+//     // padding: 30px 20px;
+//     // z-index: 0;
+
+//     .switchOrg {
+//         font-size: 16px;
+//         .chevron {
+//             margin-left: auto;
+//         }        
+//     }
+
+//     .navGroup {
+
+//     }
+
+//         .navItem {
+//             display: flex;
+//             align-items: center;
+//             gap: 12px;
+//             padding: 10px 0px;
+//             text-decoration: none;
+//             color: #213F7D;
+//             opacity: 0.6;
+//             font-size: 16px;
+//             transition: all 0.2s ease;
+//             border-left: 3px solid transparent;
+
+//             img {
+//                 width: 16px;
+//                 height: 14.22px;
+//             }
+//         }
+
+//         span {
+
+//             &:hover {
+//                 opacity: 1;
+//                 background: rgba(57, 205, 204, 0.06);
+//                 border-left: 3px solid #39cdcc;
+//             }
+
+//         }
+
+//     .section {
+//         // margin-bottom: 30px;
+//         padding-left: 0px;
+
+//         .sectionTitle{
+//             padding-top: 10px;
+//             font-size: 12px;
+//             font-weight: 600;
+//             color: #545f7d;
+//             text-transform: uppercase;
+//             cursor: none;
+//         }
+//     }
+// }
+
+// .navLinks {
+//     display: flex;
+//     flex-direction: column;
+//     gap: 20px;
+// }
+
+// .navLinks a {
+//     font-size: 14px;
+//     color: #545f7d;
+//     text-decoration: none;
+// }
+
+// .navLinks a.active {
+//     color: #39cdcc;
+//     font-weight: 600;
+// }
+
+/* Sidebar.module.scss */
 
 .sidebar {
     font-family: "Work Sans", sans-serif;
-    width: 283;
-    height: 1574;
-    opacity: 1;
-
-    background: white;
-    border-right: 1px solid rgba(33, 63, 125, 0.1);
-
-    padding: 30px 20px;
-    z-index: 0;
-}
-
-.navLinks {
+    width: 200px;
+    background: #ffffff;
+    height: calc(100vh - 100px); // full height minus topNavbar height
+    padding-top: 30px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.04);
+    overflow-y: auto;
     display: flex;
     flex-direction: column;
-    gap: 20px;
-}
 
-.navLinks a {
-    font-size: 14px;
-    color: #545f7d;
-    text-decoration: none;
-}
+    // Custom scrollbar for a cleaner look
+    &::-webkit-scrollbar {
+        width: 0px;
+    }
+    &::-webkit-scrollbar-thumb {
+        background: rgba(33, 63, 125, 0.1);
+        border-radius: 10px;
+    }
 
-.navLinks a.active {
-    color: #39cdcc;
-    font-weight: 600;
+    .switchOrg {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 0 20spx 10px 10px; 
+        color: #213f7d;
+        cursor: pointer;
+        font-size: 16px;
+        transition: opacity 0.2s ease;
+
+        img {
+            width: 16px;
+            height: 16px;
+        }
+
+        &:hover {
+            opacity: 0.8;
+        }
+
+        .chevron {
+            margin-left: 0px;
+            width: 14px;
+        }
+    }
+
+    .navGroup {
+        margin-bottom: 10px;
+    }
+
+    .section {
+        margin-bottom: 30px;
+
+        .sectionTitle {
+            padding: 0 30px 10px 10px; // Aligns with the icons below
+            font-size: 12px;
+            font-weight: 600;
+            color: #545f7d;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+    }
+
+    .navItem {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        width: 100%; 
+        padding: 12px 0 12px 10px; // Left padding pushes content in, but item is full-width
+        text-decoration: none;
+        color: #213f7d;
+        font-size: 16px;
+        transition: all 0.2s ease;
+        border-left: 3px solid transparent; // Pre-allocates space for the active indicator
+        opacity: 0.6;
+        cursor: pointer;
+
+        img {
+            width: 16px;
+            height: 16px;
+            // filter: grayscale(1); 
+            transition: filter 0.2s ease;
+        }
+
+        &:hover {
+            background: rgba(57, 205, 204, 0.06);
+            opacity: 1;
+            border-left: 3px solid #39cdcc;            
+            
+            img {
+                filter: grayscale(0);
+            }
+        }
+
+        // Applied automatically by NavLink when the URL matches
+        &.active {
+            background: rgba(57, 205, 204, 0.06);
+            border-left: 3px solid #39cdcc; // The teal indicator
+            opacity: 1;
+
+            img {
+                filter: grayscale(0);
+            }
+        }
+    }
 }

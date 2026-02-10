@@ -3,6 +3,11 @@ export interface User {
     tier: 1 | 2 | 3;
     organization: string;
     dateJoined: string;
+    bankDetails: {
+        bankName: string;
+        account: string;
+        balance: string;
+    };
     status: "active" | "pending" | "inactive" | "blacklisted";
     personalInfo: {
         lastName: string;
@@ -19,27 +24,30 @@ export interface User {
         level: string | null;
         employment: "unemployed" | "employed" | "self-employed" | "retired";
         sector: string | null;
-        durationInYears: number | null;
+        duration: number | null;
         officeMail: string | null;
-        // income: "below ₦50,000" | "₦50,000 - ₦100,000" | "₦100,000 - ₦200,000" | "₦200,000 - ₦400,000" | "₦400,000 - ₦1,000,000" | "above ₦1,000,000";
+        income: "below ₦50,000" | "₦50,000 - ₦100,000" | "₦100,000 - ₦200,000" | "₦200,000 - ₦400,000" | "₦400,000 - ₦1,000,000" | "above ₦1,000,000";
         repayment: string;
-        income: {
-            min: number;
-            max: number;
-        }
     };
     socials: {
         twitter: string | null;
         facebook: string | null;
         instagram: string | null;
     };
-    guarantor: UserGuarantor[];
-}
-
-interface UserGuarantor {
-    firstName: string;
-    lastName: string;
-    phoneNumber: string;
-    email: string;
-    relationship: string;
+    guarantors: {
+        guarantor1: {
+            guarantorFirstname: "Bass",
+            guarantorLastname: "Rosales",
+            guarantorPhone: "08044673075",
+            guarantorEmail: "bassrosales@zogak.com",
+            relationship: "Brother"
+        };
+        guarantor2: {
+            guarantorFirstname: "Bass",
+            guarantorLastname: "Rosales",
+            guarantorPhone: "08044673075",
+            guarantorEmail: "bassrosales@zogak.com",
+            relationship: "Brother"
+        };
+    }
 }

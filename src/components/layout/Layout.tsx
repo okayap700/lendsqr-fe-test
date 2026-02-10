@@ -10,7 +10,7 @@ import TopNavbar from "../TopNavbar/TopNavbar";
 import styles from "./Layout.module.scss";
 
 interface LayoutProps {
-    children: ReactNode;                // rendered content
+    children?: ReactNode;                // rendered content
 }
 
 export default function Layout({ children }: LayoutProps) {
