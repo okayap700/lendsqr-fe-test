@@ -240,20 +240,20 @@ export default function UsersPage() {
                             className={styles.moreMenu}
                             onClick={(e) => {e.stopPropagation(); }}>
                             {user.status === "active" && <p>
-                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                            <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
                               <span className={styles.menuItem}><img src="src/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
                             </p>  }
                             {user.status === "blacklisted" && <p>
-                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
                               <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
                             </p>  }
                             {user.status === "pending" && <p>
-                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
                               <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
                               <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
                             </p>  }
                             {user.status === "inactive" && <p>
-                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
                               <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
                               <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
                             </p>  }

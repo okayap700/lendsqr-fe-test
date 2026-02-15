@@ -101,7 +101,7 @@ export default function UserDetailsPage() {
                         </div>
 
                         <div className={styles.infoItem}>
-                            <label className={styles.label}>Email</label>
+                            <label className={styles.label}>Email Address  </label>
                             <p className={styles.value} style={{ textTransform:'lowercase'}}>{user.personalInfo.email}</p>
                         </div>
 
@@ -164,7 +164,7 @@ export default function UserDetailsPage() {
 
                         <div style={{width: '150px'}}>
                             <div className={styles.infoItem}>
-                                <label className={styles.label}>Sector of Employment</label>
+                                <label className={styles.label} style={{width:"200px"}}>Sector of Employment</label>
                                 <p className={styles.value}>{user.educationEmployment.sector ?? "N/A"}</p>
                             </div>
                             
@@ -175,7 +175,7 @@ export default function UserDetailsPage() {
                         </div>
 
                         <div className={styles.infoItem} style={{width: '150px'}}>
-                            <label className={styles.label}>Duration of Employment</label>
+                            <label className={styles.label} style={{width:"200px"}}>Duration of Employment</label>
                             <p className={styles.value}>{user.educationEmployment.duration ?? 0} years</p>
                         </div>
                     </div>
@@ -247,7 +247,7 @@ export default function UserDetailsPage() {
                         </div>
                         
                         <div className={styles.infoItem}>
-                            <label className={styles.label}>Email</label>
+                            <label className={styles.label}>Email Address</label>
                             <p className={styles.value } style={{ textTransform: "lowercase"}}>{user.guarantors.guarantor1.guarantorEmail}</p>
                         </div>
 
@@ -258,7 +258,7 @@ export default function UserDetailsPage() {
                     </div>
                 </section>
 
-                <div className={styles.hDivider} style={{ margin : "5px"}}/>
+                <div className={styles.hDivider} />
 
                 <section>
                     <h4>Guarantor</h4>
@@ -299,7 +299,7 @@ export default function UserDetailsPage() {
                         </div>
                         
                         <div className={styles.infoItem}>
-                            <label className={styles.label}>Email</label>
+                            <label className={styles.label}>Email Address</label>
                             <p className={styles.value } style={{ textTransform: "lowercase"}}>{user.guarantors.guarantor2.guarantorEmail}</p>
                         </div>
 
