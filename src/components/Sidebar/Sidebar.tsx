@@ -39,7 +39,7 @@ export default function Sidebar() {
                 <span><span className={styles.navItem}><img src="src/assets/fees_and_charges.svg" alt="" />Fees and Charges</span></span>
                 <span><span className={styles.navItem}><img src="src/assets/transactions.svg" alt="" />Transactions</span></span>
                 <span><span className={styles.navItem}><img src="src/assets/services.svg" alt="" />Services</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/service_acount.svg" alt="" />Service Acount</span></span>
+                <span><span className={styles.navItem}><img src="src/assets/service_account.svg" alt="" />Service Account</span></span>
                 <span><span className={styles.navItem}><img src="src/assets/settlements.svg" alt="" />Settlements</span></span>
                 <span><span className={styles.navItem}><img src="src/assets/reports.svg" alt="" />Reports</span></span>
             </div>

@@ -4,7 +4,7 @@
 
 import { type User } from  "../types/user";
 
-const USERS_API_URL = "/data/generated.json";               // mock api endpoint
+const USERS_API_URL = "http://localhost:4000/users";               // mock api endpoint
 
 //fetches all users from the mock api
 export async function fetchUsers(): Promise<User[]> {
@@ -12,7 +12,7 @@ export async function fetchUsers(): Promise<User[]> {
         const response = await fetch(USERS_API_URL);
 
         if (!response.ok) {
-            throw new Error("Failed to fetch users");
+            throw new Error("Couldn't fetch users: Check Network Settings");
         }
 
         //parse response into typed objects and return list[]
@@ -25,5 +25,6 @@ export async function fetchUsers(): Promise<User[]> {
 
 //fetch single user by ID from existing list
 export function getUserById(users: User[], id: string): User | undefined {
+    
     return users.find((user) => user.id === id);            //finds user with id matching
 }

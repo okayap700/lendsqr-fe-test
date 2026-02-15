@@ -36,18 +36,18 @@ export interface User {
     };
     guarantors: {
         guarantor1: {
-            guarantorFirstname: "Bass",
-            guarantorLastname: "Rosales",
-            guarantorPhone: "08044673075",
-            guarantorEmail: "bassrosales@zogak.com",
-            relationship: "Brother"
+            guarantorFirstname: string;
+            guarantorLastname: string;
+            guarantorPhone: string;
+            guarantorEmail: string;
+            relationship: string;
         };
         guarantor2: {
-            guarantorFirstname: "Bass",
-            guarantorLastname: "Rosales",
-            guarantorPhone: "08044673075",
-            guarantorEmail: "bassrosales@zogak.com",
-            relationship: "Brother"
+            guarantorFirstname: string
+            guarantorLastname: string
+            guarantorPhone: string;
+            guarantorEmail: string;
+            relationship: string;
         };
     }
 }

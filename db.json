@@ -1,4 +1,5 @@
-[
+{
+   "users": [
    {
       "id": "697ac26d7ebdad534dffbbde",
       "tier": 2,
@@ -26499,4 +26500,4 @@
       "dateJoined": "2021-01-07T03:09:47.152Z",
       "status": "inactive"
    }
-]
+]}
