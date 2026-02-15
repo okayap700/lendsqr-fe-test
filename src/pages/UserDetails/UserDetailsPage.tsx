@@ -102,7 +102,7 @@ export default function UserDetailsPage() {
 
                         <div className={styles.infoItem}>
                             <label className={styles.label}>Email</label>
-                            <p className={styles.value}>{user.personalInfo.email}</p>
+                            <p className={styles.value} style={{ textTransform:'lowercase'}}>{user.personalInfo.email}</p>
                         </div>
 
                         <div className={styles.infoItem}>
@@ -255,8 +255,38 @@ export default function UserDetailsPage() {
                             <label className={styles.label}>Relationship</label>
                             <p className={styles.value}>{user.guarantors.guarantor1.relationship}</p>
                         </div>
+                    </div>
+                </section>
 
-                        <div className={styles.hDivider2} />
+                <div className={styles.hDivider} style={{ margin : "5px"}}/>
+
+                <section>
+                    <h4>Guarantor</h4>
+
+                    {/* {Object.values(user.guarantor1).map((g: any, index) => (
+                        <div key={index} className={styles.infoGrid}>
+                            <div className={styles.infoItem}>
+                                <label className={styles.label}>Full Name</label>
+                                <p className={styles.value}>{g.firstName} {g.lastName}</p>
+                            </div>
+
+                            <div className={styles.infoItem}>
+                                <label className={styles.label}>Phone Number</label>
+                                <p className={styles.value}>{g.guarantorPhone}</p>
+                            </div>
+                            
+                            <div className={styles.infoItem}>
+                                <label className={styles.label}>Email</label>
+                                <p className={styles.value}>{g.guarantorEmail}</p>
+                            </div>
+
+                            <div className={styles.infoItem}>
+                                <label className={styles.label}>Relationship</label>
+                                <p className={styles.value}>{g.relationship}</p>
+                            </div>
+                        </div>
+                    ))} */}
+                    <div className={styles.infoGrid}>
 
                         <div className={styles.infoItem}>
                             <label className={styles.label}>Full Name</label>
@@ -270,7 +300,7 @@ export default function UserDetailsPage() {
                         
                         <div className={styles.infoItem}>
                             <label className={styles.label}>Email</label>
-                            <p className={styles.value} style={{ textTransform: "lowercase"}}>{user.guarantors.guarantor2.guarantorEmail}</p>
+                            <p className={styles.value } style={{ textTransform: "lowercase"}}>{user.guarantors.guarantor2.guarantorEmail}</p>
                         </div>
 
                         <div className={styles.infoItem}>
@@ -278,7 +308,6 @@ export default function UserDetailsPage() {
                             <p className={styles.value}>{user.guarantors.guarantor2.relationship}</p>
                         </div>
                     </div>
-
                 </section>
             </div>
         </div>

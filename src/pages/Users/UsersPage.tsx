@@ -50,6 +50,17 @@ export default function UsersPage() {
     const [currentPage, setCurrentPage] = useState (1);
     const [usersPerPage, setUsersPerPage] = useState(9);
 
+    const [isFilterOpen, setIsFilterOpen] = useState(false);
+    const [isMoreOpen, setMoreOpen] = useState<string | null>(null);
+
+    const toggleFilter = () => {
+      setIsFilterOpen(!isFilterOpen);
+    };
+
+    const toggleMore = (userId: string) => {
+      setMoreOpen(isMoreOpen === userId ? null : userId);
+    }
+
     const navigate = useNavigate();
 
     const totalPages = Math.ceil(users.length / usersPerPage);
@@ -138,7 +149,60 @@ export default function UsersPage() {
           <table className={styles.table}>
             <thead>
               <tr>
-                <th>ORGANIZATION <img src="src/assets/dropdownIcon.svg" alt="" /></th>
+                <th>ORGANIZATION <img src="src/assets/dropdownIcon.svg" alt="" onClick={toggleFilter} />
+                  {isFilterOpen && (
+                    <div className={styles.filterPopup}>
+                      <form>
+                        <div className={styles.filterGroup}>
+                          <label>Organization</label>
+                          <select name="" id="">
+                            <option value="">Select</option>
+                            <option value="">Lendstr</option>
+                            <option value="">Kredi Bank</option>
+                            <option value="">Irorun</option>
+                          </select>
+                        </div>
+                        <div className={styles.filterGroup}>
+                          <label>Username</label>
+                          <input type="text" placeholder="User" />
+                        </div>
+                        <div className={styles.filterGroup}>
+                          <label>Email</label>
+                          <input type="email" placeholder="Email" />
+                        </div>
+                        <div className={styles.filterGroup}>
+                          <label>Date</label>
+                          <select name="" id="">
+                            <option value="">Date</option>
+                            <option value="">Lendstr</option>
+                            <option value="">Kredi Bank</option>
+                            <option value="">Irorun</option>
+                          </select>
+                        </div>
+                        <div className={styles.filterGroup}>
+                          <label>Phone Number</label>
+                          <input type="email" placeholder="Email" />
+                        </div>
+                        <div className={styles.filterGroup}>
+                          <label>Satus</label>
+                          <select name="" id="">
+                            <option value="">Select</option>
+                            <option value="">Active</option>
+                            <option value="">Inactive</option>
+                            <option value="">Pending</option>
+                            <option value="">Blacklisted</option>
+                          </select>
+                        </div>
+                        <div className={styles.filterActions}>
+                          <span>
+                            <button type="button" className={styles.resetBtn}>Reset</button>
+                            <button type="submit" className={styles.submitBtn}>Filter</button>
+                          </span>
+                        </div>
+                      </form>
+                    </div>
+                  )}
+                </th>
                 <th>USERNAME <img src="src/assets/dropdownIcon.svg" alt="" /></th>
                 <th>EMAIL <img src="src/assets/dropdownIcon.svg" alt="" /></th>
                 <th>PHONE NUMBER <img src="src/assets/dropdownIcon.svg" alt="" /></th>
@@ -161,7 +225,41 @@ export default function UsersPage() {
                     <td>
                     <div className={styles.statusCell}>
                       <span className={`${styles.pill} ${styles[user.status]}`}>{user.status}</span>
-                      <img src="src/assets/moreIcon.svg" alt="" />
+                      <img
+                        className={styles.moreIcon}
+                        src="src/assets/moreIcon.svg"
+                        alt=""
+                        onClick={(e) => {
+                          e.stopPropagation();       // to prevent row click spilling
+                          toggleMore(user.id);
+                        }}
+                      />
+                      {isMoreOpen === user.id && (
+                        // <form action="" className={styles.moreMenu}>
+                          <div
+                            className={styles.moreMenu}
+                            onClick={(e) => {e.stopPropagation(); }}>
+                            {user.status === "active" && <p>
+                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem}><img src="src/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
+                            </p>  }
+                            {user.status === "blacklisted" && <p>
+                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
+                            </p>  }
+                            {user.status === "pending" && <p>
+                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                            </p>  }
+                            {user.status === "inactive" && <p>
+                              <span className={styles.menuItem}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                              <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                            </p>  }
+                          </div>
+                        // {/* </form> */}
+                      )}
                     </div>
                     </td>
                   </tr>

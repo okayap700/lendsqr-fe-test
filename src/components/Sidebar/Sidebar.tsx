@@ -1,5 +1,5 @@
 /*  display menu links on the side */
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import styles from "./Sidebar.module.scss";
 
@@ -21,13 +21,13 @@ export default function Sidebar() {
             {/* Customers section */}
             <div className={styles.section}>
                 <p className={styles.sectionTitle}>CUSTOMERS</p>
-                <span><NavLink to="/users" className={styles.navItem}><img src="src/assets/users_minor.svg" alt=""/>Users</NavLink></span>
-                <span><span className={styles.navItem}><img src="src/assets/guarantors.svg" alt="" />Guarantors</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/loans.svg" alt="" />Loans</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/decision_models.svg" alt="" />Decision Models</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/savings.svg" alt="" />Savings</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/whitelist.svg" alt="" />Whitelist</span></span>
-                <span><span className={styles.navItem}><img src="src/assets/karma.svg" alt="" />Karma</span></span>
+                <span><NavLink style={{ background:"rgba(57, 205, 204, 0.06)", opacity:"1", borderLeft:'3px solid #39cdcc'}} to="/users" className={styles.navItem}><img src="src/assets/users_minor.svg" alt="" style={{ filter:'grayscale(0)'}}/>Users</NavLink></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/guarantors.svg" alt="" />Guarantors</NavLink ></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/loans.svg" alt="" />Loans</NavLink ></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/decision_models.svg" alt="" />Decision Models</NavLink ></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/savings.svg" alt="" />Savings</NavLink ></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/whitelist.svg" alt="" />Whitelist</NavLink ></span>
+                <span><NavLink to="/" className={styles.navItem}><img src="src/assets/karma.svg" alt="" />Karma</NavLink></span>
             </div>
 
             {/* Bussinesses section */}

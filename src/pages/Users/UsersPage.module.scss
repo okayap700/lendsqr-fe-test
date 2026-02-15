@@ -112,7 +112,74 @@
 
              thead {
 
+                .filterPopup {
+                    position: absolute;
+                    top: 45px;
+                    left: 0;
+                    width: 220px;
+                    background: #FFFFFF;
+                    border: 1px solid rgba(84, 95, 125, 0.14);
+                    box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
+                    border-radius: 4px;
+                    padding: 20px;
+                    z-index: 100;
+                    text-transform: none;
+
+                    .filterGroup {
+                        margin-bottom: 15px;
+                        display: flex;
+                        flex-direction: column;
+
+                        label {
+                            font-weight: 500;
+                            font-size: 14px;
+                            color: #545F7D;
+                            margin-bottom: 5px;
+                        }
+
+                        input, select {
+                            border: 1px solid #213F7D26;
+                            border-radius: 8px;
+                            padding: 10px;
+                            color: #213F7D;
+                            font-size: 12px;
+                            outline: none;
+
+                            &::placeholder {
+                                color: rgba(84, 95, 125, 0.7);
+                            }
+                        }
+
+                        .filterActions {
+                            display: flex;
+                            justify-content: space-between;
+                            margin-top: 20px;
+
+                            button {
+                                padding: 10px 25px;
+                                border-radius: 8px;
+                                font-size: 14px;
+                                font-weight: 500;
+                                cursor: pointer;
+                            }
+
+                            .resetBtn {
+                                background: transparent;
+                                border: 1px solid #545F7D;
+                                color: #545F7D;
+                            }
+
+                            .submitBtn {
+                                background: #39cdcc;
+                                border: 1px solid #39cdcc;
+                                color: #FFFFFF
+                            }
+                        }
+                    }
+                }
+
                 th {
+                    position: relative;
                     text-align: left;
                     font-size: 12px;
                     padding: 15px 5px;
@@ -120,6 +187,37 @@
                 
                     white-space: nowrap;
                     text-transform: uppercase;
+
+                    .filterActions {
+                        span {
+                            display: flex;
+                            justify-content: space-between;
+
+                            button {
+                                width: 98px;
+                                height: 40px;
+                                border-radius: 8px;
+                                font-size: 14px;
+                                font-family: 'Work Sans' sans-serif;
+                                cursor: pointer;
+                            }
+
+                            .resetBtn{ 
+                                border-color: #545F7D;
+                                color: #545F7D;
+                                background-color: #FFFFFF;
+                            }
+
+                            .submitBtn {
+                                border: 1px solid #39CDCC;
+                                background-color: #39CDCC;
+                                color: #FFFFFF;
+                                width: 98px;
+                                height: 40px;
+                                border-radius: 8px;
+                            }
+                        }
+                    }
 
                     img {
                         margin-left: 5px;
@@ -156,6 +254,38 @@
                         text-transform: capitalize;
                         text-align: left;
                         gap: 20px;
+                        position: relative;
+
+                        .moreMenu {
+                            position: absolute;
+                            right: 0px;
+                            top: 30px;
+                            background: #FFFFFF;
+                            border: 1px solid rgba(84, 95, 125, 0.04);
+                            border-radius: 4px;
+                            padding: 10px 0;
+                            width: 180px;
+                            z-index: 100;
+
+                            .menuItem {
+                                display: flex;
+                                align-items: center;
+                                gap: 10px;
+                                padding: 10px 20px;
+                                cursor: pointer;
+                                transition: background 0.2s;
+
+                                &:hover {
+                                    background: #f5f5f7;
+                                }
+
+                                span {
+                                    font-size: 14px;
+                                    color: #545F7D;
+                                    font-weight: 500;
+                                }
+                            }
+                        }
 
                         .pill {
                             padding: 7px 15px;
