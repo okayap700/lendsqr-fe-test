@@ -455,6 +455,22 @@
             gap: 10px;
         }
 
+        .tableWrapper {
+            table {
+                thead {
+                    tr th:nth-child(3), th:nth-child(4), th:nth-child(5){
+                        display: none;
+                    }
+                }
+
+                tbody {
+                     tr td:nth-child(3), td:nth-child(4), td:nth-child(5){
+                        display: none;
+                    }
+                }
+            }
+        }
+
         .vDivider { display: none; }
 
         .tabs { flex-wrap: wrap }
