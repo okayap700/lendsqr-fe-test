@@ -33,18 +33,31 @@
             width: 240;
             height: 160;
             top: 228px;
+            // // left: 609px;
+            // border-width: 1px;
+            // opacity: 1;
+            // border-radius: 4px;
+
+            // width: 240;
+            // height: 160;
+            // top: 228px;
             // left: 609px;
-            border-width: 1px;
-            opacity: 1;
-            border-radius: 4px;
+            // border-width: 1px;
+            // opacity: 1;
+            span:first-of-type {
+                text-transform: uppercase;
+                font-weight: 500;
+                font-size: 14px;
+                color: #545F7D;
+                margin-bottom: 8px;
+            }
 
-            width: 240;
-            height: 160;
-            top: 228px;
-            left: 609px;
-            border-width: 1px;
-            opacity: 1;
-
+            h2 {
+                color: #213F7D;
+                font-weight: 500;
+                font-size: 24px;
+                text-transform: uppercase;
+            }
 
             .icon-wrapper {
                 width: 40;
@@ -76,7 +89,7 @@
             }
 
             h2 {
-                left: 905;
+                // left: 905;
                 color: #213F7D;
                 font-weight: 600;
                 font-size: 24px;
@@ -88,18 +101,8 @@
     }
 
     .tableWrapper {
-        // background: white;
-        // border: 1px solid rgba(33, 63, 125, 0.1);
-        // border-radius: 10px;
-        // overflow-x: auto;
-
         padding: 20px;
-        // width: 1037;
-        // height: 640;
-        // top: 428px;
-        // left: 343px;
         border-radius: 4px;
-        // opacity: 1;
 
         border: 1px solid rgba(33, 63, 125, 0.06);
         box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.04);
@@ -110,7 +113,9 @@
             width: 100%;
             border-collapse: collapse;
 
-             thead {
+            thead {
+
+
 
                 .filterPopup {
                     position: absolute;
@@ -149,31 +154,31 @@
                                 color: rgba(84, 95, 125, 0.7);
                             }
                         }
+                    }
 
-                        .filterActions {
-                            display: flex;
-                            justify-content: space-between;
-                            margin-top: 20px;
+                    .filterActions {
+                        display: flex;
+                        justify-content: space-between;
+                        margin-top: 20px;
 
-                            button {
-                                padding: 10px 25px;
-                                border-radius: 8px;
-                                font-size: 14px;
-                                font-weight: 500;
-                                cursor: pointer;
-                            }
+                        button {
+                            padding: 10px 25px;
+                            border-radius: 8px;
+                            font-size: 14px;
+                            font-weight: 500;
+                            cursor: pointer;
+                        }
 
-                            .resetBtn {
-                                background: transparent;
-                                border: 1px solid #545F7D;
-                                color: #545F7D;
-                            }
+                        .resetBtn {
+                            background: transparent;
+                            border: 1px solid #545F7D;
+                            color: #545F7D;
+                        }
 
-                            .submitBtn {
-                                background: #39cdcc;
-                                border: 1px solid #39cdcc;
-                                color: #FFFFFF
-                            }
+                        .submitBtn {
+                            background: #39cdcc;
+                            border: 1px solid #39cdcc;
+                            color: #FFFFFF;
                         }
                     }
                 }
@@ -359,12 +364,12 @@
                     color: #213F7D;
                     font-size: 14px;
                     font-weight: 500;
-                    padding-right: 20px;
+                    // padding-right: 20px;
                     z-index: 2;
                     cursor: pointer;
                     outline: none;
                     appearance: none;           //to remove default arrow of browser
-                    padding-right: 20px;
+                    // padding-right: 20px;
                     // position: absolute;
                     // right: 10px;
                     // top: 50%;
@@ -431,10 +436,43 @@
                 }
             }
         }
-    }    
-}
+    }
 
-.loading {
-    padding: 40px;
-    font-size: 16px;
+    /* loeding state */
+    .loading {
+        padding: 40px;
+        font-size: 16px;
+    }
+
+    /* Mobile REsponsive */
+    @media (max-width: 768px){
+        .summaryCards { grid-template-columns: repeat(2, 1fr); }
+
+        .tableWrapper { padding: 10px }
+
+        .summaryCards .topInfo {
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .vDivider { display: none; }
+
+        .tabs { flex-wrap: wrap }
+
+        .Buttons button { 
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        .paginationContainer {
+            flex-direction: column;
+            gap: 10px;
+            align-items: flex-start;
+        }
+
+        .filterPopup {
+            width: 90vw;
+            left: 5vw;
+        }
+    }
 }

@@ -10,6 +10,7 @@
     align-items: center;
 
     padding: 0 40px;
+    padding-left: 10px;
     border-bottom: 1px solid rgba(33, 63, 125, 0.1);
     top: 0;
     position: sticky;
@@ -30,6 +31,10 @@
                 font-weight: 700;
                 color: #213F7D;
                 margin: 0;
+
+                span {
+                    display: contents;
+                }
             
                 img {
                     height: 20px;
@@ -110,5 +115,36 @@
                 }                 
             }          
         }       
+    }
+
+    @media (max-width: 768px) {
+        height: 60px;
+        // width: max-content;
+
+        .navItems {
+            .logo {
+
+              margin-right: 0;
+              padding-right: 0;
+            }
+
+            .search {
+                width: 150px;
+                margin-left: 0px;
+                padding-left: 0px;
+            }
+
+            .profile {
+                margin-left: 10px;
+                .docs {
+                    display: none;
+                }
+
+                div span:first-of-type {
+                    display: none;
+                }
+            }
+
+        }
     }
 }

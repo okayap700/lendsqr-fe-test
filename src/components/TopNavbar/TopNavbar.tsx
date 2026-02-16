@@ -11,7 +11,7 @@ export default function TopNavbar () {
                 {/* Logo section */}
                 <div className={styles.logo}>
                     <p>
-                    <img src="src/assets/logo.svg" alt="" />lendsqr
+                        <img src="src/assets/logo.svg" alt="" /> <span>lendsqr</span>
                     </p>
                 </div>
 

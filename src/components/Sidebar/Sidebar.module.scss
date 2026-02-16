@@ -97,7 +97,7 @@
 
 .sidebar {
     font-family: "Work Sans", sans-serif;
-    width: 200px;
+    width: 210px;
     background: #ffffff;
     height: calc(100vh - 100px); // full height minus topNavbar height
     padding-top: 30px;
@@ -105,6 +105,7 @@
     overflow-y: auto;
     display: flex;
     flex-direction: column;
+    transition: width 0.3s ease;
 
     // Custom scrollbar for a cleaner look
     &::-webkit-scrollbar {
@@ -119,7 +120,8 @@
         display: flex;
         align-items: center;
         gap: 10px;
-        padding: 0 20spx 10px 10px; 
+        padding: 0 20spx 10px 10px;
+        padding-left: 10px;
         color: #213f7d;
         cursor: pointer;
         font-size: 16px;
@@ -160,7 +162,7 @@
     .navItem {
         display: flex;
         align-items: center;
-        gap: 12px;
+        gap: 10px;
         width: 100%; 
         padding: 12px 0 12px 10px; // Left padding pushes content in, but item is full-width
         text-decoration: none;
@@ -170,6 +172,11 @@
         border-left: 3px solid transparent; // Pre-allocates space for the active indicator
         opacity: 0.6;
         cursor: pointer;
+
+        span {
+            font-size: 16px;
+            color: #213f7d;
+        }
 
         img {
             width: 16px;
@@ -196,6 +203,37 @@
 
             img {
                 filter: grayscale(0);
+            }
+        }
+    }
+
+    @media (max-width: 768px) {
+        width: 50px;
+
+        .switchOrg {
+            span {
+                display: none;
+            }
+            margin-bottom: 15px;
+        }
+
+        .navGroup {
+            display: none;
+
+            // .navItem { font-size: 10px; }
+            
+        }
+
+        p {
+            display: none;
+        }
+
+        .navItem {
+            justify-content: center;
+            padding: 15px 0;
+
+            span {
+                display: none;
             }
         }
     }
