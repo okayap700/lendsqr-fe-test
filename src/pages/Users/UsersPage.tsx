@@ -270,11 +270,10 @@ export default function UsersPage() {
                         )}
                       </div>
                     </td>
-                    <td>
+                    <td onClick={(e) => {e.stopPropagation(); toggleRowExpansion(user.id); } }>
                       <img
                         src="src/assets/dropdownIcon_single.svg" alt=""
                         className={styles.mobileDropDownIcon} 
-                        onClick={(e) => {e.stopPropagation(); toggleRowExpansion(user.id); } }
                       />
                     </td>
                   </tr>
