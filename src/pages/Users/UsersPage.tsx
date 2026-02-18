@@ -214,54 +214,56 @@ export default function UsersPage() {
             <tbody>
               {currentUsers.map((user: User) => (
                   <tr
-                  key={user.id}
-                  onClick={() => handleUserClick(user)}
-                  className={styles.row}>
+                    key={user.id}
+                    onClick={() => handleUserClick(user)}
+                    className={styles.row}>
                     <td>{user.organization}</td>
                     <td>{user.personalInfo.firstName} {user.personalInfo.lastName}</td>
                     <td>{user.personalInfo.email}</td>
                     <td>{user.personalInfo.phoneNumber}</td>
                     <td>{user.dateJoined ? format(new Date(user.dateJoined), "MMM dd, yyyy hh:mm a") : "" }</td>
                     <td>
-                    <div className={styles.statusCell}>
-                      <span className={`${styles.pill} ${styles[user.status]}`}>{user.status}</span>
-                      <img
-                        className={styles.moreIcon}
-                        src="src/assets/moreIcon.svg"
-                        alt=""
-                        onClick={(e) => {
-                          e.stopPropagation();       // to prevent row click spilling
-                          toggleMore(user.id);
-                        }}
-                      />
-                      {isMoreOpen === user.id && (
-                        // <form action="" className={styles.moreMenu}>
-                          <div
-                            className={styles.moreMenu}
-                            onClick={(e) => {e.stopPropagation(); }}>
-                            {user.status === "active" && <p>
-                            <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                              <span className={styles.menuItem}><img src="src/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
-                            </p>  }
-                            {user.status === "blacklisted" && <p>
+                      <div className={styles.statusCell}>
+                        <span className={`${styles.pill} ${styles[user.status]}`}>{user.status}</span>
+                        <img
+                          className={styles.moreIcon}
+                          src="src/assets/moreIcon.svg"
+                          alt=""
+                          onClick={(e) => {
+                            e.stopPropagation();       // to prevent row click spilling
+                            toggleMore(user.id);
+                          }}
+                        />
+                        {isMoreOpen === user.id && (
+                          // <form action="" className={styles.moreMenu}>
+                            <div
+                              className={styles.moreMenu}
+                              onClick={(e) => {e.stopPropagation(); }}>
+                              {user.status === "active" && <p>
                               <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
-                            </p>  }
-                            {user.status === "pending" && <p>
-                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                              <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
-                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
-                            </p>  }
-                            {user.status === "inactive" && <p>
-                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                              <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
-                              <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
-                            </p>  }
-                          </div>
-                        // {/* </form> */}
-                      )}
-                    </div>
+                                <span className={styles.menuItem}><img src="src/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
+                              </p>  }
+                              {user.status === "blacklisted" && <p>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
+                              </p>  }
+                              {user.status === "pending" && <p>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                              </p>  }
+                              {user.status === "inactive" && <p>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                              </p>  }
+                            </div>
+                          // {/* </form> */}
+                        )}
+                      </div>
+                      
                     </td>
+                    <td><img src="src/assets/dropdownIcon_single.svg" alt="" className={styles.mobileDropDownIcon} /></td>
                   </tr>
               ))}
             </tbody>

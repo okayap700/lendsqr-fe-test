@@ -110,6 +110,7 @@
         overflow-x: auto;
 
         .table {
+            table-layout: auto;
             width: 100%;
             border-collapse: collapse;
 
@@ -240,6 +241,8 @@
                     &:last-child { border-bottom: none; }
                     &:hover { background-color: rgba(57, 205, 204, 0.03); }
 
+                    .mobileDropDownIcon { display: none; }
+
                     td {
                         cursor: pointer;
                         height: 50px;
@@ -250,6 +253,10 @@
                         padding: 20px 10px;
                         font-size: 14px;
                         white-space: nowrap;
+                    }
+
+                    &:last-child {
+                        width: 0;
                     }
 
                     .statusCell {
@@ -457,6 +464,9 @@
 
         .tableWrapper {
             table {
+                td:first-child { width: 40%; }
+                td:nth-child(2) { width: 40%; }
+                td:last-child {width: 20%; }
                 thead {
                     tr th:nth-child(3), th:nth-child(4), th:nth-child(5){
                         display: none;
@@ -466,6 +476,27 @@
                 tbody {
                      tr td:nth-child(3), td:nth-child(4), td:nth-child(5){
                         display: none;
+                    }
+                    
+                    .row { 
+                        .mobileDropDownIcon { display: block !important }
+                        
+                        td {
+                            .statusCell {
+                                justify-content: flex-end;
+                                align-self: left;
+                            }
+
+                            :last-child {
+                                min-width: 12px;
+                                position: relative;
+
+                                .moreMenu {
+                                    right: 10px;
+                                    width: 160px;
+                                }
+                            }
+                        }
                     }
                 }
             }
