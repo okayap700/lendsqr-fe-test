@@ -116,8 +116,6 @@
 
             thead {
 
-
-
                 .filterPopup {
                     position: absolute;
                     top: 45px;
@@ -247,17 +245,20 @@
                         cursor: pointer;
                         height: 50px;
                         padding: 20px 10px;
-                        color: #545F7D;
+                        color: #545F7D;;
                         vertical-align: middle;
                         cursor: pointer;
                         padding: 20px 10px;
                         font-size: 14px;
                         white-space: nowrap;
+
+
+                        &:last-child {
+                            display: none;
+                            // width: 0px;
+                        }
                     }
 
-                    &:last-child {
-                        width: 0;
-                    }
 
                     .statusCell {
                         display: flex;
@@ -495,6 +496,10 @@
                                     right: 10px;
                                     width: 160px;
                                 }
+                            }
+
+                            &:last-child {
+                                display: block !important;
                             }
                         }
                     }
