@@ -13,6 +13,7 @@ import { saveUserToStorage } from "../../utils/storage";
 import { type User } from "../../types/user";
 
 import styles from "./UsersPage.module.scss";
+import { tr } from "date-fns/locale";
 
 export const UserContext = createContext<{ users: User[] } | null>(null);
 
@@ -52,6 +53,12 @@ export default function UsersPage() {
 
     const [isFilterOpen, setIsFilterOpen] = useState(false);
     const [isMoreOpen, setMoreOpen] = useState<string | null>(null);
+
+    const [expandedRow, setExpandedRow] = useState<string | null>(null);
+
+    const toggleRowExpansion = (userId: string) => {
+      setExpandedRow (expandedRow === userId ? null : userId)
+    }
 
     const toggleFilter = () => {
       setIsFilterOpen(!isFilterOpen);
@@ -213,6 +220,7 @@ export default function UsersPage() {
 
             <tbody>
               {currentUsers.map((user: User) => (
+                <>
                   <tr
                     key={user.id}
                     onClick={() => handleUserClick(user)}
@@ -261,10 +269,30 @@ export default function UsersPage() {
                           // {/* </form> */}
                         )}
                       </div>
-                      
                     </td>
-                    <td><img src="src/assets/dropdownIcon_single.svg" alt="" className={styles.mobileDropDownIcon} /></td>
+                    <td>
+                      <img
+                        src="src/assets/dropdownIcon_single.svg" alt=""
+                        className={styles.mobileDropDownIcon} 
+                        onClick={(e) => {e.stopPropagation(); toggleRowExpansion(user.id); } }
+                      />
+                    </td>
                   </tr>
+                  {expandedRow === user.id && (
+                    <tr
+                      // key={user.id}
+                      // onClick={() => handleUserClick(user)}
+                      className={styles.expandedRow}>
+                        <td colSpan={7}>
+                          <div className={styles.expandedContent}>
+                            <p><strong>Email:</strong> {user.personalInfo.email}</p>
+                            <p><strong>Phone:</strong> {user.personalInfo.phoneNumber}</p>
+                            <p><strong>Date Joined:</strong> {user.dateJoined ? format(new Date(user.dateJoined), "MMM dd, yyyy hh:mm a") : ""}</p>
+                          </div>
+                        </td>
+                    </tr>
+                  )}
+                </>
               ))}
             </tbody>
           </table>

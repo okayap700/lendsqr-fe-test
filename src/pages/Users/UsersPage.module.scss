@@ -488,18 +488,40 @@
                                 align-self: left;
                             }
 
-                            :last-child {
-                                min-width: 12px;
-                                position: relative;
-
-                                .moreMenu {
-                                    right: 10px;
-                                    width: 160px;
-                                }
-                            }
-
                             &:last-child {
                                 display: block !important;
+                            }
+                        }
+                    }
+
+                    .expandedRow {
+                        background: #F9FAFC;
+
+                        td { padding: 15px 20px;}
+
+                        .expandedContent {
+                            display: flex;
+                            flex-direction: column;
+                            gap: 8px;
+
+                            p {
+                                font-size: 14px;
+                                color: #545F7D;
+                            }
+
+                            strong {
+                                color: #213F7D;
+                                font-weight: 500;
+                            }
+
+                            @keyframes fadeDown {
+                                from {
+                                    opacity: 0;
+                                    transform: translateY(-5);
+                                } to {
+                                    opacity: 1;
+                                transform: translateY(0);
+                                }
                             }
                         }
                     }
