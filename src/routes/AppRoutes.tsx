@@ -6,7 +6,7 @@ import LoginPage from "../pages/Login/LoginPage";
 // import DashboardPage from "../pages/Dashboard/DashboardPage";
 import UsersPage, { UserProvider } from "../pages/Users/UsersPage";
 import UserDetailsPage from "../pages/UserDetails/UserDetailsPage";
-import Layout from "../components/Layout/Layout";
+import Layout from "../components/Layout/Layout.tsx";
 
 export default function AppRoutes () {
     return (
