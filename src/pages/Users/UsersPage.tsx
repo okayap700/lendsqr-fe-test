@@ -13,7 +13,6 @@ import { saveUserToStorage } from "../../utils/storage";
 import { type User } from "../../types/user";
 
 import styles from "./UsersPage.module.scss";
-import { tr } from "date-fns/locale";
 
 export const UserContext = createContext<{ users: User[] } | null>(null);
 
