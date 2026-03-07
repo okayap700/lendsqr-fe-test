@@ -56,12 +56,12 @@ export default function UserDetailsPage() {
                         <p>User's Tier</p>
                         <div className={styles.stars}>
                             {/* render solid stars equal to user tier */}
-                            {[...Array(user.tier)].map((_, i) => (
+                            {[...Array(user.tier)].map((_, ) => (
                                 <img key={`solid-$(i)`} src="../src/assets/starSolid.svg" alt="" />
                             ))}
 
                             {/* render outline star equal to total minus user tier */}
-                            {[...Array(3 - user.tier)].map((_, i) => (
+                            {[...Array(3 - user.tier)].map((_,) => (
                                 <img key={`outline-$(i)`} src="../src/assets/starOutline.svg" alt="" />
                             ))}
                         </div>
