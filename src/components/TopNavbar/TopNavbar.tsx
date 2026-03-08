@@ -11,14 +11,14 @@ export default function TopNavbar () {
                 {/* Logo section */}
                 <div className={styles.logo}>
                     <p>
-                        <img src="src/assets/logo.svg" alt="" /> <span>lendsqr</span>
+                        <img src="/assets/logo.svg" alt="" /> <span>lendsqr</span>
                     </p>
                 </div>
 
                 {/* Search bare */}
                 <div className={styles.search}>
                     <input placeholder="Search for anything" />
-                    <button><img src="src/assets/searchIcon.svg" alt="" /></button>
+                    <button><img src="/assets/searchIcon.svg" alt="" /></button>
                 </div>
 
                 {/* Profile section */}
@@ -26,12 +26,12 @@ export default function TopNavbar () {
                     <a href="#docs" className={styles.docs}>Docs</a>
 
                     <div className={styles.notification}>
-                        <img src="src/assets/notificationIcon.svg" alt="" />
+                        <img src="/assets/notificationIcon.svg" alt="" />
                     </div>
                     <div className={styles.userSection}>
-                        <img src="src/assets/avatar.png" alt="" className={styles.avatar}/>
+                        <img src="/assets/avatar.png" alt="" className={styles.avatar}/>
                         <span className="employee">Adedeji</span>
-                        <span className={styles.dropdownIcon}><img src="src/assets/dropdownIcon_single_solid.svg" alt="" /></span>
+                        <span className={styles.dropdownIcon}><img src="/assets/dropdownIcon_single_solid.svg" alt="" /></span>
                     </div>
                 </div>
             </div>

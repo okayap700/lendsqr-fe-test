@@ -30,7 +30,7 @@ export default function UserDetailsPage() {
             {/*Back navigation */}
             <p
             className={styles.backBtn}
-            onClick={() => navigate(-1)}><img src="../src/assets/backArrow.svg" alt="" /> Back to Users</p>
+            onClick={() => navigate(-1)}><img src="/assets/backArrow.svg" alt="" /> Back to Users</p>
 
             {/* Page header */}
             <div className={styles.header}>
@@ -44,7 +44,7 @@ export default function UserDetailsPage() {
             {/* User summary card */}
             <div className={styles.summaryCard}>
                 <div className={styles.topInfo}>
-                    <div className={styles.userAvatar}><img src="../src/assets/userAvatar.svg" alt="" /></div>
+                    <div className={styles.userAvatar}><img src="/assets/userAvatar.svg" alt="" /></div>
                     <div className={styles.userName}>
                         <h2>{user.personalInfo.firstName} {user.personalInfo.lastName}</h2>
                         <p>{user.id}</p>
@@ -57,12 +57,12 @@ export default function UserDetailsPage() {
                         <div className={styles.stars}>
                             {/* render solid stars equal to user tier */}
                             {[...Array(user.tier)].map((_, ) => (
-                                <img key={`solid-$(i)`} src="../src/assets/starSolid.svg" alt="" />
+                                <img key={`solid-$(i)`} src="/assets/starSolid.svg" alt="" />
                             ))}
 
                             {/* render outline star equal to total minus user tier */}
                             {[...Array(3 - user.tier)].map((_,) => (
-                                <img key={`outline-$(i)`} src="../src/assets/starOutline.svg" alt="" />
+                                <img key={`outline-$(i)`} src="/assets/starOutline.svg" alt="" />
                             ))}
                         </div>
                     </div>

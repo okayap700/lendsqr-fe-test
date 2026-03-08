@@ -144,7 +144,7 @@ export default function UsersPage() {
           </div>
 
           <div>
-            <img src="src\assets\usersWithSavings.svg" alt="" />
+            <img src="\assets\usersWithSavings.svg" alt="" />
             <span>USERS WITH SAVINGS</span>
             <h2>102,453</h2>
           </div>
@@ -155,7 +155,7 @@ export default function UsersPage() {
           <table className={styles.table}>
             <thead>
               <tr>
-                <th>ORGANIZATION <img src="src/assets/dropdownIcon.svg" alt="" onClick={toggleFilter} />
+                <th>ORGANIZATION <img src="/assets/dropdownIcon.svg" alt="" onClick={toggleFilter} />
                   {isFilterOpen && (
                     <div className={styles.filterPopup}>
                       <form>
@@ -209,11 +209,11 @@ export default function UsersPage() {
                     </div>
                   )}
                 </th>
-                <th>USERNAME <img src="src/assets/dropdownIcon.svg" alt="" /></th>
-                <th>EMAIL <img src="src/assets/dropdownIcon.svg" alt="" /></th>
-                <th>PHONE NUMBER <img src="src/assets/dropdownIcon.svg" alt="" /></th>
-                <th>DATE JOINED <img src="src/assets/dropdownIcon.svg" alt="" /></th>
-                <th>STATUS <img src="src/assets/dropdownIcon.svg" alt="" /></th>
+                <th>USERNAME <img src="/assets/dropdownIcon.svg" alt="" /></th>
+                <th>EMAIL <img src="/assets/dropdownIcon.svg" alt="" /></th>
+                <th>PHONE NUMBER <img src="/assets/dropdownIcon.svg" alt="" /></th>
+                <th>DATE JOINED <img src="/assets/dropdownIcon.svg" alt="" /></th>
+                <th>STATUS <img src="/assets/dropdownIcon.svg" alt="" /></th>
               </tr>
             </thead>
 
@@ -234,7 +234,7 @@ export default function UsersPage() {
                         <span className={`${styles.pill} ${styles[user.status]}`}>{user.status}</span>
                         <img
                           className={styles.moreIcon}
-                          src="src/assets/moreIcon.svg"
+                          src="/assets/moreIcon.svg"
                           alt=""
                           onClick={(e) => {
                             e.stopPropagation();       // to prevent row click spilling
@@ -247,22 +247,22 @@ export default function UsersPage() {
                               className={styles.moreMenu}
                               onClick={(e) => {e.stopPropagation(); }}>
                               {user.status === "active" && <p>
-                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                                <span className={styles.menuItem}><img src="src/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
+                              <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}><img src="/assets/activateUserIcon.svg" alt="" /> Blacklist User</span>
                               </p>  }
                               {user.status === "blacklisted" && <p>
-                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="/assets/blacklistUserIcon.svg" alt="" />Activate User</span>
                               </p>  }
                               {user.status === "pending" && <p>
-                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                                <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
-                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                                <span className={styles.menuItem}> <img src="/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
                               </p>  }
                               {user.status === "inactive" && <p>
-                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="src/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
-                                <span className={styles.menuItem}> <img src="src/assets/activateUserIcon.svg" alt="" /> Activate User</span>
-                                <span className={styles.menuItem}> <img src="src/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
+                                <span className={styles.menuItem} onClick={() => {handleUserClick(user)}}> <img src="/assets/viewDetailsIcon.svg" alt="" /> View Details</span>
+                                <span className={styles.menuItem}> <img src="/assets/activateUserIcon.svg" alt="" /> Activate User</span>
+                                <span className={styles.menuItem}> <img src="/assets/blacklistUserIcon.svg" alt="" /> Blacklist User</span>
                               </p>  }
                             </div>
                           // {/* </form> */}
@@ -271,7 +271,7 @@ export default function UsersPage() {
                     </td>
                     <td onClick={(e) => {e.stopPropagation(); toggleRowExpansion(user.id); } }>
                       <img
-                        src="src/assets/dropdownIcon_single.svg" alt=""
+                        src="/assets/dropdownIcon_single.svg" alt=""
                         className={styles.mobileDropDownIcon} 
                       />
                     </td>
@@ -297,8 +297,8 @@ export default function UsersPage() {
 
         </div>
         {/* <span>
-          <button onClick={ goToPreviousPage } disabled= { currentPage === 1 }><img src="src/assets/previousPageBtn.svg" alt="" /></button>
-          <button onClick={ goToNextPage } disabled={ currentPage === totalPages }><img src="src/assets/nextPageBtn.svg" alt="" /></button>
+          <button onClick={ goToPreviousPage } disabled= { currentPage === 1 }><img src="/assets/previousPageBtn.svg" alt="" /></button>
+          <button onClick={ goToNextPage } disabled={ currentPage === totalPages }><img src="/assets/nextPageBtn.svg" alt="" /></button>
         </span> */}
 
         <div className={styles.paginationContainer}>
@@ -326,7 +326,7 @@ export default function UsersPage() {
               onClick={ goToPreviousPage }   // () => setCurrentPage(prev => Math.max(prev - 1, 1))
               disabled={currentPage === 1}
               className={styles.arrowBtn}
-            ><img src="src/assets/next" alt="" /></button>
+            ><img src="/assets/next" alt="" /></button>
             {getPaginationRange().map((page, index) => (
               <button
                 key={index}
@@ -337,7 +337,7 @@ export default function UsersPage() {
             <button 
               onClick={ goToNextPage }      // () => setCurrentPage(prev => Math.min(prev + 1, totalPages))
               disabled={currentPage === totalPages}
-              className={styles.arrowBtn}> <img src="src/assets/nextArrow.svg" alt="" /> </button>
+              className={styles.arrowBtn}> <img src="/assets/nextArrow.svg" alt="" /> </button>
           </div>
         </div>
       </div>

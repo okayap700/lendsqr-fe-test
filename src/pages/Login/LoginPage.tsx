@@ -20,9 +20,9 @@ export default function LoginPage() {
         <div className={styles.loginPage}>
             <div className={styles.leftSection}>
             {/*Leftside branding and illustration*/}
-                <h2 className={styles.logo}><img src="src/assets/logo.svg" alt="" />lendsqr</h2>
+                <h2 className={styles.logo}><img src="/assets/logo.svg" alt="" />lendsqr</h2>
                 <div className={styles.illustration}>
-                    <img src="src/assets/loginGimmick.svg" alt="" />
+                    <img src="/assets/loginGimmick.svg" alt="" />
                 </div>
             </div>
 
