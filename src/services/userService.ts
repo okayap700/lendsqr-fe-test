@@ -2,24 +2,26 @@
     single source of truth for user-related network requests
 */
 
+import axios from "axios";
 import { type User } from  "../types/user";
 
-const USERS_API_URL = "http://localhost:4000/users";               // mock api endpoint
+const USERS_API_URL = "/data/db.json";               // mock api endpoint
 
 //fetches all users from the mock api
 export async function fetchUsers(): Promise<User[]> {
     try{
-        const response = await fetch(USERS_API_URL);
+        const response = await axios.get(USERS_API_URL);
 
-        if (!response.ok) {
-            throw new Error("Couldn't fetch users: Check Network Settings");
-        }
+        // if (!response.ok) {
+        //     throw new Error("Couldn't fetch users: Check Network Settings");
+        // }
 
         //parse response into typed objects and return list[]
-        const users: User[] = await response.json();
+        const users: User[] = await response.data.users;
         return users
     } catch (error) {
-        return [];
+        console.log(error);
+        throw new Error("Couldn't fetch users: Check Network Settings");
     }
 }
 
